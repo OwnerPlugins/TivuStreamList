@@ -27,6 +27,10 @@ https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg0
 https://amg00793-amg00793c29-samsung-it-4958.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitalysamsungit-samsungit/playlist.m3u8
 #EXTINF:-1,BBC Topgear
 https://amg00793-amg00793c12-samsung-it-4051.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitalysamsungit-samsungit/playlist.m3u8
+#EXTINF:-1,BBC Drama Italy
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,BBC Top Gear Italy
+https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Bizarro Movies (Digital United Studios)
 https://d7d3864d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9CaXp6YXJyb01vdmllc19ITFM/playlist.m3u8
 #EXTINF:-1,Bloomberg TV+
@@ -137,6 +141,8 @@ https://e5f682608a9344b48223fc78572404d9.mediatailor.us-east-1.amazonaws.com/v1/
 https://d32h23s6aqqn9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aq6ytqej6yqhf/H2O_Friends_IT.m3u8
 #EXTINF:-1,Hell's Kitchen (Italia)
 https://amg00654-itv-amg00654c29-samsung-it-5491.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchenitaly-samsungit/playlist.m3u8
+#EXTINF:-1,Hell's Kitchen Italy
+https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,HGTV Italia
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8%20
 #EXTINF:-1,Hip-Hop TV
@@ -151,6 +157,8 @@ https://amg17293-dynit-amg17293c1-samsung-it-2676.playouts.now.amagi.tv/playlist
 https://63a1d4f96ed24c0690240c27d539636e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_InazumaElevenGo/playlist.m3u8%20
 #EXTINF:-1,Italian Fishing TV
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+#EXTINF:-1,INWILD
+https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Just for Laughs
 https://9f8a69763c69454bb74e827f69f4b93f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_JustForLaughsGags/playlist.m3u8%20
 #EXTINF:-1,K-Pop by CJ ENM
@@ -165,6 +173,8 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg02757-amg02757c7-samsung-it-7021.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkitfast-samsungit/playlist.m3u8
 #EXTINF:-1,Love the Planet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8%20
+#EXTINF:-1,Love The Planet IT (1080p) [Geo-blocked]
+https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Masha
 https://amg01954-amg01954c4-samsung-it-10210.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01954-animaccordltd-mashaeorso-samsungit/playlist.m3u8
 #EXTINF:-1,Masha & Orso
@@ -249,6 +259,8 @@ https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-so
 https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75fzs486ayykg/mov.m3u8
 #EXTINF:-1,Move - Sportivi in Viaggio
 https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75fzs486ayykg/mov.m3u8
+#EXTINF:-1,Mr. Bean Anime Italy
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1,SportOutdoor TV
 https://502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/playlist.m3u8%20
 #EXTINF:-1,Storie Criminali (Love Crime & History)
@@ -283,6 +295,10 @@ https://d1n329euzmul63.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1ncbjs1sfvd8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uco2xgvyj5r3w/playlist.m3u8
 #EXTINF:-1,Vevo Pop
 https://d3lljkiqez7zii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yrcdpqa0iqstp/playlist.m3u8
+#EXTINF:-1,Vevo '90s & '00s Italy
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vevo Pop Italy
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Viaggi & Sapori (Love Fast Travel & Taste Italia)
 https://amg01821-amg01821c18-samsung-it-3198.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-travelandtasteitaly-samsungit/playlist.m3u8
 #EXTINF:-1,Video Game Heroes
@@ -305,6 +321,8 @@ https://amg01290-wildearthmediap-wildearth-samsungit-4i7si.amagi.tv/playlist/amg
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsungelectron-worldpokertour-samsungit/playlist.m3u8
 #EXTINF:-1,Yu-Go-Oh!
 https://amg01796-amg01796c17-samsung-it-7079.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-samsungit/playlist.m3u8
+#EXTINF:-1,Yu-Gi-Oh! Italy
+https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
 #EXTINF:-1,ZDF Guardia Costiera (Kustenwachte)
 https://ddf4da21875f49698bad2f97280760bf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_GuardiaCostiera/playlist.m3u8%20
 #EXTINF:-1,ZDF Squadra Speciale Lipsia (SOKO Leipzig)

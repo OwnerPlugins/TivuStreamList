@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="http://epg-guide.com/wltv.gz,https://i.mjh.nz/SamsungTVPlus/it.xml.gz" x-tvg-url="http://epg-guide.com/wltv.gz,https://i.mjh.nz/SamsungTVPlus/it.xml.gz" max-conn="8"
-
 #EXTINF:-1 tvg-name="Rai 1" tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/317px-Rai_1_-_Logo_2016.svg.png" tvg-chno="1" channel-number="1" group-title="Rai" catchup="default",Rai 1 HD
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
 https://raiuno1-dash-live.akamaized.net/dash/live/652296/raiuno1/manifest.mpd
