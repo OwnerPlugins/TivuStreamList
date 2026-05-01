@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/musical.png" group-title="MUSICA",--- MUSICA = RADIO TV ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="MUSICA",---LAST UPDATE 30-04-2026 H. 08.30---
+#EXTINF:-1 group-title="MUSICA",---LAST UPDATE 01-05-2026 H. 08.20---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
@@ -149,6 +149,8 @@ https://9090video.mobtada.com/hls/stream.m3u8
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",EnerGeek Radio
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Extra TV
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Fabulosa Estereo 100.5 FM
@@ -157,6 +159,8 @@ https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Finest TV
 https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",FM ITALIA
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",FM ITALIA
 https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",FM Mundo
@@ -227,6 +231,8 @@ https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Kiss Kiss TV
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Kiss Kiss TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Klape i Tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",KpopTV Play
@@ -455,10 +461,18 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Qwest TV Jazz & Beyond
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",R101 TV
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio 105 TV
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Bonita 106.7
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Capital
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Carnaval TV
 https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Conexion Web TV
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Contact
@@ -473,6 +487,8 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a0
 https://www.idealfm104-7.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Italia Trend TV
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio JND
 https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Karolina TV
@@ -483,6 +499,8 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Monumental TV
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Norba TV
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio RAM
@@ -515,6 +533,8 @@ https://cdn-1.pishow.tv/live/1213/master.m3u8
 https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Rashid AlMajed
 https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Retro Music TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Retro Plus 2
@@ -525,6 +545,8 @@ https://eu1.servers10.com:8081/8090/index.m3u8
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RHT Guadeloupe
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Ritmo 80
+https://str41.fluid.stream/Ritmo80TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RJTV
 https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Rock TV
@@ -533,12 +555,20 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 Bro&Sis
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 Bro&Sis
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 Caliente
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 Disco
+https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 Napule
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 Napulè
+https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 Romeo & Juliet
+https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 Traffic
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 TV
@@ -745,6 +775,8 @@ https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
 https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Virgin Radio
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",VM Latino

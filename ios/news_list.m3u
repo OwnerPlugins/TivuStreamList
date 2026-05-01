@@ -1,14 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 30-04-2026 H. 08.30---
+#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 01-05-2026 H. 08.20---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 group-title="NEWS ITALIA",Africanews
+https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMDRiYmNjMTYtYmIzZS00MTNlLThhZGEtMzRhODViYzg0MTQ4IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Byoblu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Camera dei Deputati
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Cusano News 7
+https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",eTv Marche
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",eTv Rete 7
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Euronews
+https://www.mytivu.it/Application/Channels/Euronews.php
 #EXTINF:-1 group-title="NEWS ITALIA",Giornale Radio TV
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",LaC News 24
@@ -17,11 +27,23 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playli
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",Minformo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Rai News 24
+http://78.130.250.2:8023/play/a04l/index.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 group-title="NEWS ITALIA",Telegela 647
 https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",TG Norba 24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",TGCOM 24
+https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="NEWS ITALIA",TGS Giornale di Sicilia
+https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Urania News
+https://69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 30-04-2026 H. 08.30---
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 01-05-2026 H. 08.20---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8

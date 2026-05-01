@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/sport.png" group-title="SPORT",---LAST UPDATE 30-04-2026 H. 08.30---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/sport.png" group-title="SPORT",---LAST UPDATE 01-05-2026 H. 08.20---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/sport.png" group-title="SPORT",--- SPORT ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
@@ -23,6 +23,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",BIKE Channel
+https://edge-001.streamup.eu/origin/bike_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",CazeTV
@@ -31,12 +33,16 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",CBS Sports HQ
 https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Cittaceleste Tv
+https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",DraftKings Network
 https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Entella TV
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",ESPN8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Esport3
@@ -71,6 +77,8 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Horse TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",InTrouble
 https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",ITV Deportes
@@ -95,6 +103,12 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Motor Trend
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Motori TV
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Nautical Channel
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",NBA TV
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",NBC Sports NOW
@@ -131,10 +145,22 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Racer Select
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Rai Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Rai Sport + HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Right Now TV
 https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SI Lazio Style
+https://distribution.sportitalialive.it/livein/laziostyle/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SI Primavera TV
+https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SI Solo Calcio
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sky Racing 1
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sky Racing 2
@@ -143,10 +169,14 @@ https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sportitalia
+https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Suspilne. Sport
 https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Swerve Sports
@@ -161,6 +191,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Top Calcio 24
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Tour Spot TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TR Sport
