@@ -7,6 +7,9 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Guardian Talk Radio
 https://guaranteenews.in:8443/live/gnews/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",FM ITALIA
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 
