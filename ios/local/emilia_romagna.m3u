@@ -15,6 +15,8 @@ https://live.ipstream.it/etv/etv.stream/chunklist_w802107428.m3u8
 https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/icaro-tv.png" group-title="Emilia Romagna",Icaro Tv
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/icaro-tv.png" group-title="Emilia Romagna",Icaro TV Rimini
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/chunklist_w2105836851.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/madeinbo-radio-tv.png" group-title="Emilia Romagna",MadeinBO Radio Tv
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-bruno-tv.png" group-title="Emilia Romagna",Radio Bruno

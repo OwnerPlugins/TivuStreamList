@@ -11,6 +11,8 @@ https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/trentino-tv.png" group-title="Trentino Alto Adige",Trentino Tv
 https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/trentino-tv.png" group-title="Trentino Alto Adige",Trentino Tv
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tv33-bolzano.png" group-title="Trentino Alto Adige",TV33 Bolzano
 https://64b16f23efbee.streamlock.net/tv33bz/tv33bz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tv33-trento.png" group-title="Trentino Alto Adige",TV33 Trento

@@ -5,6 +5,8 @@ https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.
 https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/calabriauno-tva.png" group-title="Calabria",CalabriaUno TV
 https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/CalabriaTV.png" group-title="Calabria",Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/castrovillari-tv.png" group-title="Calabria",Castrovillari TV
 rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/esperia-tv.png" group-title="Calabria",Esperia TV

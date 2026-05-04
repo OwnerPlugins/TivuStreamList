@@ -45,3 +45,5 @@ https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 https://ed04.top-ix.org/avtvlive/videonovara/streaming/chunklist_w1517872620.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/video-novara.png" group-title="Piemonte",Video Novara
 https://wb.top-ix.org/redirect/avtvlive/videonovara/streaming?type=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/video-novara.png" group-title="Piemonte",Videonovara
+https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
