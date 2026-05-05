@@ -43,10 +43,8 @@ https://tango.wifi4all.it/telecitta/telecitta.m3u8
 https://ovp-live.akamaized.net/ac106_live/ac106_source_001_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/love-in-venice-tele-venezia.png" group-title="Veneto",Love in Venice (Tele  Venezia)
 https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tne-telenordest.png" group-title="Veneto",TNE Telenordest
-https://59d8c0cee6f3d.streamlock.net/telenord/telenord/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tv7-triveneta.png" group-title="Veneto",Triveneta
-http://217.61.26.46:8080/hls/triveneta.m3u8
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tva-vicenza.png" group-title="Veneto",Tva Vicenza
 https://5cdb29755e02b.streamlock.net:1936/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tva-vicenza.png" group-title="Veneto",Tva Vicenza

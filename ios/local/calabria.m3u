@@ -8,7 +8,7 @@ https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/CalabriaTV.png" group-title="Calabria",Calabria TV
 https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/castrovillari-tv.png" group-title="Calabria",Castrovillari TV
-rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
+https://msh0062.stream.seeweb.it/live/flv:stream00.sdp/chunklist_w1297848372.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/esperia-tv.png" group-title="Calabria",Esperia TV
 http://wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1096393748.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/esperia-tv.png" group-title="Calabria",Esperia TV
@@ -35,8 +35,6 @@ https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
 https://media2021.rtvweb.com/promovideo_web/promovideo/chunklist_w926768377.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-digiesse-tv.png" group-title="Calabria",Radio Digiesse
 https://w1.mediastreaming.it/digiesse/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-touring.png" group-title="Calabria",Radio Touring 104
-https://streamingvideo.auranex.cloud/memfs/d6c19098-78a8-4ae7-aa93-82d4ae19b64f.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/reggio-tv.png" group-title="Calabria",Reggio Tv
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rtc-telecalabria.png" group-title="Calabria",R.T.C. Telecalabria
