@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO BY COUNTRY",---LAST UPDATE 11-05-2026 H. 09.52---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO BY COUNTRY",---LAST UPDATE 12-05-2026 H. 08.48---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO BY COUNTRY",--- AD ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
@@ -40089,6 +40089,10 @@ https://stream.ticheradio.sk/tiche.mp3
 https://solid1.streamupsolutions.com/proxy/vhhggmih/stream
 #EXTINF:-1 tvg-logo="" group-title="Slovacchia",Trnavské rádio
 https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO BY COUNTRY",--- SL ---
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="" group-title="SL",Choice FM
+https://stream.zeno.fm/ct0gvk9149puv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO BY COUNTRY",--- SM ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="SM",Usmaradio
