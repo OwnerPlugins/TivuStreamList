@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="HbbTv",--- HbbTv ---
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 15-05-2026 H. 18.05---
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 group-title="ITALIA",Anime Channel	
+https://host2.hbbtv.me:28443/hls/animechannel/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Antenna3 Massa (Toscana)	
+https://media2021.rtvweb.com//antenna3massa/a3/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Best Eventi	
+https://host1.momentotv.live:28443/hls/comson/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Box Tv	
+https://host2.hbbtv.me:28443/hls/vimpresa/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Capri Events	
+https://host2.hbbtv.me:28443/hls/caprievents/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Contrasto Tv	
+https://host2.hbbtv.me:28443/hls/contrastotv/index.m3u8
+#EXTINF:-1 group-title="ITALIA",D'Arte 	
+https://otter.ns0.it:9543/hbbtv01/Stream1/index.m3u8
+#EXTINF:-1 group-title="ITALIA",FF Motor Sport	
+https://host1.momentotv.live:28443/hls/ffmotorsport/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Globe Tv 	
+https://host1.momentotv.live:28443/hls/globetv/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Globus Tv	
+https://5f22d76e220e1.streamlock.net/globustelevision/globustelevision/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Idiots Drive 	
+https://host2.hbbtv.me:28443/hls/idiotcar/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Itaca Tv	
+https://host2.hbbtv.me:28443/hls/itacatv/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Italia Felix Tv	
+https://host1.momentotv.live:28443/hls/italiafelix/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Lab Tv 84	
+https://videodelivery.net/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+#EXTINF:-1 group-title="ITALIA",Mito Italia	
+https://host1.momentotv.live:28443/hls/mito/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Momento Tv	
+https://host1.momentotv.live:28443/hls/momentotv/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Napoletani nel Mondo 	
+https://host2.hbbtv.me:28443/cmaf/napoletaninelmondo/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Paradiso Tv	
+https://host1.momentotv.live:28443/hls/paradisotv/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Pet Mania 	
+https://host1.momentotv.live:29443/petmania/petmania/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Pianeta imprese 	
+https://host2.hbbtv.me:28443/hls/pimprese/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Punto Media	
+https://host1.momentotv.live:29443/puntomedia/puntomedia/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Quadrifoglio Tv 
+https://5dcab9aed5331.streamlock.net/livevideo/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Quarto Canale 	
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/chunks.m3u8
+#EXTINF:-1 group-title="ITALIA",RTR 99Tv (Ti ricordi Tv)	
+https://rtr99.fluid.stream/RTR99TV/livestream/playlist.m3u8?FLID=V&type=.m3u8
+#EXTINF:-1 group-title="ITALIA",Radio Pooh 	
+https://pooh.fluid.stream/RadioPoohTV/livestream/playlist.m3u8?FLID=V&type=.m3u8
+#EXTINF:-1 group-title="ITALIA",Radio Vacri Tv	
+https://host1.momentotv.live:28443/hls/radiovacri/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Sport Channel 	
+https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Studio e Meta Film	
+https://host1.momentotv.live:28443/hls/studiomf/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Tele Pegaso	
+https://stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleComunicare	
+https://host1.momentotv.live:28443/hls/telecomunicare/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleFutura 	
+https://rst2.saiuzwebnetwork.it:8081/telefutura/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleVideoAgrigento	
+https://media2021.rtvweb.com/tva/live/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Teletricolore	
+https://media2021.rtvweb.com/teletricolore/live/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Tutto Tv	
+https://host1.momentotv.live:28443/hls/tuttotv/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Video M Italia	
+https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
