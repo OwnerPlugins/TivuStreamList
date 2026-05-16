@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="REGIONALI ITALIA",---LAST UPDATE 15-05-2026 H. 11.36---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="REGIONALI ITALIA",---LAST UPDATE 16-05-2026 H. 07.19---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/abruzzo.png" group-title="Abruzzo",=== Abruzzo===
@@ -40,7 +40,7 @@ https://samson.streamerr.co:8081/carinatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/set-tv-cilento.png" group-title="Basilicata",Set Tv Cilento
 https://stream1.aswifi.it/settv/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/trm-h24.png" group-title="Basilicata",Trm H24
-https://www.youtube.com/watch?v=-KnQ5OzFFSg
+https://www.youtube.com/watch?v=PRZbtZPPnsc
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/calabria.png" group-title="Calabria",=== Calabria===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
