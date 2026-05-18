@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/family.png" group-title="FAMILY",--- FAMILY ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="FAMILY",---LAST UPDATE 17-05-2026 H. 08.28---
+#EXTINF:-1 group-title="FAMILY",---LAST UPDATE 18-05-2026 H. 10.16---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
@@ -25,14 +25,16 @@ https://avr.host247.net/live/emantv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",MCI Television
 https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FAMILY",MCI Television
+https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Mixkurdy
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Positiv TV
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",Rakuten TV Family Movies
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FAMILY",Rakuten TV Family Movies Germany
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Sevimli TV
@@ -49,7 +51,5 @@ https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",TV Famille
-https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",TVS Family Channel
 https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
