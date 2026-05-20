@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1,Camera dei Deputati
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1,Camera dei Deputati (via RR)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1,Class CNBC
+https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
+#EXTINF:-1,Class CNBC
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classcnbc.m3u8
+#EXTINF:-1,Cusano News 7
+https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+#EXTINF:-1,Euronews
+https://www.mytivu.it/Application/Channels/Euronews.php
+#EXTINF:-1,Euronews IN DIRETTA
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMjYzZDg1ZmYtMzIyMC00ZGY3LTk2M2EtZTQ1ZmE0YzNhMjRhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
+#EXTINF:-1,Euronews Italian
+https://www.youtube.com/user/euronewsit/live
+#EXTINF:-1,Euronews Italiano
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
+#EXTINF:-1,Giornale Radio News Tv
+https://gr2.fluid.stream/GR_sport/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1,Giornale Radio TV
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:-1,Giornale Radio Tv
+https://gr.fluid.stream/GR_tv/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1,L'altro Corriere TV
+https://streamcdnb1-52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/chunklist_b1128000.m3u8
+#EXTINF:-1,L'Altro Corriere Tv
+https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+#EXTINF:-1,Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1,Sky TG24
+https://www.mytivu.it/Application/Channels/SkyTG24.php?m3u8
+#EXTINF:-1,TG Norba 24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTINF:-1,TGCOM 24
+https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+#EXTINF:-1,TGCOM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1,TGS Giornale di Sicilia
+https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
+#EXTINF:-1,TRM h24
+https://www.youtube.com/user/trmh24/live
+
+
+
+
+
+
+
+
+
+
+

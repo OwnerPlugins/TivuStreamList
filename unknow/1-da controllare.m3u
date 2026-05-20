@@ -109,7 +109,7 @@ http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
 http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
 #EXTINF:-1,Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
-#EXTINF:-1,Canale Uno Tiv®
+#EXTINF:-1,Canale Uno Tiv√π
 https://eu1.servers10.com:8081/8096/index.m3u8
 #EXTINF:-1,Canale157
 https://64b16f23efbee.streamlock.net/canale157/canale157/manifest.mpd

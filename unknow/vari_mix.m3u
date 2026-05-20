@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1,4 You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1,4 You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1,5-Minuti Creativi
+https://d266mze7uh4wuz.cloudfront.net/playlist/amg02051-amg02051c7-274/playlist.m3u8#EXTINF:-1,A2i TV (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8#EXTINF:-1,Abc Tv
+https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8
+#EXTINF:-1,Action Movie Channel
+https://d1si3n1st4nkgb.cloudfront.net/10502/88826002/hls/master.m3u8?ads.xumo_channelId=88826002&ads.xumo_streamId=88826002&ads.caid=darkmatteritaly&ads.csid=samsungtvplus_it_darkmatter_ssai&ads.afid=darkmatteritaly&ads.xumo_platform=samsung&ads._fw_content_genre=television&ads._fw_content_language=it&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_h_x_country=IT&ads.xumo_contentId=3480&ads.xumo_contentName=tricoastdarkmatterit&ads.xumo_providerId=3480&ads.xumo_providerName=tricoastdarkmatterit&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_it
+#EXTINF:-1,Africanews
+https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMmQ1ZjAxOWEtYWU5YS00NmIzLTgwMzUtYzMzYzYwZmVhOTY1IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+#EXTINF:-1,Africanews
+https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMGUxZWI3ZDctNWE2MS00ZmZlLWE5YzYtYzQ4YzZiOWVhOTUwIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+#EXTINF:-1,Alberto Sordi & Co
+https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8
+#EXTINF:-1,Africanews
+https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMDRiYmNjMTYtYmIzZS00MTNlLThhZGEtMzRhODViYzg0MTQ4IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+#EXTINF:-1,Bernard L'Orso
+https://daiconnect.com/live/hls/tvup/rk-planetajuniorit/.m3u8
+#EXTINF:-1,Bom Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1,CG Entertainment
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Failarmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Geordie Shore
+https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
+#EXTINF:-1,Pluto - Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1,NTI Canale 271
+https://www.ntimedia.it/video/S0B/S0B_master.m3u8
+#EXTINF:-1,Sony One - Gli imperdibili
+https://15bd51164d444cf0b03f472a0b40381b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-826-IT-SONYONEPOPOLARI-LG_IT/playlist.m3u8
+#EXTINF:-1,The Pet Collective
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,TMW Radio TV
+https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
+#EXTINF:-1,7 YOU & ME (720p)
+https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
