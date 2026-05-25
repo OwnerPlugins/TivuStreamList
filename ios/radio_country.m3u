@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO BY COUNTRY",---LAST UPDATE 24-05-2026 H. 15.59---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO BY COUNTRY",---LAST UPDATE 25-05-2026 H. 10.20---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO BY COUNTRY",--- AD ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
@@ -6937,6 +6937,8 @@ https://stream.zeno.fm/m1r5mm8fv0quv
 https://stream.zeno.fm/m1r5mm8fv0quv
 #EXTINF:-1 tvg-logo="" group-title="Brasile",Rádio Web Cidade
 https://stream.zeno.fm/0faiwrzqvq0tv
+#EXTINF:-1 tvg-logo="" group-title="Brasile",Rádio Web Coopnews
+https://painel.streamcasthost.com/listen/radio_web_coopnews/radio
 #EXTINF:-1 tvg-logo="" group-title="Brasile",Rádio Web Infinito 8
 https://s37.maxcast.com.br:8042/live
 #EXTINF:-1 tvg-logo="" group-title="Brasile",Rádio Web Infinito 8
@@ -7113,6 +7115,8 @@ https://stm3.srvif.com:7726/stream
 https://everest.radionanet.com:8990/stream
 #EXTINF:-1 tvg-logo="" group-title="Brasile",Vagalume.FM - Pink Floyd
 https://stream.vagalume.fm/hls/1498583990653093/aac.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Brasile",Vale fm 95.1
+https://s1.dvr.ovh:6686/stream
 #EXTINF:-1 tvg-logo="" group-title="Brasile",Vale Verde FM 96.7
 https://ice.fabricahost.com.br/valeverdefm
 #EXTINF:-1 tvg-logo="" group-title="Brasile",Vatos Millo HR
@@ -39405,6 +39409,12 @@ https://cast.miradio.in/proxy/radiotropical/stream
 https://c9.radioboss.fm/stream/141
 #EXTINF:-1 tvg-logo="" group-title="Porto Rico",Super K 100.7 FM
 https://grupomedrano.stream-audio.com:8856/SuperK
+#EXTINF:-1 tvg-logo="" group-title="Porto Rico",TRAPFORMATION Radio
+https://sp.unoredcdn.net:8082/;
+#EXTINF:-1 tvg-logo="" group-title="Porto Rico",WABA 850 AM La Grande
+https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Porto Rico",WAPA Radio 680 AM
+https://livestreamcdn.net:2000/stream/WapaRadio
 #EXTINF:-1 tvg-logo="" group-title="Porto Rico",WIAC 740 AM
 https://sp.unoredcdn.net:8044/stream
 #EXTINF:-1 tvg-logo="" group-title="Porto Rico",WRPG-DB Pura Gracia
