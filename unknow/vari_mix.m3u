@@ -4,8 +4,10 @@ https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1,4 You Tv
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1,5-Minuti Creativi
-https://d266mze7uh4wuz.cloudfront.net/playlist/amg02051-amg02051c7-274/playlist.m3u8#EXTINF:-1,A2i TV (1080p)
-https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8#EXTINF:-1,Abc Tv
+https://d266mze7uh4wuz.cloudfront.net/playlist/amg02051-amg02051c7-274/playlist.m3u8
+#EXTINF:-1,A2i TV (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1,Abc Tv
 https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8
 #EXTINF:-1,Action Movie Channel
 https://d1si3n1st4nkgb.cloudfront.net/10502/88826002/hls/master.m3u8?ads.xumo_channelId=88826002&ads.xumo_streamId=88826002&ads.caid=darkmatteritaly&ads.csid=samsungtvplus_it_darkmatter_ssai&ads.afid=darkmatteritaly&ads.xumo_platform=samsung&ads._fw_content_genre=television&ads._fw_content_language=it&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_h_x_country=IT&ads.xumo_contentId=3480&ads.xumo_contentName=tricoastdarkmatterit&ads.xumo_providerId=3480&ads.xumo_providerName=tricoastdarkmatterit&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_it
