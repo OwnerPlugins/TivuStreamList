@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/sport.png" group-title="SPORT",---LAST UPDATE 28-05-2026 H. 10.15---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/sport.png" group-title="SPORT",---LAST UPDATE 29-05-2026 H. 10.04---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/sport.png" group-title="SPORT",--- SPORT ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
@@ -39,6 +39,26 @@ https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",AntenaSport (1280p) [Not 24/7]
 https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport1 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd?ck=OTAwMmVjOGMzZGJjNTVjNWJjY2RjZDY4NzFkODBmZDA6NzA5OTMyNTEyM2JhZTc4MTBkYjUwODcyN2JiMGJjN2QsNzEyMDkwYWFlMjA2NWMyMTk1MWIxNzBiYzMwMDIzMzA6YTk3Nzc0ZTQxNzViODAyMDVjM2NmMTA0ZTk1NzQyMDg=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport10 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd?ck=ZWE1NzM2MDQ3ZGYyNWVkYmI0OGJkMDU1ZDQ4ZWIzZGQ6OGI0MGQzYTQxNTUxNzIyNDI0NWE3OWU5MDdjYjhlZjAsZWU2ODYwYTZiZjdhNWY2Yzg5YmNmMTc5NGQxNmUyNWYEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport2 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd?ck=ZDI1NmI0MDNlZmNjNWMzZGI3MDFmYzY5Njg4NWUxMDI6ZDQ2ZTQyMTVlMjc5YjIyNGU5ZDJhNzcyZGI5Yzc0YTEsYzVlNWFjMWIzY2MxNWZlNzkwZjFiYzk2NTM1ZmUzMjk6M2RlZmU1OWMzODA3OWNjYWQyNWE0MzYyMDBhZDNiZDc=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport3 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd?ck=MjVjM2RmMzIwMjAwNWNjOThjNDc3MDAyOTViZTU5Y2E6MDczZjVhMzlkODRkZDE0YTlkZWJkMWE3MmJiMWYwNTUsM2JlZGY0YTg5NjY5NTk1ODkwN2UwOTg0MTY1MDkwZjA6YTU4MzE3ZmZkZGYzMThmMTU0MGYzMWY2N2Q5NWI1ZmIsY2NlYmVmY2JhMGEzNTQ2YmEzNGQzZmM1ODc2NTE3MDg6MThmMmIyMDI3Y2UyNjg2N2MyM2RjZDdmNTdmYWEyNDU=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport4 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd?ck=ODlkMWRjNTQ2OTJlNWI0ZmI1OTk1ZmMwOTUzYmY1YmY6MzFiODk1M2FiNjBiOTBmZWZjOTNkOWJkMWI4MDZmYmMsNjhjZDY2MWRiYzgzNTJmZGEwMDBjNTMyODQwZjYzNDA6MDI1NWZiNjIwZjRmNzA3ZWE3YmEwOTAwNTg3MTgzMDY=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport5 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd?ck=MzRhNzA5YmJlYWMwNTJmMjkzYzc3OGMwNzcwODI5ZmQ6MmI4MDFmZGUxYWQ0ODM5ZDQwODBkNmVjNmIwZWM0Y2VlNDczZWM1ZDk2ZjQ1YTlmOWEyMmViNjY1YjViMWVhOTphY2U1NGNlMTViNjlkMjQ5YjAwMzk1YzllNmI4NWI5MA==&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport6 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd?ck=YmZkOGZmMDRhMzYyNWZjZWE4MzM1Yzk1NzU0MDE2OTc6NzY5ZDYxYTJkNmZkNzAzMGE1MDg4ZGYyZTcwYzI2NTQ1YTg2ZTQyYzU4Y2Y1ZDAwODU0Njg2MWMwZjBmYjIyYTo2N2IxMTcyYTA1YmNiMzhhOTFhMzA0ZDcwOThjZTdmNQ==&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport7 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd?ck=NWQ0YjUwMDVkYmQzNTU1NTliM2M3ZmU0ZGFlMWZiMDU6MTBlNjVhNWI3NDE1ODIxNjE5MGU2NTRjZGYwNWI1ODQsNTk5ODI2NWVmOGZjNTc0ODgyMmZlZjk2MjI5ODMxYWE6OTExMGI2YmUzMWI0YmJkY2U2NzM3NGJhZTMzOTUyNjk=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport8 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd?ck=YzZmYzViMjdiNzRlNWI4ZTgyY2ExOWRhNDg0ZWIxNzQ6NTFmOGZkNWVlZjczNmRjY2FlYTkyMzViNjIxNzMxZTcsYjllOTU0NmJjOWJhNTJkMWE3NWZiYTkyMjJlZmE3ZjU6MmNlYzY1YzZiNzliZTZjMmQ0NDgxYzZlMGVmNzliZmM=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Arena Sport9 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd?ck=YTJmZjM3MmEyMWIzNTY1M2E4ODU5MmFiZmVjM2Y5YTc6ZDViYzI1MDg4ZDFmZGExMjg0OWFhZDkwNzE2ZGU3NTAsOTFhNTZmNWFhYjRjNTZjYjg4ZmJmNzg3MTg3YWNhZmU6MDAwMDgxNjA3OWE1ZWM0ZjA5M2UzMjc0YmRhMjZmMmE=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
 #EXTINF:-1 tvg-logo="" group-title="SPORT",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Astrahan.Ru Sport
@@ -73,6 +93,22 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Billiard TV (1080p)
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Blue Sport 1 [CH]
+https://sunzrh1-0-dashenc-live.zahs.tv/HD_blue_sport_1_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQJUGA3UKN2EIQ4EILJUIM3DCNRRIM3UGMRUGQ3UIM2EEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOBZGQTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL43DKMZQG5TDQYJYGYYGKNBQMQ4TSZBYGUYTONJQMMZGCMBSHBTDOJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=YmQwNTRmZGM5NTBiNGQ2ZmQ0MzU4MThkOTE1NjFmNWY6YWM0Yzc5NjEyNDE1OTUxYTk4NzYzYzg2NWQ1MDdjMGE=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Blue Sport 2 [CH]
+https://sunzrh1-1-dashenc-live.zahs.tv/HD_blue_sport_2_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQJWGE2DCRRTGBATOLJSG5AUIMZQIZBTMOJVGMYTGOCEEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJQGMTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL43TMMLBHAZGENLFHFQTSMBRMRQWENJVMU2DAZRUMNQWIOBTMI4TMJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=NjFkZjZmY2QyOWEyZWVkMjRiOTE2MTRhNzIxM2Q4ZWY6ODEzMDAzYTBhZTRlMzU2NTkyMmEzNjlkMmEzZTYyNWY=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Blue Sport 3 [CH]
+https://sunlau1-0-dashenc-live.zahs.tv/HD_blue_sport_3_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQKEIY4TKRBUIRBTQLJTGQYEGQRZHAYEGN2GGIZTCRJTEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJTG4TGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL42DCYRXGMZWCNRYGI3DGNJWMFRWMZDDGUZDGZBXHAYWGYRZG5QTQJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=ODZiNTgzZTY4OTkwYTlkMThjNTk1YWFhOGJiNTYwZDI6MDZjMDUwM2MzZDgyYTlmZTIyNWYzNDVlOTU0NDk0ZGI=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Blue Sport 4 [CH]
+https://zh4-7-dashenc-live.zahs.tv/HD_blue_sport_4_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYTEOJQIRDDMNCBGNBEMLJUGRCDCNCBGM3TARJRHBCDQQKCEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTAMBRGYTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL42DCZDDMJSDKZRSHBRTQNRWMQ4DEYRTMU4WGNZZGM3TIOJSGY4TCJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=MzI5MmVhOWEwZjEwNzc3NWZlMWYxNzFhYTY0MDdkNTA6MzUzYmZkOTRhMTM3ZTEyYjdmODQ1MGU0NTYyNTU4ODE=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Blue Sport 5 [CH]
+https://sunzrh1-1-dashenc-live.zahs.tv/HD_blue_sport_5_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQJWGE2DCRRTGBATOLJSG5AUIMZQIZBTMOJVGMYTGOCEEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJQGMTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL43TMMLBHAZGENLFHFQTSMBRMRQWENJVMU2DAZRUMNQWIOBTMI4TMJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=Mjk1MjgwMzcxYTIwMDAzMzA5MjZiNjY2NzMyNmVlOGQ6OWYwY2UxOTUyNTk0YjE3OWZlMzFlNmEyNzg4ZGIxYzY=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Blue Sport 6 [CH]
+https://sunlau1-0-dashenc-live.zahs.tv/HD_blue_sport_6_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQSBGNCUMOBQGAZDQLJRGFCUMNBWGY2ECQ2DGNBDCMCCEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJYHETGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL42TKOBTGEZDKOBXGZTDSMJVMQ3WEYRVHEZTKNJUGY2WKMZQMIZDQJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=OGU3MDRiM2QwNjJhMmJlYjgyZGU4ZmIzYWI5MDZjNDk6MmI5ZjQ4YzE3MWQ0ZjA1YjVkMmYxZjg4OGI3NjEwNWU=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Blue Sport 7 [CH]
+https://sunlau1-0-dashenc-live.zahs.tv/HD_blue_sport_7_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQSCHE2EKOBQGU2TQLJSGY3UKNJUIYYEGOJYHAZEGOJQEZSHE3J5MV4HA2LSMF2GS33OHIYTOOBQGEYTQOJZGUTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRVL5RDEOLDGM4DSZLDMQYDSMJWGJSTGYTBMU2DMZRQGEYGMMDBGQZGGJTTOVRHI2LUNRSXGPLINFXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=N2M3Mzk2ZTZhM2RiNzcxOGQ2YWVlNDFkYzMzYzk5Yzc6ZWQ2YWEyNGZhNTE5NDFkYTk3M2Q1MGYwODlmMTYxZjA=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Blue Sport 8 [CH]
+https://sunlau1-1-dashenc-live.zahs.tv/HD_blue_sport_8_live_ch/m_drm_playready.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCCGIYUCQSCGRCDCQ2GINAUGLJYGAZECMSFII4TAOBVIQ2DSNBGMRZG2PLFPBYGS4TBORUW63R2GE3TQMBRGE4DSOJUEZUW42LUNFQWY4TBORST2MRQGAYDAJTNMF4HEYLUMU6TEMBQGAYCM3LJNZZGC5DFHUYTAMBQEZYHEZLGMVZHEZLEL5WGC3THOVQWOZJ5MVXCM43JM46TENK7MMYDGNDDHEZWCNJWMVSDONRZMNSTMNDFGM2DQYRRHFRTENRSGEZCM43VMJ2GS5DMMVZT22DJXALFSI6ETIZJH2N5CFT2CFOKPFDVDTZUVR7Q3L26UG74SWYGMY6X7MA46Q&ck=OWJiODA3YjNjZDU4YWY4MjcyNzgyN2JlZjE3YjY1NGY6N2U0NTU1ZDgyMjBjNDZmNGY3OTMwNjc5ZWQyYWE2ZjY=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Canal do Inter (720p) [Not 24/7]
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",CazeTV
@@ -107,14 +143,36 @@ http://200.125.170.122:8000/play/a03j/index.m3u8
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Como TV 1
+https://comofootball.mocdn.tv/out/v1/ac7a76c678594a03a8e05392a796f125/index_L1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Como TV 2
+https://comofootball.mocdn.tv/out/v1/c10b9e41c1a34a598cb5e9a345b3a325/index_L1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Como TV 3
+https://comofootball.mocdn.tv/out/v1/ffb389a49afc49338e2cc17724a649aa/index_L1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Como TV 4
+https://comofootball.mocdn.tv/out/v1/617c01e7d8c241d2b1152decbfa60339/index_L1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Como TV 5
+https://comofootball.mocdn.tv/out/v1/e8d4fec57cd24447babe9fbe0151007c/index_L1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Cricket Gold (1080p)
 https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Dazn 1 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MzliY2JjOTQxOGFhNGQ2MmI5NmI2YTNlYWUyZjZkZjA6YThmOTY4YjZhOGVkN2JmYjE3YmY3ODdiNmM5MzBjN2U=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Dazn 2 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MzgwNWNkNTMzYzEzNDFhNzkzNGQxMzYyOWViN2EzNGU6MjU0MjU2NDkyOGNiOGUzZmU0NTk1YWI4ZGNmZDZlNzc=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Dazn 3 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=NzIyNGYyYTZhMTRhNGQ4ODg3NGQxMGRkOTUzYzg4ZGM6OTcxOWVhMjM4ZDNkZTY2ZWIwNzNjZTg0MjgxNGY0NjQ=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Dazn 4 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MGI2ZTVmZTViMWQxNDBiMDkyZTIyY2M2NjIwODgyNzY6NmJkZDc2YWRiYzViYjI1MDg5OTgzYjI1MDBkZGU3Y2E=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Dazn 5 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=ZDkzMWQ2NzE4ODQxNDVkZmIzOTJiZTBjYWRlNTA4OGM6YmVlZTM5NTWZm6AgawQ38QJHDTYXnkxMDT3d3zrYbaQ=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN Combat (1080p)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN Combat Poland
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",DAZN Combat Poland
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",DC TV [UK]
+https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd?ck=MTFjODNmNzE3NDRlNDAyMDllZDEyYjFjZTIzNGQwNTU6ODMyNzliZDg2YzhmNzE2NTY0NDBhZjFhYmFmNDNmMGE=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",DD Sports
@@ -137,6 +195,14 @@ https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",DSports Uruguay
 https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eleven Sport 1 [PL]
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd?ck=NTI1YTlkYTIxMjAwNDVhNjk3MzcwOWRiY2Q2ODU2MDk6ZDhhNzU3OGQ4MWNlNzU0NzU1YTUwM2FkOGFjOThlYzA=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eleven Sport 2 [PL]
+https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd?ck=MmNkMTJlYWNhNWMxNGIzMGEzMjgwYjFhODk0ODQ4MDk6ZTJjMTRmNmNjMjQ1YzFhNWViYmNlOGM4YzcwNGZjNmM=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eleven Sport 3 [PL]
+https://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd?ck=ZTAwNmRhYjM5NjcxNGMwYjlkZDYyMjgyNTVjMWI3MDk6MmNkZjQ0ZTk2MGJiYzRkMjc2OTY4MDEyZmU2NTkyNzI=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eleven Sport 4 [PL]
+https://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd?ck=M2U5NDNhZDI4ODk2NGM3NzkxN2NjNjU0ZmM2MGQxMDk6MThjZjA3MTA2NTA3ZjQxMTIxMGM0YTI2ZDkwMWE5ZTQ=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Equidia (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",ERT Sports 1 (1080p)
@@ -155,6 +221,18 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Esport3 Originals
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 1 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd?ck=MTYzMzAzYTg4MzgyNDk3N2IwNWQ3MzU3ZGE4MmY0ODc6NDBkNWUxMTk4ZDIzYWFhZDkwNzliZGM4ODFmMmNhNWE=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 2 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd?ck=ZWRiNDBkYTgzMmM0NDk1N2I0OWEzMDM1MWViY2NlZTM6Mzc5NzkwNDRmZDQ4MGFlMTBhNDQxYzZjODU0N2IzOGE=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 3 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd?ck=MWYwZGIzMTlhMWUzNDkyY2EwMmQxZGJjZmVmMTc2YWM6ZWYzYmMzYjE1Y2FmMzMwNjRkMWU4ZjlkMGI0NmI0YjE=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 4 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd?ck=ZWFkZTdhYTIzMTRhNDA3ZGE4MjBkNmM4MTE2N2NiOTA6YzZiNzAxZGFlNmM4YmRlYWQyY2JlNmVjZGUwNzY5YmI=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 5 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd?ck=ZGE5ZTg1ZTBhNmY0NDU5ZjkzNDRjZGI1NDRjMjJhNGU6NmFmM2ExZjA5MTFkYTFlNWY2YTE5Njg3MmFiNWZiZmU=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 6 (it)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd?ck=NzM5NTk4NmZkNDZkNGQwYWI0NzI0NzFjMjI0NjIxZTM6YWRmMWY0MGE4ZGI1MmUzMTlhMThjYTAwYTRkYmUwYWE=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",F1 Channel (1080p) [Geo-blocked]
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",F1 Channel (720p)
@@ -319,6 +397,8 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="" group-title="SPORT",HTV Thể thao (1080p) [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Inter TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",InTrouble
 https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",InTrouble
@@ -349,6 +429,8 @@ https://93.184.10.248/JordanSport/index.m3u8
 http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Jordan Sport 2 (1080p) [Geo-blocked]
 https://jrtv-live.ercdn.net/learning2/learning2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Juventus Play
+https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",K19
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",KCMN-LD 42.6
@@ -703,8 +785,26 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sport 1 (1280p)
 http://46.149.191.217:9005/play/a017
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SPORT 1 [CZ]
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd?ck=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmNzk5OWQ2NzczOWQ=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SPORT 2 [CZ]
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd?ck=MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmNzk5OWQ2NzczOWQ=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sport Italia (1080p)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sport TV 1 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=YzJiYWM5YzM5M2YxNDVmYzkyNGNlNTcyY2E5OTE1NmY6NDVmNjYzN2VlZjgwZWFmYmU3ZTYzMDIzMTEzOWRmNWI=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sport TV 2 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MGQyOGVkZjRmMDU1NDA5YmIxMmQ2ZDAyNjBiMjZiNmI6YmY2OWY4YTMzYzM5YzMxZjVmZjA2YWI1MjAxMmUyN2M=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sport TV 3 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=MjA2ZmVjNTZmNWI3NDFlNWFhODExMjQ4OTVkOWI1OTI6MjdiOTE1MDVhYTY5MjZmNTkxOTljODI4YmMyNzc2N2I=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sport TV 4 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=Y2MwYjdhYzMxYjVlNDJmOGJmOTM0Zjk5YWNmNzFhOGE6ZDc2NDI0ZDY0NGEzNjAwNTY1NjdhMjQ4ZDhiODliNmM=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sport TV 5 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=ODFjYTQzNGM5MzFhNDAzZTk1MGRmM2Q4MDhjMjRjNDE6MTg1NDgxOTBjZjNjODI5NDA5NmFmOGEyMTQ2ZTMyYTU=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sport TV 6 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=ZDMxOWFhYjAyYTgzNDIyNDhjY2ViMGZkZjA2MGJjNTQ6YjM2NjY4YTgzNmIxNTA1NWJlMWYwNGI4ZDhhOGNjNzA=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sport TV 7 [PT]
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD&ck=NDAwOTU3YWM2OGQ1NDlmYmJiYmM2NjhkM2E5ZWI3MDk6M2RkMzUxZjE4NzViMGRkNDBhNGUzOTJmMDZhMjliMjk=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sportdigital FUSSBALL HD (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sportitalia
@@ -717,6 +817,30 @@ https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sportitalia Solocalcio (1080p)
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 1 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk1/default/index.mpd?ck=ODAxMTlmM2U1NzQ0NTQyMThkMzFjZjQ2NGI0MjBjNWU6ZDcxZTMxODZjNGUwMzcyNzliNGMxMjE5N2I4NjA1NTEsZmViNmEwZDViZGY5NTcyMWE2OTViZGRhODNjM2E5NDU6YTk2YmYyN2QzNmNkOWVkZTQ0N2M1YzM5MjUxMWVkNWQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 10 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk10/default/index.mpd?ck=ZmFlOGVjMjhmMTc2NWRhNmFiZGY4ZGQ0ZWRmMjkyMjc6OGJjNmVjZWJmZWQ3ZDUwYWNjZDI4OWJkMjllMGM1YzgsOWM0Y2ExMjU4OWVmNWJhZTkzNjIxMmZjZGRmODdiOTA6OWNmOGJkNTRjODViOGQ5NzMyMGIwZmRhNDUwNWM2MTQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 11 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/skhd/default/index.mpd?ck=NzM4ODA4MjlmNDJhNTMzZDk4ODAwODA2NWE1ZmRkZDI6NDUyMzY5NGUyNWYxNmVjYmQzMDA3NmZiMDY3ZmY2YmMsMTI2MGZhNjIxZTkxNTM5OGE5NDcyMWQ1ZjJjODM4NGI6MjI0YjQwOGNlMTNkNGMyNzg1YjMxNTRiZDhlZjBiNWE=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 12 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/skns/default/index.mpd?ck=OGZmOTEzODg4NWI0NTM0Zjg3MjJlOWE1ZmI3ZmU0ZTI6YTBkMGRiNGE4ZjU0ODhhODRkMDg3N2UyNzRjZWFlNDYsZjlmYWM1N2EzZGRkNTEyNDllOTkxMDhkZTU3ZDc0MjM6MzVkOThiODHsagHzd2sh3Zb747gJJNL3cCUpTcRJf9C=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 2 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk2/default/index.mpd?ck=Y2FkNGY2ZjBlZjg1NTc2NWI1NmYwN2NiNDY1ODhlM2Q6YjNiNzIwYmM1MDc4ZjU4YTYzYTg2N2JmZTkyODhiNzAsMzI3NDNmM2NkYTI3NWNmNmEzNTljZGU5MmRmZDExOWM6YTU1MTc0NDMxOWU0ZjNmNTI2NzMzNWUzN2U3MDZiYzQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 3 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk3/default/index.mpd?ck=YWY3MTRkOTRlMTBkNTNjYmExYzE5YjgxOGNiYWQzOGE6N2Y3ZDQ4NDQxNDQyYmE1YWMwNGNhMzVhZTc2NDljYmEsZTkxMGIzMmI5Njk4NWZhZDliY2U0NjMyYjQ0NGNjOTE6NzRkMzBiZDg5OTY1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 4 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk4/default/index.mpd?ck=YTZiNTYzNWZjNjRiNWRiMDk1OWYwMDlhMzRhYTZhNmQ6ZWRiNGJmNGM4MjA1NTMyNDEzYWU1YWFlMTExYzIxYjksYzhhMGJlMTA5N2NlNWRhZmI2NTRiNTA5MDg1ZTM2MjQ6Mzk2NmQyMzhlYzkyN2UyYTE3NmEzZmFkYTM2YTNhZTQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 5 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk5/default/index.mpd?ck=OGRmOGMxMDllODE1NWIwNTgyZGFhMGFjZjZmZmM4ZWE6ODc4ODczZDkxNGVhNjFkNzhlZDExYjI1MGRlMGVhYjQsYmYyZDJmNjY0NmNkNWQ1ZjhhOTAxM2U3MzEwN2ZlOWI6Yjk0MGE3MzdiYTgzZTQwYjI0ZjRjNjk1MTMwNzAxZGI=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 6 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk6/default/index.mpd?ck=MDUxN2EwNTdmM2IzNWZlZDk5OWJhZWRhNzM0MDEzZmM6Mzk0NmU3ZjA3ZDRhMGQ4M2RiMzUzODM1MTY4Nzk4YjEsNzAwYTVmMGYzN2VkNTMxYzgwMGMzMWJhOGM2N2MwNDc6MzhiMTczMDRlNDgyZjkwMjk2MzJjOWExZDA5ZGU1M2Y=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 7 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk7/default/index.mpd?ck=ODJhOThkNTQ0ZTJkNWNlMWFmNTU4NTI5ZjQyMTUyYjE6NWMzNzQ0YjljZmU0OGU4YWY4OGYwNjQxZmQ2YjEzNzYsN2QwNzdmMDM4ZWNjNTYxM2ExMzg5OGU2M2ExMDI3YTg6MTcyZjVlNGFjMDAyYTgxZmZiYmNlOWQ0YTRlNDBjODA=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 8 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk8/default/index.mpd?ck=YjMzNjg1ZmY1NzE2NTdiYmFkNzlhNzU5NmU2MjA4Mzc6OWU2Y2NjNzNjNDlkZWNiZjYyODI0ZDFlYjgzN2ViYWUsYmJkZDBiNTFkZmNkNTFkZmI5YWM4NGFjNGU5NzM3OGY6Mzc1YmRhMTUxNWIxN2NiZTY5ZTM1MjViZjk3YjZmNjM=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 9 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk9/default/index.mpd?ck=ZGUwNDBjZmJmMjhjNWQ1MGJmMjM5NTE4N2UyOGZhOGI6ZWNjNzM0ZjU1NjQwZmI0MjQwNjNjMzQ0MjUyYmNhMTUsZTJlYTBhYWUzYjBlNTk3YWE5ZGZmYWU0Y2U0MWZlNzg6YzljYzc4ZWM2ODMwNDIxYmQ1MWRkNjRhNWE1YzFkYzQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sports Connect (720p)
 https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sports TV (720p) [Geo-blocked]
@@ -743,6 +867,8 @@ https://stm.sinalmycn.com/19024/video.m3u8
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",SPOTV 2 (1080p)
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SPOTV2
+https://global-cdn2.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd?ck=MTUzOWYwNDMyNDllNDEzZDkxOTA2MDM2ZjMwNTgzMWU6NjcxZTI0ZmQ4ZDIzNGM3ZjM4ZDg1MDU1ODE1ZjkwMmE=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Stadium
@@ -769,6 +895,8 @@ http://103.122.249.134:8000/play/a04u
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Strongman Champions League (720p)
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Supertennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Swerve Combat (1080p)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Swerve Sports
@@ -835,6 +963,14 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TNC Sports (1080p)
 https://streamer1.nexgen.bz/TNC_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TNT Sports 1 [UK]
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?ck=Mjk0YjU3NjFjZWZjMjJkMGM2MzEyOTM5ZTEzZDgyNzg6NTIxNDhmMTA0MmQyMzg4NDlmMGE3ODEzZjFkYThhN2I=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TNT Sports 2 [UK]
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?ck=ZjI4ODM4MGNhNGNlZjlhZDNmMjdhOTJhMDhlOWJiOGI6OWYxOGQyNjI5MWQ5MjMwODMzNTAxZjdmODIyZjY4NzU=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TNT Sports 3 [UK]
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?ck=MWQ5NmFiMzY2YmJlNjQ1MWVkZjc0MDdiNThlMmZhMTY6MDExNjIwMWY0YTYzYWM1YmY1Nzg3ZDJjNjEwYzQxYTc=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TNT Sports 4 [UK]
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?ck=MTkyYjExMTVkYTA0MTU4NWM3NzIwMDEyODU0OWVmYTE6NjM0ZTEwZWZlNGFiYmIxNGJlNDAwYTNjY2JhYzAyNTg=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Tour Spot TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Tour Spot TV (1280p) [Not 24/7]
@@ -853,6 +989,16 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TRT Spor Yildiz (1080p) [Geo-blocked]
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TSN 1 [CA]
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?ck=ZTUxYWEyMWYyYTBmZWY5YWFiYzEyMGRmYjY1NWI1MmY6YTEyYTk4N2ZlNzI1YTQwYjZiZTk1Y2Q4NGIxNWY2ODk=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TSN 2 [CA]
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd?ck=ZGFhOGVhOTI1NTNmZDE2Y2Q2YmZhZTJiOGM1ODI3MTU6NDA0MmUwNDFiNTYzOWI3OWI2OWFlMDdhODcyZWVmOWI=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TSN 3 [CA]
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR/cenc.mpd?ck=ZjVjMmIzMGVhYzExYmUxZThjZGZjOTU4NWY1ZmU2YWY6YTgxOThkMTdiZjliMGRhNzc0NTBmYmI5MTlhMzhiMmQ=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TSN 4 [CA]
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?ck=YzQwODhmNWYyNjVmOWRlNTBjZmZkODBiZjg5MzA4Yjc6MmM0ZDIyMzlkOTZkNTMyYjRlYzIwNTA2NTM2MTEwMDM=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",TSN 5 [CA]
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd?ck=ZTg1MzMzM2RhMmM5MTk2ZWExMTM3NDYzNDIzMWJjNDU6ZGUyZTJkYmU4MThkNzhkZmFkMDdkNmNkOWE0YzYzZDQ=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TSN The Ocho (1080p)
@@ -867,6 +1013,8 @@ https://tvpass.org/live/tsn3/hd
 https://tvpass.org/live/tsn4/hd
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TSN5 (1080p) [Not 24/7]
 https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Turbo
+https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09723/stb-dash-fhd-avc/SV09723.mpd?ck=MzY0NjBlOTI0MjUxNDJjNmE2NDc1YmYyNmY2NGQ1YTY6NzVkZTU5ZTI5MzM0NGVkZDM3YWU2Yzc1MWI0NTEwZTcsOGFlMzNlMGRhZTVmM2FjYzgyOWZlODM2YzAwZjc0MmM6MDEyZjg4MGVhYzY1MmI1NjM2MzdiNGM5Njk4OWZkODQ=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Turf Movil
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Turf Movil (720p)
@@ -965,6 +1113,18 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
 #EXTINF:-1 tvg-logo="" group-title="SPORT",World Poker Tour UK
 https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Ziggo Sport 1 [NL]
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621&ck=ZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Ziggo Sport 2 [NL]
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EOhA1DF4svOZppKxb-t-Ngw1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR%7E1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013140%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205500296&RTS=1717205500&from=11&hms_devid=579&online=1717205500&mag_hms=579&ck=M2NmYTg2MjVmNjUwNDA2ZWJmNmE0ZDFlYTczN2Y1NzI6MDUzNGU3NDdjNzBiMzY0YWE3MjEwZTFiZjMxOTFkZjA=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Ziggo Sport 3 [NL]
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EyVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4%7E2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013401%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205641752&RTS=1717205641&from=16&hms_devid=538&online=1717205641&mag_hms=538&ck=NGRiZWE0YjU3MTNhNGFhMWFlM2EyNTQ0Y2Q1MjJmYzc6YTgzMjNlYTk5YjJkNjIwMGE0OGUxYmMyNzMyMmQ1NDg=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Ziggo Sport 4 [NL]
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538&ck=YjVjMDRjZmI2ZGE4NDEwNGJhNWJiZTUxY2QwNjViMTI6ZDk2NTYxYmU0ODE5ZDNlZDRlNWY0ZjU0MDE1YmFhY2E=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Ziggo Sport 5 [NL]
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7ELNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932%7EBZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDRMfFSmvnfmEn7mhtahzNyrfcSPV2YnnkDJ%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014139%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014139%2C3103_S1E1%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206099&from=11&hms_devid=538&online=1717206099&mag_hms=538&_=1717206113039&ck=M2ZiNDBkODU3MjQ5NDJmOTk0ZDg2OTQzZjQ4MDIxZGI6YTZkYTg3NDI1MDJjOGEyMTUzMDY3ZjVmMmE3MGZiMDI=
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Ziggo Sport 6 [NL]
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EURnD_afuosWHfY5OEqRXOwfa01PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR%7EiVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601014418%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601014418%2C3103_S1E2%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717206258&from=14&hms_devid=538&online=1717206258&mag_hms=538&_=1717206265600&ck=MWEwZmZhNTMyYWEyNDk4NDkwODI2ZTJmNmEzN2Y3Yzk6YThjZWMyN2JjN2Q0NzkwOWM1YjBkOGY0NzNiNDNlOGQ=
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Zoy TV Sports 1 (1080p) [Not 24/7]
 https://mio.zoymilton.com/ZoyEventos/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",ČT Sport (720p)
