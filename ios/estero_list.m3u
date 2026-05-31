@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",---LAST UPDATE 31-05-2026 H. 08.54---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- AD ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",---LAST UPDATE 31-05-2026 H. 10.14---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- AD ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="AD",Andorra TV
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- AE ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- AE ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="AE",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AE",Al Arabiya Programs
@@ -53,8 +53,8 @@ https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/ind
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AE",Watar Radio
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Afghanistan ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Afghanistan ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Afghanistan",Dunya Naw TV
 https://dunyanhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Afghanistan",Eslah TV
@@ -71,8 +71,8 @@ https://hls.tamadon.live/hls/stream.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Afghanistan",TOLOnews
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Albania ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Albania ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Albania",CNA
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Euronews Albania
@@ -83,20 +83,20 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Syri
 https://stream.syritv.al/live/syritv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Armenia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Armenia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Armenia",Armenia 1
 https://dash2.antik.sk/live/test_armenia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- AO ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- AO ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="AO",KK TV
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AO",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AO",TV Zimbo
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Argentina ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Argentina ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Argentina",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Argentina",Aire de Santa Fe
@@ -233,8 +233,8 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Argentina",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Austria ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Austria ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Austria",Antenne Kaernten
 https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",Antenne Steiermark
@@ -281,8 +281,8 @@ https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Australia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Australia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Australia",10 Bold
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Australia",ABC News
@@ -349,8 +349,8 @@ https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist
 https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Australia",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- AW ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- AW ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="AW",Aruba.TV
 https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AW",Cool FM 98.9
@@ -361,12 +361,12 @@ https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8
 https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AW",Telearuba
 https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Azerbaijan ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Azerbaijan ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Azerbaijan",Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BA ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BA ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="BA",BHRT
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BA",Malta
@@ -381,8 +381,8 @@ https://stream.rtvze.ba/live/123/123.m3u8
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BA",Televizija M
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bangladesh ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bangladesh ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Ananda TV
 https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",ATN Music
@@ -405,8 +405,8 @@ https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
 https://bozztv.com/rongo/rongo-News24HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh",Somoy News TV
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Belgio ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Belgio ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Belgio",ATV
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgio",Bel RTL
@@ -427,14 +427,14 @@ https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgio",Tipik
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BF ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BF ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="BF",RTB 3
 https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BF",Savane TV
 https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bulgaria ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bulgaria ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Bulgaria",Agro TV
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bulgaria",City TV
@@ -453,8 +453,8 @@ https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bulgaria",Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bahrain ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bahrain ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Bahrain",Bahrain International
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bahrain",Bahrain Quran
@@ -465,8 +465,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bahrain",Bahrain TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BJ ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BJ ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="BJ",ADO TV
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BJ",Eden TV
@@ -475,8 +475,8 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BJ",TVC Benin
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bolivia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bolivia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Bolivia",F10 HD
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bolivia",FTV
@@ -501,14 +501,14 @@ https://live.enhdtv.com:8081/8190/index.m3u8
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bolivia",VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BQ ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BQ ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="BQ",Bonaire.tv
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BQ",Energia TV
 https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Brasile ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Brasile ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Brasile",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasile",Amazon Sat
@@ -697,16 +697,16 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasile",Unisul TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BS ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BS ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="BS",Guardian Talk Radio
 https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BS",The Parliamentary Channel
 https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BS",ZNS-TV
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bielorussia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Bielorussia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Bielorussia",Belarus-24
 https://edge53.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bielorussia",Belarus-5
@@ -715,14 +715,14 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bielorussia",STV
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BZ ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- BZ ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="BZ",Guadalupe Media
 https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BZ",Love Television
 https://streamer2.nexgen.bz/01-LOVE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Canada ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Canada ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Canada",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada",Amazing Discoveries TV
@@ -913,8 +913,8 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CD ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CD ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="CD",Baraka Television
 https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CD",CCPV Television
@@ -929,8 +929,8 @@ https://tnt-television.com/Geopolis_tv/index.m3u8
 https://tnt-television.com/MISHAPI-STREAM1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CD",RTNC
 https://tnt-television.com/rtnc_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Svizzera ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Svizzera ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",Canal Alpha Jura
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",Canal Alpha Neuchatel
@@ -967,8 +967,8 @@ https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",WaterBear
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CI ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CI ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="CI",A12 TV
 https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CI",Afro Magic Channel
@@ -1003,8 +1003,8 @@ https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CI",TV La Capitale
 https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Cile ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Cile ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Cile",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cile",13 Kids
@@ -1121,8 +1121,8 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cile",VTV Valle de Aconcagua
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CM ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CM ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="CM",Afrique54 TV
 https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CM",CAM 10 TV
@@ -1133,8 +1133,8 @@ https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8
 https://stream.it-innov.com/tr24/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CM",TR24 Television
 https://stream.it-innov.com/tr24/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Cina ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Cina ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Cina",Ando TV
 https://play.kankanlive.com/live/1711956137852982.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cina",Baicheng TV
@@ -1261,8 +1261,8 @@ https://stream2.jlntv.cn/ja/sd/live.m3u8
 https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cina",餘姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Colombia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Colombia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Colombia",Bendicion Channel
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",Blu Radio
@@ -1383,8 +1383,8 @@ https://eu1.servers10.com:8081/8072/index.m3u8
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Colombia",Zoom
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Costa Rica ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Costa Rica ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica",360 RFTV
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica",Antena Seis TV
@@ -1457,16 +1457,16 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Costa Rica",¡OPA!
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CU ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CU ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="CU",Prensa Latina TV
 https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CV ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CV ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="CV",Radio TV Sal One
 https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CW ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CW ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="CW",Bonce TV
 https://seswa.bonce.tv/hls/bonceswa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CW",Nos Pais
@@ -1475,8 +1475,8 @@ https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CW",VAM TV
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CY ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CY ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="CY",ANT1 Cyprus
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CY",RIK Sat
@@ -1491,8 +1491,8 @@ https://sat7phls.wns.live/hls/stream.m3u8
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CY",Sigma TV
 https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Repubblica Ceca ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Repubblica Ceca ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Repubblica Ceca",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Repubblica Ceca",Current Time TV
@@ -1525,8 +1525,8 @@ https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Repubblica Ceca",Vychodoceska TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Germania ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Germania ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Germania",Allgau TV
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germania",Anixe +
@@ -1767,16 +1767,16 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germania",World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Danimarca ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Danimarca ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Danimarca",DRTV
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Danimarca",TV 2/Bornholm
 https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Danimarca",TV from the Danish Parliament
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Repubblica Dominicana ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Repubblica Dominicana ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Repubblica Dominicana",Adoram TV
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Repubblica Dominicana",Aguila TV
@@ -2101,8 +2101,8 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Repubblica Dominicana",Zonavision TV
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Ecuador ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Ecuador ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Ecuador",America Estereo Guayaquil
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ecuador",America Estereo Ibarra
@@ -2201,8 +2201,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ecuador",Vos y TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Estonia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Estonia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Estonia",Best of Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Estonia",DanceTV Algorhythm
@@ -2225,8 +2225,8 @@ https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
 https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Estonia",Vantage Rock
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Egitto ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Egitto ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Egitto",Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Egitto",Coptic TV
@@ -2241,16 +2241,16 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Egitto",Watan TV
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- EH ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- EH ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="EH",RASD TV
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- ER ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- ER ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="ER",ERi-TV 1
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Spagna ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Spagna ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Spagna",12tv
 https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spagna",24 Horas
@@ -2511,12 +2511,12 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Spagna",XPTV2
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- ET ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- ET ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="ET",EBS
 https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Finlandia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Finlandia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Finlandia",5-Minute Craft
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finlandia",BBC Top Gear Finland
@@ -2543,14 +2543,14 @@ https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finlandia",Yle TV2
 https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- FO ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- FO ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="FO",Kringvarp Foroya
 https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FO",KVF Sjonvarp
 https://live.kringvarp.fo/uttanlands/720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Francia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Francia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Francia",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Francia",4 Afghanistan
@@ -2751,8 +2751,8 @@ https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Francia",zenith
 https://live.azenagroup.com/zenith/index.ll.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Georgia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Georgia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Georgia",1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Georgia",2 TV
@@ -2765,30 +2765,30 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Georgia",Palitra News
 https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GF ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GF ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="GF",Tele Peyi
 https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GH ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GH ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="GH",G-eye TV
 https://online.geyetv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GH",OTV
 https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GH",Resurrection TV
 https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GM ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GM ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="GM",QTV Gambia
 https://player.qtv.gm/hls/live.stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GN ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GN ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="GN",Espace TV
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GN",Kalac TV
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GP ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GP ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="GP",ETV
 https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GP",Madras FM TV
@@ -2797,12 +2797,12 @@ https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GP",RHT Guadeloupe
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GQ ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GQ ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="GQ",SolTV
 https://stream.solmediaeg.com/soltv/soltv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Grecia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Grecia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Grecia",Acheloos TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Grecia",Action 24
@@ -2881,8 +2881,8 @@ https://neon.streams.gr:8081/telekriti/index.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Grecia",TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Guatemala ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Guatemala ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Guatemala",Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Guatemala",Canal 13 Esquipulas
@@ -2917,16 +2917,16 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Guatemala",Vision TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GU ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GU ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="GU",Star 101 FM
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GY ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- GY ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="GY",MTV Guyana
 https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Hong Kong ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Hong Kong ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Hong Kong",Ani-Blast
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hong Kong",KIX
@@ -2935,8 +2935,8 @@ https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hong Kong",RTHK TV 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Honduras ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Honduras ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Honduras",Alsacias Television
 https://s.emisoras.tv:8081/atv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Honduras",Campus TV
@@ -2999,8 +2999,8 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Honduras",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Croazia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Croazia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Croazia",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Croazia",Extra TV
@@ -3013,8 +3013,8 @@ https://stream.luci.xyz/hls/LTV.m3u8
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-logo="" group-title="Croazia",SBTV
 https://live.leveex.hr/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- HT ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- HT ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="HT",Haiti News Channel
 https://haititivi.com/website/haitinews/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HT",Radio Tele 4VEH
@@ -3031,8 +3031,8 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HT",TNH
 https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Ungheria ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Ungheria ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Ungheria",16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ungheria",7.TV
@@ -3081,8 +3081,8 @@ https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ungheria",Zalaegerszegi TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Indonesia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Indonesia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",Al Wafa Tarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",Al-Iman TV
@@ -3251,14 +3251,14 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Irlanda ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Irlanda ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Irlanda",F1 Channel
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Irlanda",TG4
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Israele ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Israele ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Israele",Channel 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israele",Hala TV
@@ -3271,8 +3271,8 @@ https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 https://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Israele",Shelanu.TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- India ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- India ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="India",10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="India",22Scope News
@@ -4033,8 +4033,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-logo="" group-title="India",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Iraq ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Iraq ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Iraq",ABNsat
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Iraq",Afarin Baxcha
@@ -4091,8 +4091,8 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarme
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Iraq",Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Iran ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Iran ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Iran",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Iran",AFN TV
@@ -4263,22 +4263,22 @@ https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 https://zedhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Iran",Zed TV
 https://zedhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Islanda ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Islanda ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Islanda",RUV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islanda",RUV 2
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Islanda",Visir
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Giamaica ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Giamaica ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Giamaica",Mercy and Truth Ministries Television
 https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Giamaica",TVJ
 https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Giordania ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Giordania ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Giordania",Altaghier TV
 https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Giordania",Amman TV
@@ -4311,14 +4311,14 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/pla
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Giordania",Roya TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Giappone ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Giappone ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Giappone",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Giappone",NHK World-Japan
 https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Kenya ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Kenya ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Kenya",Akili Kids!
 https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kenya",Family TV
@@ -4331,24 +4331,24 @@ https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kenya",YOUNIB Media TV
 https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Cambogia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Cambogia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Cambogia",Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cambogia",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cambogia",TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- KN ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- KN ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="KN",Television Caribbean
 https://live.kingdom-tv.com:3545/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- KP ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- KP ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="KP",Korean Central Television
 https://tv.intchoson.com/kctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Corea del Sud ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Corea del Sud ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Corea del Sud",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Corea del Sud",Arirang Radio
@@ -4425,8 +4425,8 @@ https://live.shoppingntmall.com/live/10011.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Corea del Sud",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Kuwait ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Kuwait ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Kuwait",Bahry
 https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kuwait",Ch4Teen
@@ -4449,8 +4449,8 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kuwait",Marina TV
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Kazakistan ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Kazakistan ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Kazakistan",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kazakistan",Alau TV
@@ -4469,8 +4469,8 @@ https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kazakistan",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Laos ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Laos ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Laos",Brian TV
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Laos",Dao Lane Xang TV
@@ -4489,8 +4489,8 @@ https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Laos",Vati Lao
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Libano ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Libano ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Libano",Aghani Aghani TV
 https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Libano",Al Ittihad TV
@@ -4525,20 +4525,20 @@ https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Libano",Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- LC ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- LC ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="LC",Caribbean Hot 7 TV
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Sri Lanka ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Sri Lanka ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Sri Lanka",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sri Lanka",NDTV LANKA
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sri Lanka",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Lituania ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Lituania ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Lituania",Lietuvos Rytas TV
 https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lituania",LRT Klasika
@@ -4551,8 +4551,8 @@ https://stream-live.lrt.lt/opus/master.m3u8
 https://stream-live.lrt.lt/radijas/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lituania",M-1
 https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Lussemburgo ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Lussemburgo ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Lussemburgo",apart TV
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lussemburgo",Chamber TV
@@ -4573,8 +4573,8 @@ https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lussemburgo",Today Radio
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Lettonia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Lettonia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Lettonia",Pingviins
 https://sirius.greenhosting.ru/PingvinRu/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lettonia",Radio SWH TV
@@ -4583,16 +4583,16 @@ https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lettonia",Vidusdaugavas Televizija
 https://straume.vdtv.lv/vdtv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Libia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Libia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Libia",Al Masar TV
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Libia",Libya Al Wataniya
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Libia",Tanasuh TV
 https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Marocco ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Marocco ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Marocco",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Marocco",Medi1TV Afrique
@@ -4603,16 +4603,16 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dv
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Marocco",StoryChannel TV
 https://136044159.r.cdnsun.net/storychannel.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MC ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MC ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MC",Monaco Info
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MC",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MC",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Moldavia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Moldavia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Moldavia",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Moldavia",Moldova 2
@@ -4629,14 +4629,14 @@ https://tezaurtv.md/stream/index.m3u8
 https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Moldavia",TVR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Montenegro ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Montenegro ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Montenegro",TV Niksic
 https://tv.rtv-niksic.me/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Montenegro",TVCG MNE
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Macedonia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Macedonia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",M-Net HD
 https://live.mnet.mk/hls/mnet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",M-Net Info
@@ -4645,16 +4645,16 @@ https://live.mnet.mk/hls/mnet-info.m3u8
 https://live.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Macedonia",Sky Folk TV
 https://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- ML ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- ML ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="ML",D3 TV
 https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Myanmar ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Myanmar ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Myanmar",DVB TV
 https://live-stream.dvb.no/hls/stream_src/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Mongolia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Mongolia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Mongolia",MNB
 https://live.mnb.mn/hls/mnb.stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Mongolia",MNB Mongoliin Medee
@@ -4663,22 +4663,22 @@ https://live.mnb.mn/hls/mn2.stream.m3u8
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Mongolia",MNB World
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MO ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MO ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MO",Directo das Reuniões da Assembleia de Macau
 https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MO",TDM Entertainment Ch. 95
 https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MQ ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MQ ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MQ",FUSION TV
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MQ",Identite Tele Caraibes
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MQ",Tele Zoukla
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Malta ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Malta ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Malta",NET
 https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Malta",One
@@ -4691,14 +4691,14 @@ https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
 https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Malta",TVMsport+
 https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MV ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MV ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MV",Maldives TV
 https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MV",MMTV
 https://sendlive.online/hls/mmtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Messico ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Messico ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Messico",8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Messico",ADN 40
@@ -4853,18 +4853,18 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Messico",XHZHZ-TDT
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Malaysia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Malaysia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Susun TV
 https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MZ ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- MZ ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MZ",TV Vitoria
 https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- NA ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- NA ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="NA",NBC 1
 https://hls2.nbcplus.na/hls/high_nbc1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NA",NBC 2
@@ -4873,14 +4873,14 @@ https://hls2.nbcplus.na/hls/high_nbc2.m3u8
 https://hls2.nbcplus.na/hls/high_nbc3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NA",NTV
 https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- NE ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- NE ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="NE",Tal TV
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NE",Tele Sahel
 https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Nigeria ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Nigeria ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Nigeria",ACNN
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nigeria",AMusic Channel
@@ -4929,16 +4929,16 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nigeria",Wap TV
 https://newproxy3.vidivu.tv/waptv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Nicaragua ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Nicaragua ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Nicaragua",Escuchame Radio TV
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nicaragua",Olam Metro TV
 https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nicaragua",WTV Canal 20
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Paesi Bassi ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Paesi Bassi ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Paesi Bassi",1AlmereTV
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Paesi Bassi",1Twente TV
@@ -5165,24 +5165,24 @@ https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Paesi Bassi",ZO!34
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Norvegia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Norvegia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Norvegia",Canal Motor
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Norvegia",Frikanalen
 https://frikanalen.no/stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Norvegia",TV Ostfold
 https://streamnorge.com:8088/hls/tvo.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Nepal ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Nepal ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Nepal",Capital TV HD
 https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nepal",Divya Darshan TV
 https://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nepal",Kantipur TV
 https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Nuova Zelanda ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Nuova Zelanda ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Nuova Zelanda",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nuova Zelanda",Breaking News by LeadStory
@@ -5215,8 +5215,8 @@ https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nuova Zelanda",Wairarapa TV
 https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Oman ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Oman ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Oman",Alistiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Oman",Oman Sports TV
@@ -5227,8 +5227,8 @@ https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Oman",Oman TV Mubashir
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Panama ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Panama ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Panama",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Panama",Hosanna Vision
@@ -5241,8 +5241,8 @@ https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Panama",Tropi Q 99.7 FM
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Perù ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Perù ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Perù",Antares Television
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Perù",Antena SUR
@@ -5321,12 +5321,12 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Perù",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- PG ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- PG ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="PG",NBC TV
 https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Filippine ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Filippine ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Filippine",Abante TV
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filippine",Bilyonaryo News Channel
@@ -5339,8 +5339,8 @@ https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Filippine",PTV
 https://streams.comclark.com/pknsd/ptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Pakistan ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Pakistan ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Aaj Entertainment
 https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",ABN News
@@ -5393,8 +5393,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
 https://video.primexsports.com/suchnews/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Polonia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Polonia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Polonia",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Polonia",American Crime Channel
@@ -5489,8 +5489,8 @@ https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Polonia",Z Nation
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Porto Rico ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Porto Rico ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Porto Rico",America TeVe
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Porto Rico",Candelita TV
@@ -5539,8 +5539,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Porto Rico",WXWZ-LD 23.1
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Palestina ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Palestina ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Palestina",Al Madina
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Palestina",Al Najah News
@@ -5567,8 +5567,8 @@ https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8
 https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Palestina",Watar TV
 https://htvint.mada.ps/orient/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Portogallo ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Portogallo ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Portogallo",ADB TV
 https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portogallo",ARTV
@@ -5611,8 +5611,8 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portogallo",V+ TVI
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Paraguay ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Paraguay ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Paraguay",Alcance FM PLAY TV
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Paraguay",Bruno Masi TV
@@ -5687,8 +5687,8 @@ https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Paraguay",Villa Elisa Radio TV
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Qatar ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Qatar ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Qatar",Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Qatar",Al Araby TV 2
@@ -5715,8 +5715,8 @@ https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee94412
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Qatar",Qatar Television 2
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Romania ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Romania ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Romania",A7TV
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",Agro TV
@@ -5813,8 +5813,8 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Romania",TVR Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Serbia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Serbia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Serbia",Pink
 https://edge8.pink.rs/pinktv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Serbia",Radio Hit FM TV
@@ -5831,8 +5831,8 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-997
 https://srv1.adriatelekom.com/TVAS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Serbia",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Russia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Russia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Russia",15+ Music
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russia",2x2
@@ -6111,8 +6111,8 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russia",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- RW ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- RW ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="RW",B+ TV
 https://tv.btnrwanda.com:3432/live/bpluslive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RW",Isibo TV
@@ -6123,8 +6123,8 @@ https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RW",TV10
 https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Arabia Saudita ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Arabia Saudita ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Arabia Saudita",Abdulmajeed Abdullah
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia Saudita",Al Arabiya English
@@ -6175,14 +6175,14 @@ https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/ind
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arabia Saudita",Tarab
 https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- SD ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- SD ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="SD",Dabanga TV
 https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SD",Sudan TV
 https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Svezia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Svezia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Svezia",ATG Live
 https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svezia",Di TV
@@ -6205,8 +6205,8 @@ https://amg00426-littledotstudio-thechatshow-samsungse-n39q0.amagi.tv/playlist/a
 https://amg00353-lionsgatestudio-wickedtunase-samsungse-w4kcr.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunase-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svezia",Waterbear
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Singapore ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Singapore ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Singapore",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Singapore",CNA Originals
@@ -6217,8 +6217,8 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Singapore",ZooMoo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Slovenia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Slovenia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Slovenia",Exodus TV
 https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Slovenia",TV SLO 1
@@ -6227,8 +6227,8 @@ https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Slovenia",TV Veseljak Golica HD
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Slovacchia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Slovacchia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Slovacchia",ducktv
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Slovacchia",LifeTv
@@ -6267,8 +6267,8 @@ https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Slovacchia",Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- SN ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- SN ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="SN",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SN",A2i Religion
@@ -6279,14 +6279,14 @@ https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SN",SenJeunes TV
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- SR ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- SR ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="SR",Shalom TV
 https://media.streambrothers.com:1936/8400/8400/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SR",Trishul Broadcasting Network
 https://live.suricloud.com/hls/tbntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- El Salvador ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- El Salvador ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="El Salvador",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="El Salvador",Canal 11 TuTV
@@ -6319,8 +6319,8 @@ https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="El Salvador",WOW TV
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- SX ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- SX ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="SX",98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SX",Nolan Nanton Productions
@@ -6335,8 +6335,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SX",TVCARiB Radio
 https://cdn.mycloudstream.io/hls/live/broadcast/agf7yo9x/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Siria ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Siria ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Siria",Althania
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Siria",Damascus Radio
@@ -6353,8 +6353,8 @@ https://live.syriaone.tv/live/syriaone.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017
 #EXTINF:-1 tvg-logo="" group-title="Siria",Welat TV
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- TG ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- TG ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="TG",Chandel TV
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TG",NW Economie
@@ -6367,8 +6367,8 @@ https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TG",Television Espoir 47
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Thailandia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Thailandia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Thailandia",13 Siam Thai
 https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Thailandia",Boonniyom TV
@@ -6431,12 +6431,12 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Thailandia",Zabb Channel
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- TJ ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- TJ ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="TJ",TV Bahoriston
 https://live.teleradiocom.tj/3/3m.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Turchia ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Turchia ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Turchia",Almahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turchia",Anadolu Net TV
@@ -6667,12 +6667,12 @@ https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turchia",Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- TT ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- TT ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="TT",The Islamic Network
 https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Taiwan ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Taiwan ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Taiwan",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Taiwan",CGNTV Chinese
@@ -6685,12 +6685,12 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Taiwan",WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Tanzania ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Tanzania ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Tanzania",Dodoma TV
 https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Ucraina ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Ucraina ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Ucraina",Avers
 https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ucraina",Espreso TV
@@ -6723,8 +6723,8 @@ https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ucraina",Z
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Uganda ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Uganda ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Uganda",Alpha Digital
 https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uganda",Ark TV
@@ -6743,8 +6743,8 @@ https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8
 https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uganda",Wan Luo TV
 https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- UK ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- UK ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="UK",8 Out Of 10 Cats
 https://d1l7vcuh4hn9ei.cloudfront.net/8OutOf10Cats_GB.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",A New Life in the Sun
@@ -7061,8 +7061,8 @@ https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",YAAAS!
 https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Stati Uniti ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Stati Uniti ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Stati Uniti",21 Jump Street
 https://d1oefjzrirx6fc.cloudfront.net/21_Jump_Street_SONO6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stati Uniti",24 Hour Free Movies
@@ -9415,14 +9415,14 @@ https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stati Uniti",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Uruguay ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Uruguay ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Uruguay",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uruguay",VIVO TV
 https://stream.vivotv.uy/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Uzbekistan ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Uzbekistan ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Uzbekistan",Andijon MTRK
 https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uzbekistan",BIZ Cinema
@@ -9475,8 +9475,8 @@ https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
 https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uzbekistan",Zo'r TV
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Venezuela ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Venezuela ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",AS3 Sport TV
@@ -9537,14 +9537,14 @@ https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",Venevision Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- VG ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- VG ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="VG",CBN Gospel
 https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VG",CBN TV
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Vietnam ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Vietnam ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",An Ninh TV
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",Cao Bang TV
@@ -9599,8 +9599,8 @@ https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VTV5 Tay Nguyen
 https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- XK ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- XK ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="XK",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="XK",RTV21
@@ -9613,14 +9613,14 @@ https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="XK",TV Syri
 https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Yemen ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Yemen ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Yemen",Al Masirah
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Yemen",Al Masirah Mubacher
 https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Sudafrica ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Sudafrica ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Sudafrica",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sudafrica",BOKTV
@@ -9651,7 +9651,7 @@ https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sudafrica",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Zimbabwe ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- Zimbabwe ---
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Zimbabwe",Yadah TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
