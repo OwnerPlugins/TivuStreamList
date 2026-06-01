@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/bambini.png" group-title="ANIMAZIONE",--- ANIMAZIONE ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ANIMAZIONE",---LAST UPDATE 31-05-2026 H. 10.28---
+#EXTINF:-1 group-title="ANIMAZIONE",---LAST UPDATE 01-06-2026 H. 11.47---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
@@ -17,6 +17,8 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Banijay Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Cartoon Classics FAST
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Disney Jr. Latin America South
 https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",EnerGeek
@@ -29,6 +31,8 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",JapanimTV
+https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",KMBY-LD 27.5
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Kuriakos Kids
@@ -41,6 +45,8 @@ https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg0
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Mr. Bean Anime Spain
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Multimania
+https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Naruto US
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",NickOnline

@@ -1,2433 +1,317 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 31-05-2026 H. 10.28---
+#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 01-06-2026 H. 11.47---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",12 TV Parma
-https://12tvparma.fluid.stream/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",20 Mediaset
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",20 Mediaset
-https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",20 Mediaset
-https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09489/stb-dash-fhd-avc/SV09489.mpd?ck=OWFiZThmZmVjZGM4NDg1Njk4ODgxYTU1OGViNmE1ODg6OGZkNjBhYWIxYzk5ZTBlMzdkNDU0Y2U0MWEzNGRmNTQsNzA1Y2FmNTA4MWI5M2ZkMzliZGY0MGFkNTBjNjM0Nzc6NmU1MTI1MGIwNzBmMDFkYTQ1ZDYyNTMxOGUwZTBlYmQ=
-#EXTINF:-1 group-title="ITALIA",27 Twentyseven
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",27TwentySeven HD
-https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",3BMeteo
-https://jmp2.uk/stvp-IT500008CB
-#EXTINF:-1 group-title="ITALIA",5-Minuti Creativi
-https://d266mze7uh4wuz.cloudfront.net/playlist/amg02051-amg02051c7-274/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",50 Canale
-https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",51 Radio TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",51 Radio TV
-https://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",7 Gold Sestarete
-https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",7 RadioVisione
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",7 YOU & ME
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",95 Rete Reggio
-https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
-#EXTINF:-1 group-title="ITALIA",A.M. Terni
-https://stream9.xdevel.com/video0s976364-1176/stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",A2i TV
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 group-title="ITALIA",ADN24
-https://64b16f23efbee.streamlock.net/adn24tv/adn24tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Africanews
-https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMGUxZWI3ZDctNWE2MS00ZmZlLWE5YzYtYzQ4YzZiOWVhOTUwIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
-#EXTINF:-1 group-title="ITALIA",Africanews
-https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMDRiYmNjMTYtYmIzZS00MTNlLThhZGEtMzRhODViYzg0MTQ4IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
-#EXTINF:-1 group-title="ITALIA",Africanews
-https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMmQ1ZjAxOWEtYWU5YS00NmIzLTgwMzUtYzMzYzYwZmVhOTY1IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
-#EXTINF:-1 group-title="ITALIA",Alma TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Alpa uno
-https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Alta Tensione
-https://chili-chili-alta-tensione-1-it.xiaomi.wurl.tv/4300.m3u8
 #EXTINF:-1 group-title="ITALIA",AltoAdige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ama TV
-https://5db313b643fd8.streamlock.net/amatv/amatv/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Amaranto Channel
-https://10529e63b0a84fb6bdf487096cc5eaab.msvdn.net/live/S10857183/qMq5TNxA3ouH/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Anime Channel
-https://host2.hbbtv.me:28443/hls/animechannel/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Anita
-https://srvx1.selftv.video/anitatv/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Antenna 2
-https://str42.fluid.stream/Antenna2/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Antenna 2 TV
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Antenna 3 Toscana
-https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Antenna Sicilia
-https://www.twitch.tv/antennasicilia
-#EXTINF:-1 group-title="ITALIA",Antenna Sud
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Antenna Sud
-https://live.antennasudwebtv.it:9443/hls/vod.m3u8
-#EXTINF:-1 group-title="ITALIA",Antenna Sud 92 (Extra)
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Antenna Sud Extra
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8?start=now-320m
-#EXTINF:-1 group-title="ITALIA",Antenna Sud Extra
-https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
-#EXTINF:-1 group-title="ITALIA",Antenna Sud Sport
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport1/master.m3u
-#EXTINF:-1 group-title="ITALIA",Antenna Tre Nordest Veneto
-https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Antenna Tre Veneto (480p) [Geo-blocked]
-https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Antenna3 Massa (Toscana)
-https://media2021.rtvweb.com//antenna3massa/a3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",AP Channel
-https://64b16f23efbee.streamlock.net/apchannel/apchannel/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Arancia Television
-https://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Aristanis Super TV Oristano
-https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Arte Investimenti
-https://5a1178b42cc03.streamlock.net/chiossone/chiossone/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Arte Network
-https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Aurora Arte
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u
-#EXTINF:-1 group-title="ITALIA",Automoto
-https://amg14891-amg14891c7-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c7-amgplt0165/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Azzurra TV
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Azzurra TV Italia
-https://stream4.xdevel.com/video5s975955-1727/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Azzurra TV Italia
-https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Babayaga Tv
-https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Babayaga TV
-https://stream1.xdevel.com/video0s975770-326/stream/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Baby Shark TV
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Baby Shark TV
-https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="ITALIA",BariNews
-https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
-#EXTINF:-1 group-title="ITALIA",BBC Drama
-https://amg00793-amg00793c29-samsung-it-4958.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitalysamsungit-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",BBC Drama Italy
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",BBC Earth
-https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",BBC Series
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitaly-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",BBC Top Gear Italy
 https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Beauty Channel - Il tocco del chirurgo
-https://4cba2078e4fc412692ab42bc0a6585c5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_BeautyChannel/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",BeJoy.kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",BeJoy.Kids
-https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Bella Radio Tv
-https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Bergamo TV
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR=
-#EXTINF:-1 group-title="ITALIA",Bergamo Tv
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Bernard L'Orso
-https://daiconnect.com/live/hls/tvup/rk-planetajuniorit/.m3u8
-#EXTINF:-1 group-title="ITALIA",Best Eventi
-https://host1.momentotv.live:28443/hls/comson/index.m3u8
-#EXTINF:-1 group-title="ITALIA",BIKE Channel
-https://edge-001.streamup.eu/origin/bike_abr/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Bleach
-https://amg17293-dynit-amg17293c1-samsung-it-2676.playouts.now.amagi.tv/playlist/amg17293-dynitsrl-bleach-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Boing
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Boing
-https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Boing
-https://wp9-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09737/stb-dash-fhd-avc/SV09737.mpd?ck=MDUxNmZjMTE5OGNiMzNhMWI1YjQyYWVmODU2MTY5ZDc6OWM5YjNjZmQxMGMwNDNjODQ5ODk3ZTYxZTUzZWMxNjY=
 #EXTINF:-1 group-title="ITALIA",Bom Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Box Tv
-https://host2.hbbtv.me:28443/hls/vimpresa/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Brat TV (IT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Brividy Cinema
-https://ixmediasrl-serially-1-it.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="ITALIA",Business Channel
-https://64b16f23efbee.streamlock.net/businesschannel/businesschannel/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Byoblu
-https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Byoblu -Davvero Tv
-https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/chunklist_b5256000.m3u8
-#EXTINF:-1 group-title="ITALIA",C3T Canale 3 Toscana
-https://router.xdevel.com/video0s976737-1453/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",C3T Canale 3 Toscana
-https://stream4.xdevel.com/video0s976737-1453/stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",CafeTV24 Veneto
-https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALIA",Calabria TV
 https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Calabria TV
-https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Calabria TV2
-https://5db313b643fd8.streamlock.net:443/CalabriaTv2/CalabriaTv2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",CalabriaUno TV
-https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Camera dei Deputati
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Camera dei Deputati (1080p)
-http://78.130.250.2:8023/play/a04g/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Campania TV
-https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 10
-https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/chunklist_w2118955691.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 10
-https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 10 (540p) [Not 24/7]
-http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 10 Ostia (540p) [Not 24/7]
-https://nrvideo1.newradio.it/desxcerbht/desxcerbht/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 122
-https://stream6.xdevel.com/video0s975363-2102/stream/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Canale 19 Frosinone
-https://5a1178b42cc03.streamlock.net/RRomaNetwork/RRomaNetwork/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 2
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u
 #EXTINF:-1 group-title="ITALIA",Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 2 Altamura [Not 24/7]
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Canale 2 TV Puglia
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w1077249051.m3u8
 #EXTINF:-1 group-title="ITALIA",Canale 21 Extra
 https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 21 Extra
-https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 5
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 5
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Canale 5
-https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09241/stb-dash-fhd-avc/SV09241.mpd?ck=NjY0MjVlMjc3MTc5MzkyYmJjZjkyOTI4OTdlYjZmZmU6NzM1MTE5ZmQxOTA3YTBlNjBhZGVhYzJjMDQ2OWNmMGI=#EXTINF:-1 group-title="Digitale Terrestre",Mediaset Italia [America]
-#EXTINF:-1 group-title="ITALIA",Canale 5 HD
-https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-#EXTINF:-1 group-title="ITALIA",Canale 6
-http://195.231.82.127:8082/hls/test_low.m3u8
 #EXTINF:-1 group-title="ITALIA",Canale 7
 https://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 7
-http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u
-#EXTINF:-1 group-title="ITALIA",Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 7
-http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/chunklist_w139218648.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 7
-http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 7 (Puglia)
-https://59d7d6f47d7fc.streamlock.net/canale7/canale7/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 7 Puglia
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 74 Sicilia
-https://stream.cp.ets-sistemi.it:1936/canale74/canale74/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Canale 8
 https://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 8
-https://59d8c0cee6f3d.streamlock.net/canale8/canale8/chunklist_w592700549.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 8
-https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 8
-http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 8 (solo durante eventi live)
-http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 8 Campania (480p)
-http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 81 Lazio
-https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 9
-https://585b674743bbb.streamlock.net/9026/9026/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Canale 9
-https://comvideo.it/hls/canale9/video.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale 97
-https://5db313b643fd8.streamlock.net/canale97/canale97/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale Italia
-https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale Italia
-https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale1 Lombardia
-https://media2.streambrothers.com:19360/8160/8160.m3u8
-#EXTINF:-1 group-title="ITALIA",Canale157
-https://64b16f23efbee.streamlock.net/canale157/canale157/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Canale165
-https://64b16f23efbee.streamlock.net/canale165/canale165/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Canale168
-https://64b16f23efbee.streamlock.net/canale168/canale168/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Canale169
-https://64b16f23efbee.streamlock.net/canale169/canale169/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Canale77
-https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Capri Events
-https://host2.hbbtv.me:28443/hls/caprievents/index.m3u8
-#EXTINF:-1 group-title="ITALIA",CAR CITY ADVENTURES
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_content_language=it&ads.rakuten_market=it&ads.xumo_channelId=88883094
 #EXTINF:-1 group-title="ITALIA",CarinaTV
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Cartoonito
-https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Cartoonito
-https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Cartoonito
-https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09731/stb-dash-fhd-avc/SV09731.mpd?ck=ZjU4YzUxYTUxZGUyMzRjMzk3NjdhN2U3ZDNjODEwMTI6ZjcyNjVmMjFlZTJjYjA5YmRkYWI4ODZjMzJhMWIzNjE=
-#EXTINF:-1 group-title="ITALIA",Casa Italia 53
-https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Casa Italia 53
-https://liveac915ha.streamcloud.it/channel09/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Casa Sanremo Tv
-https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Castrovillari TV
-https://msh0062.stream.seeweb.it/live/flv:stream00.sdp/chunklist_w1297848372.m3u8
-#EXTINF:-1 group-title="ITALIA",Castrovillari TV
-https://msh0062.stream.seeweb.it:1935/live/stream00.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Castrovillari Tv
-http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",CG - TV
-https://cgentertainment-cgtv-1-it.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="ITALIA",CG Entertainment
-https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",CG Grandi Film
-https://9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_CGtv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",CGTN
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="ITALIA",CGTN Documentary
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="ITALIA",CGTV (IT)
-https://cgentertainment-cgtv-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Chili Indimenticabili (IT)
-https://chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Chili Velvet (IT)
-https://chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 group-title="ITALIA",Cilentano Tv
-https://video1.getstreamhosting.com:1936/8022/8022/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Cine 34
-https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Cine 34
-https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Cine 34
-https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09712/stb-dash-fhd-avc/SV09712.mpd?ck=OWQ2NjJmZThiNGE4NGJjNWJmMzkyN2YwZjhlNmFlYjQ6YjI2Mzc4Y2YwMGIyZmUwOGUxMDU3Y2YyOGJkY2MzYzIsZDA3OTViNjgzMTAwMzUyZWE1ZjJlMTc3YjNiMzg0ZWE6YTZmNmE0MTYxMzc5MjA2NTU0Y2I4NGZmNWFkMmRhYjQ=
-#EXTINF:-1 group-title="ITALIA",Cine Paura
-https://amg02512-amg02512c7-samsung-it-5138.playouts.now.amagi.tv/playlist/amg02512-nexodigital-comedytime-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Cine Thriller
-https://amg02512-nexodigital-amg02512c2-samsung-it-765.playouts.now.amagi.tv/playlist/amg02512-nexodigital-levitedeglialtri-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",CineMadame
-https://plaionpictures-cinemadame-1-it.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="ITALIA",Cinemalizia
-https://amg02512-amg02512c6-samsung-it-5137.playouts.now.amagi.tv/playlist/amg02512-nexodigital-nataletime-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Cittaceleste Tv
-https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Cittadella Tv
-https://59d7d6f47d7fc.streamlock.net/radiocittadella/radiocittadella/chunklist_w1661780412.m3u8
-#EXTINF:-1 group-title="ITALIA",Cittàceleste TV
-https://cittaceleste.tv/video/viewlivestreaming?rel=42323&cntr=0
-#EXTINF:-1 group-title="ITALIA",Class CNBC
-https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Class CNBC
-https://amg14891-amg14891c5-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c5-amgplt0148/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Class CNBC
-https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
-#EXTINF:-1 group-title="ITALIA",Clubbing TV Italy
-https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
 #EXTINF:-1 group-title="ITALIA",Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Company Tv
-https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Company TV
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Contrasto Tv
-https://host2.hbbtv.me:28443/hls/contrastotv/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Cool Summer Channel
-https://d3mza6qljp67l5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rpc4qub3zg7qt/csts.m3u8
-#EXTINF:-1 group-title="ITALIA",CRC News
-https://flash2.xdevel.com/crctv/crctv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Cremona 1
-https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Crime Time
-https://amg02512-amg02512c9-samsung-it-5470.playouts.now.amagi.tv/playlist/amg02512-nexodigital-crimetime-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Cusano Italia TV
-https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Cusano News 7
-https://stream2.xdevel.com/video1s975363-2103/stream/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Cusano News 7
-https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",D'Arte
-https://otter.ns0.it:9543/hbbtv01/Stream1/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Daystar TV
-https://amg00405-amg00405c1-amgplt0165.playout.now3.amagi.tv/smarttv/g32odw73f/playlist_cmaf.m3u8
 #EXTINF:-1 group-title="ITALIA",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Deejay TV
-https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",DellaTV
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Delta Tv
-http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 #EXTINF:-1 group-title="ITALIA",Deluxe 139
 https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",demo4k
-https://host1.momentotv.live:28443/cmaf/demo4k/manifest.mpd
 #EXTINF:-1 group-title="ITALIA",DI.TV 80
 https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",DI.TV 92
-https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Diciotto
-https://654be07bf207c.streamlock.net/Telemolise2-FB/Telemolise2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Digital TV 7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Discovery
-https://d3a5c87efixjp8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-94vzyl58b7u8n/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8?ck=Y2QxMjIzNzIzYTRmNGUyZThiNTU5YmY0OTZkNGNlMmQ6MzM2YTQ5M2Y2YjYwOTU3MjIwMmMyN2VjMWNlMzkwNGMsDQpkN2UyY2U2MTA1Mzc0OTBkYjBjMGM2Njg5ZGFmN2Y0ZDphMzM4NGRhNmJlYjFkNDRlNjU3OWQwNjZmMzliYmEyZQ==
-#EXTINF:-1 group-title="ITALIA",Discovery Channel
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-#EXTINF:-1 group-title="ITALIA",DJOssoTV
-https://djosso.fluid.stream/DJOssoTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Dmax
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 group-title="ITALIA",Dmax
-https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09713/stb-dash-fhd-avc/SV09713.mpd?ck=M2I0NjVkM2E1M2IzNGZhYzgxZTI1MTYzMGU5YWQ4ODQ6YWRjNGY5ZDVkZjg5MDJmZDAyYmI1ZmFhYjAxM2U0NDEsOGJhMDcwNTJiNTc1M2YyZDg5YjI4Y2YwZmM4MGIzYmU6NDljYjM1MzFmNmU2OTNkNzU5ZWIyOGM0ZTU1MjRjYTU=
-#EXTINF:-1 group-title="ITALIA",Doc TV
-https://64b16f23efbee.streamlock.net/radiodoctv/radiodoctv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Donna Shopping Tv
-https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Donna TV
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",duckTV
-https://dxvpcwoxxgnqg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sakdd2jiy1b8-ssai-prd/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Duri a morire
-https://amg02512-amg02512c5-samsung-it-2560.playouts.now.amagi.tv/playlist/amg02512-nexodigital-duriamorire-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",E'live Brescia Tv
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/chunklist_w1234149773.m3u8
-#EXTINF:-1 group-title="ITALIA",Easy & Italy
-https://5926fc9c7c5b2.streamlock.net/bjxypgjasy/bjxypgjasy/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Easy Tv Canale 190
-https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Eccellenza Calabria
-https://604e46ac2bdee.streamlock.net:1936/eccelenzacalabria/eccelenzacalabria/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Eden 86 TV
-http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u
 #EXTINF:-1 group-title="ITALIA",Elive TV Brescia
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Emme Tv
-https://live20.bozztv.com/akamaissh101/ssh101/emmetv89/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Entella TV
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Entella Tv
-https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/chunklist_w217528347.m3u8
-#EXTINF:-1 group-title="ITALIA",Entella Tv
-https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Equos Tv
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/2824fb1PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Errevutì
-https://stream10.xdevel.com/video0s977339-1877/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Espansione TV
-https://streamcdnm5-b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Espansione TV
-https://srvx1.selftv.video/espansione/smil:live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Espansione TV
-https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Esperia TV
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Esperia TV
-http://wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1096393748.m3u8
-#EXTINF:-1 group-title="ITALIA",Esperia TV Calabria
-https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",eTv Marche
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",eTv Rete 7
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",ETV Rete7
-https://live.ipstream.it/etv/etv.stream/chunklist_w802107428.m3u8
-#EXTINF:-1 group-title="ITALIA",ETV Umbria
-https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",ETV+
-https://live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Euro Indie Music Chart
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Euro TV
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Euronews
-https://www.mytivu.it/Application/Channels/Euronews.php
-#EXTINF:-1 group-title="ITALIA",euronews (in Italiano) - Euronews in diretta
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1780103716/ei/xOUZavDPA4SG0u8Pk_XMyQY/ip/87.17.91.226/id/pUcmpyynASM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51929566/txs/51929566%2C51929567%2C51929568/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwrdoPzvrFvWZMUzSE8spVfuWO0j0zs7hI0UdO5vBBp20uariV8zf2s80Dtcs2Hxyq7IJHVITy2s/spc/96XrvwcByja1YqgfB9YbR8qatFCod0JdGVZMvYKPnFQpIG1vLrwpNyVmUaZxhLRrZHzmAg/vprv/1/go/1/ns/hRaRRUeu8LaODuN-SG-M0kQV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51946838/dover/11/n/O_CeGe5HlWEYYCm5R/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgKGNYe4D6fO9rlkmcB4I-75JfXxEfw9dUF7lwOLkwM6cCIQDpNy63yrUHHs1KlO-Hde83LD0_kR5NVoVLp_Cnv5GcxQ%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Euronews IN DIRETTA
-https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMjYzZDg1ZmYtMzIyMC00ZGY3LTk2M2EtZTQ1ZmE0YzNhMjRhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
-#EXTINF:-1 group-title="ITALIA",Euronews IN DIRETTA
-https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMTc2OTM3YWEtNWU3MS00ZWFlLWExOTgtODJhZmQ2MDk0ODFmIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
-#EXTINF:-1 group-title="ITALIA",EuroNews Italia
-https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewsita-wedotveu/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Euronews Italiano
-https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/e/25674/euronews-it.m3u8
-#EXTINF:-1 group-title="ITALIA",Extra TV
-https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Failarmy
-https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Fano Tv
-https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Fashion Tv
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Fashion TV
-https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",FF Motor Sport
-https://host1.momentotv.live:28443/hls/ffmotorsport/index.m3u8
-#EXTINF:-1 group-title="ITALIA",FF Motorsport
-https://host1.momentotv.live:28443/cmaf/ffmotorsport/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Film Al Femminile - Wedo Movies
-https://amg00735-videosolutionsa-wedomoviesit-ono-c0mvz.amagi.tv/playlist/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Firenze TV
-https://39f0a786c3fb4d3fab9ec6870cc428f9.msvdn.net/live/S10341261/Wl6aWcmb8xsQ/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Firenze Viola TV
-https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
-#EXTINF:-1 group-title="ITALIA",FL Television
-https://eu1.servers10.com:8081/8144/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Fly Tv
-https://cloudvideo.servers10.com:8081/8144/index.m3u8
 #EXTINF:-1 group-title="ITALIA",FM ITALIA
 https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",FMTv Fermo Tv
-https://bbtv.intvstream.net:3988/live/fmtvlive.m3u8
-#EXTINF:-1 group-title="ITALIA",Focus
-https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Focus
-https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Focus
-https://wp6-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09715/stb-dash-fhd-avc/SV09715.mpd?ck=NzIyMTJmMmYxYTBiNDk5YWI0NjRlNTg4NzkwNzNmZWI6NjJkM2I1ZjFmM2RhMWU5M2MxYzFlMjgzYjZiYzU3ZWIsYmZmYjM3Mjg1YmVlMzUzZWFjNGFmZDhhNTU1MGEyMmU6NWQ0NDRjNmQ1MTlkZDdlMDc0YThhYTYwYjNlNjUwYWU=
-#EXTINF:-1 group-title="ITALIA",Food Network
-https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 group-title="ITALIA",Food Network
-https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09716/stb-dash-fhd-avc/SV09716.mpd?ck=ZTQzZDI0OGMzMDI1M2ZjZmE2ODVmMzlmNWVmNTVkNDYEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf=
-#EXTINF:-1 group-title="ITALIA",France 24 FAST English
-https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Frisbee
-https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="ITALIA",Frisbee
-https://alwaysdata-api.zappr.stream/frisbee.mpd?ck=MDEwMGM0ZTYyZTcxZjgyMzRkZDM1MWMzOTcxOWYyODk6NTRlMzZiODA4MTE0OWY4MmZlZGU4YTA3M2JiODQ5ZWEsDQowMTAxZGY4ZTQ2MzQyZmViMWMzYWY0ZGViOWNhZTIwZTo1OTFlMzk3NjI1MmM2N2IzZDM3NTRlMDViZmIxOGNjNiwNCjAxMDIwMjgyOTE5Yjg0ZGI3MWNiYjFkNGQ5YzViOGRhOjZmNTk2MDM0NTYxM2Q3OGM5MTQyZGEzMTY1MTRjNDk3LA0KMDEwMzU5ZjU0MzA3NTJiMWE2MmFkYjVjNjU4MmI2ZjI6MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAsDQowMTA0Y2M0MmIyMzc2MDMyMGYyMmRiOTllMWU2ZjdlOTowMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCwNCjAxMDViNjNlZmYyMTkwZjljMDFjOWIxNjBjZGQ4Zjc4OEME9M9cSy9FvfHvcx2gMPkp1H5Dj4YaKufPRsAyon8Tf
-#EXTINF:-1 group-title="ITALIA",FriuliTV24
-https://585b674743bbb.streamlock.net/9080/9080/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",FUEL TV
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Fuel TV (IT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lgit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Galileo Television
-https://samson.streamerr.co:8081/telegalileo-1/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Gambero Rosso
-https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c3-amgplt0165/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Gambero Rosso
-https://amg14891-amg14891c3-amgplt0033.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c3-amgplt0033/playlist.m3u8?
-#EXTINF:-1 group-title="ITALIA",Gambero Rosso
-https://www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmXYA
-#EXTINF:-1 group-title="ITALIA",Giallo
-https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
-#EXTINF:-1 group-title="ITALIA",Giallo
-https://wp6-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09717/stb-dash-fhd-avc/SV09717.mpd?ck=NGIxZDBhMzc2MDBkNDVjOTkzYzZhZGFjMDM0N2I5Mzc6NzdjMzE5ZWFlNmJjNDhiOWNlM2I3MjkyNWNhMDNjOTUsMGU0ZDA3OTgwMzA1MzVlZjhhNzliZWZjY2U2NmU2ZGE6NzZiMDg0YmE1MmU5ZmFjOTY4YmRiYmY2YzAwNTVhOTc=
-#EXTINF:-1 group-title="ITALIA",Giocabet TV
-https://live1.giocabet.tv/stream/1/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Giornale Radio News Tv
-https://gr2.fluid.stream/GR_sport/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 group-title="ITALIA",Giornale Radio TV
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Giornale Radio Tv
-https://gr.fluid.stream/GR_tv/livestream/playlist.m3u8?FLID=1
-#EXTINF:-1 group-title="ITALIA",Giornale Radio Tv
-https://5f204aff97bee.streamlock.net/GR_tv/livestream/chunklist_w1819045153.m3u8
 #EXTINF:-1 group-title="ITALIA",Giovanni Paolo TV
 https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Giovanni Paolo Tv
-https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
-#EXTINF:-1 group-title="ITALIA",Globe Tv
-https://host1.momentotv.live:28443/hls/globetv/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Globus Television
-https://cdn.cubws.com/live/globus.m3u8
-#EXTINF:-1 group-title="ITALIA",Globus Tv
-https://5f22d76e220e1.streamlock.net/globustelevision/globustelevision/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Go USA (IT)
-https://brandusa-gousa-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Go-TV Channel
-https://64b16f23efbee.streamlock.net/gooo/gooo/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Gold TV
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Gold TV Italia
-https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Gold TV Sat
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Golf Television
-https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c1-amgplt0165/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Grandi Nomi
-https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="ITALIA",Grjngo (IT)
-https://amogonetworx-grjngo-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Grjngo - Film Western
-https://30a2c5f3e66e4b208d68c6b61d5db155.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GrjngoFilmWestern/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",GRP VERATV
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
-#EXTINF:-1 group-title="ITALIA",GRP VeraTV
-https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
-#EXTINF:-1 group-title="ITALIA",GS Channel
-https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Guardia Costiera
-https://86c4bfd09c6044e4b68289bb367f7681.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_GuardiaCostiera/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Gusto TV (Sicilia)
-https://64b16f23efbee.streamlock.net/gustotv/gustotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Hannibal - La serie completa
-https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Hell's kitchen
-https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchenitalyrakuten-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Hell's Kitchen Italy
 https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",HGTV
-https://jmp2.uk/stvp-IT900003FU
-#EXTINF:-1 group-title="ITALIA",HGTV - Home & Garden
-https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09718/stb-dash-fhd-avc/SV09718.mpd?ck=NDNjMjc3MzI4ODMxNDUyNWFkNjg0MTM1NmU5YTVhMjE6M2I3NzFkY2Q2NTRlN2I5ZjNiYjYyYTdlMjRmNmI3MzMsNzlmOWZiZWM1MTViMzRkMDg0YmY2MDUyMDUyNDUwYmI6YmRkMDcwNzRhYTE3YWI0NGFhZDhhZTU3ZjllNWQxZGM=
-#EXTINF:-1 group-title="ITALIA",HGTV - Home&Garden
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
-#EXTINF:-1 group-title="ITALIA",Hip Hop TV
-https://chili-hiphop-tv-1-it.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="ITALIA",HorizonSport
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1c36c1e6-c5fd-11ec-967f-401ac48a6867/0/master.m3u8?country=it&vendor=rakuten
-#EXTINF:-1 group-title="ITALIA",Horror Club
-https://mnp-hor.otteravision.com/mnp/hor/hor_720.m3u8
-#EXTINF:-1 group-title="ITALIA",Horse TV (720p)
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",I Bellissimi - Film by Cinema Excelsior
-https://amg02512-nexodigital-amg02512c3-samsung-it-766.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemaexcelsior-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Icaro TV Rimini
-https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/chunklist_w2105836851.m3u8
-#EXTINF:-1 group-title="ITALIA",Idea Plus
-https://rst2.saiuzwebnetwork.it:8081/ideaplus/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Idiots Drive
-https://host2.hbbtv.me:28443/hls/idiotcar/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Il 61
-https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Il Sole 24 Ore TV
-https://amg14891-amg14891c8-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c8-amgplt0165/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",In Sicilia TV
-https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
-#EXTINF:-1 group-title="ITALIA",Inazuma Eleven Collection
-https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_InazumaElevenGo/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Inazuma Eleven Go
-https://minerva-pictures-inazumaelevengo-1-it.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="ITALIA",Info Media News
-https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/manifest.m3u8
-#EXTINF:-1 group-title="ITALIA",Info Media News
-https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",InfoCilento
-https://nrvideo1.newradio.it:1936/pskfvahhcs/pskfvahhcs/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",INTER 24/7
-https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Inuyasha
-https://amg17293-dynit-amg17293c1-rakuten-it-9739.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17293-dynitsrl-bleach-rakutenit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Iris
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Iris
-https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Iris
-https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09719/stb-dash-fhd-avc/SV09719.mpd?ck=OGZlNDc2ZjI2ZjczNGE0ZGJlMDY0ZDI4NDQwMzA1MjE6M2NiYzljMzdlMmFmZDBiZmQwNjYyZWJlODZjNzM4NWQsNjQxZmQ5MGZmZjEyMzhkOGJjNTllNTE1MzdmNDJkZDg6YTA0ZjQ0YWM2MzQ3NmIxOWYzZWQxYmNkZDA5ZDkwYjg=
-#EXTINF:-1 group-title="ITALIA",Itaca Tv
-https://host2.hbbtv.me:28443/hls/itacatv/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia 1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia 1
-https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Italia 1
-https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09243/stb-dash-fhd-avc/SV09243.mpd?ck=MWQ2NGRmMTUxMmI2NDgzZTkwZTg4NGVhOGQ1YTQ0ZjM6YWQyNDVlYzg4YmVjMzc5NWY4MTk0OGM0NDhiMmNlODIsYjNmOWM2MTUzNWJmMzMyNzlkODhmZmUxODk0MTkwYzQ6NDg4ZmEwYzk2MDgxYzUxOTI5MWQzODA5YmM0ZWU5OWI=
-#EXTINF:-1 group-title="ITALIA",Italia 1  HD
-https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 group-title="ITALIA",Italia 2
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia 2
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia 2
-https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Italia 2  TV
-http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Italia 7
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia 8 Prestige
-https://5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia 9 Network
-https://live20.bozztv.com/akamaissh101/ssh101/italia9network/chunks.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia Cable
-https://5f22d76e220e1.streamlock.net/italiacable/italiacable/chunklist_w1754775585.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia Channel
-https://stream1.aswifi.it/italiachannel/stream/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia Felix Tv
-https://host1.momentotv.live:28443/hls/italiafelix/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Italia2
-https://wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09720/stb-dash-fhd-avc/SV09720.mpd?ck=YTc1YTNlMDZlMzRmNDk3YmE1ZWI2M2UwNDQ1OGM3M2Y6NmU0NTZjNTBlZWY4ZjY3MjNiMWE3MWMzMTBiZTBiZDUsNGYwNGZlNmIxODRiMzk5NDljZTBmMWVhMGNkZDk0NTA6YTFmOGYzNzgwZWFlNWE5ZTQwMmE2ZDM5ZDA5YTllZmE=
 #EXTINF:-1 group-title="ITALIA",Italia2TV
 https://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",ItaliaCable
-https://5f22d76e220e1.streamlock.net/italiacable/italiacable/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Italian Fishing TV
-https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=0&ads.app_domain=0&ads.app_name=0&ads.consent=0&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 group-title="ITALIA",Iunior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Jonica Radio Tv
-https://5a1178b42cc03.streamlock.net/jonica/jonica/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Juventus Play
-https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
-#EXTINF:-1 group-title="ITALIA",K2
-https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:-1 group-title="ITALIA",Kiss Kiss Napoli TV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Kiss Kiss Napoli TV
-https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Kiss Kiss TV
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Kiss Kiss TV
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Kiss Kiss TV
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",L'altro Corriere TV
-https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",L'altro Corriere TV
-https://streamcdnb1-52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/chunklist_b1128000.m3u8
-#EXTINF:-1 group-title="ITALIA",La 5
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",La 5
-https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",La 5
-https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09721/stb-dash-fhd-avc/SV09721.mpd?ck=ZmM5NjRiMTZkZjk3NDAzN2IwYzFkMDM0MzliNDlkMDI6YWU2MzZkN2MxYWYwMTE2MmUzYTVmNDQ4NDNiY2YyMmMsMjI5NzI1NDJkOTg2MzAzNzkzNzI0NmQwZjU4ZjEyOTM6MWFkNjMxMzUzYmQ5NDMxNGIxYWQyMGViMzMyMGFjZTg=
-#EXTINF:-1 group-title="ITALIA",La C Network
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/chunklist_b3228000.m3u8
-#EXTINF:-1 group-title="ITALIA",La C OnAir
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/chunklist.m3u8
 #EXTINF:-1 group-title="ITALIA",La C TV
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",La C TV
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b3228000.m3u8
-#EXTINF:-1 group-title="ITALIA",La Grande Italia
-https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",La Nuova Tv
-https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",La Rockaforte TV
-https://5926fc9c7c5b2.streamlock.net/npwsqkmzjp/npwsqkmzjp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",La Tenda Tv
-https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",La Tv dei Viaggi
-https://bbtv.intvstream.net:3783/stream/play.m3u8
-#EXTINF:-1 group-title="ITALIA",La Voce TV
-https://stream9.xdevel.com/video0s977001-1746/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",La7
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-#EXTINF:-1 group-title="ITALIA",La7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",La7
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",La7 Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
-#EXTINF:-1 group-title="ITALIA",La7 Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:-1 group-title="ITALIA",La7 Cinema
-https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live_Audio-init.mp4
-#EXTINF:-1 group-title="ITALIA",La7 Cinema
-https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MjIwMTg3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sYTdkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVmODYzNDJiZTQyZTEwNTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.J9XZ6nnVPVhi5PBABI5s36pagNuoSpVIGPeTnoPWOyLSsUD7hh3xpx-3MfacDJ5eOMCNwEc3PGRGZkLG_qcSOA==/live/eds/la7d/browser-HLS8/la7d.m3u8
-#EXTINF:-1 group-title="ITALIA",LA7 Italia
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8%22
-#EXTINF:-1 group-title="ITALIA",La7d
-https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Lab TV
-https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.labtv.net
-#EXTINF:-1 group-title="ITALIA",Lab Tv
-https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
-#EXTINF:-1 group-title="ITALIA",Lab Tv 84
-https://videodelivery.net/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
 #EXTINF:-1 group-title="ITALIA",LaC News 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",LaC On Air
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",LaC OnAir
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",LaC Sat
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S18645024/mMAMHAA4IyPq/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Lazio TV
 https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Le Cronache
-https://lorenzocarbone.me/hls/cronache.m3u8
-#EXTINF:-1 group-title="ITALIA",Le Cronache Lucane Tv
-http://stucazz.com:8888/hls/cronache.m3u8
-#EXTINF:-1 group-title="ITALIA",Le Cronache TV
-https://stream7.livinlive.it/lecronache/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Le Cronache TV (720p)
-http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:-1 group-title="ITALIA",Lira TV
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Live
-https://srvx1.selftv.video/teleregionetoscana/live/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Lombardia Tv 80
-https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Lotto Corrado
-https://64b16f23efbee.streamlock.net/fascinocorrado/fascinocorrado/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Lotto Diego
-https://64b16f23efbee.streamlock.net/fascinodiego/fascinodiego/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Lotto Roberto
-https://64b16f23efbee.streamlock.net/fascinoroberto/fascinoroberto/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Love in Venice (Tele  Venezia)
-https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",LOVE MUSIC
-https://d4k.it/hls/live1/live.m3u8
-#EXTINF:-1 group-title="ITALIA",Love the Planet
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Love The Planet IT (1080p) [Geo-blocked]
-https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Luna TV
 https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",M2O TV
-https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Magazine TV
-https://media2021.rtvweb.com/magazinetv/web/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Man-ga
-https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Man-ga
-https://vdnwndmsc2-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Manà Manà Sport
-https://router.xdevel.com/video2s975363-2370/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Maria Vision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Maria Vision Italia
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Maria+Visión Italia
-https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/chunklist.m3u8
-#EXTINF:-1 group-title="ITALIA",Mater-Dei Tv
-https://rst2.saiuzwebnetwork.it:8081/materdeitv1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="ITALIA",Mayday: Disastro Aereo
-https://amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaydisastroaereo-rakutenit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Med TV
-https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiMzUzOTE2YTctNzNkOS00MGE0LTk5NmMtZjJkODgyYzRjZGVlIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
-#EXTINF:-1 group-title="ITALIA",Med TV
-https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNWEwNTcyODQtZDJjOC00MDVhLTk2MmEtYzU3MjE2Mzg5OTJjIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
-#EXTINF:-1 group-title="ITALIA",Media TV
-https://stream3.aswifi.it/mediatv/stream/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Mediaset 20 (hls)
-https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Mediaset Extra
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Mediaset Extra
-https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Mediaset Extra
-https://wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09722/stb-dash-fhd-avc/SV09722.mpd?ck=OTcwYzYzZjUzMGIwNGM0MzkxYTAzNzViNTU1NGFlZTI6Mzk1YzE4ZGM3MTg0Mjc2OGU5M2RhNGEyN2VmMWI3OWIsMjc3MjM3NmRkZmU0MzA5NTlmYTg2OTExOTU0NTk0ZTU6ODQzYzhjNTFmMWI3MjBiYTU1MjdmNDM4ZmJhZGYwODE=
-#EXTINF:-1 group-title="ITALIA",Mediaset Italia
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Mediaset Italia Us
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia_US/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Mediaset TGCOM24
-https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8%20%20
-#EXTINF:-1 group-title="ITALIA",MediaSud Calabria
-https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Mediterranea Tv
-https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",MediterraniaTV
-https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Medjugorje Italia TV
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Metal.Rocks
-https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00771-kochfilmsfast-metalrocks-rakutengb/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Milano Pavia TV
-http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Milano Pavia TV
-https://59d7d6f47d7fc.streamlock.net/telepavia/telepavia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Milanow
-https://telelombardia.video/video/viewlivestreaming?rel=66076&cntr=0
 #EXTINF:-1 group-title="ITALIA",Minformo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Minformo Tv
-https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Mito Italia
-https://host1.momentotv.live:28443/hls/mito/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Mitology TV
-https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Moda TV
-https://amg14891-amg14891c6-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c6-amgplt0148/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Momento Tv
-https://host1.momentotv.live:28443/hls/momentotv/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Motor1
-https://amg00614-amg00614c1-amgplt0007.playout.now3.amagi.tv/playlist/amg00614-amg00614c1-amgplt0007/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Motori TV
-https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Motori TV (Sicilia)
-https://64b16f23efbee.streamlock.net/motoritv/motoritv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Move - Sportivi in viaggio
-https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75fzs486ayykg/mov.m3u8
-#EXTINF:-1 group-title="ITALIA",Mr. Bean - Live Action
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Mr. Bean Anime Italy
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Mtrsprt 1 (IT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Napoletani nel Mondo
-https://host2.hbbtv.me:28443/cmaf/napoletaninelmondo/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Nature Time
-https://amg01576-amg01576c6-rakuten-it-10716.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01576-blueantmediacanadafast-naturetimeemeaaudioita-rakutenit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Nautical Channel (720p)
-https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",NewsWorld
-https://amg01076-amg01076c23-rakuten-it-8815.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworlditaly-rakutenit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Nora TV
-https://57068da1deb21.streamlock.net/noratv/noratv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Nove
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
-#EXTINF:-1 group-title="ITALIA",Nove
-https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd?ck=ZTBlNjMyNzFmMThmM2E4Yjg0YjBhNWQ1YmJmNGM2ODU6NDBmZTZjMjZiZTA5ZTU2NzhmYjcyOWE5YWI2OWIzMzY=
-#EXTINF:-1 group-title="ITALIA",NTi Canale 93
-https://www.ntimedia.it/video/S0B/S0B_master.m3u8
-#EXTINF:-1 group-title="ITALIA",Nuova Tv 1
-https://nuovatv.net:8443/tv/stream.m3u8
-#EXTINF:-1 group-title="ITALIA",Nuova Tv 2
-https://nuovatv.net:8443/tv2/stream.m3u8
-#EXTINF:-1 group-title="ITALIA",Nuova TV Nazionale (NTN)
+#EXTINF:-1 group-title="ITALIA",NTN
 https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Nuvola TV
-https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 #EXTINF:-1 group-title="ITALIA",Odeon 24
 https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Odeon Sardegna
-https://streaming.softwarecreation.it/Odeon24SA/Odeon24SA/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Onda Novara TV
-https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Onda TV
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
-#EXTINF:-1 group-title="ITALIA",Onda tv
-https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8
-#EXTINF:-1 group-title="ITALIA",Onda Web Radio
-http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",OndaTv (1984)
-https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w298613.m3u8
-#EXTINF:-1 group-title="ITALIA",OndaTV Giovani
-https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ora Tv
-https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",ORF 1
-https://netplus.zappr.stream/orf1.m3u8
 #EXTINF:-1 group-title="ITALIA",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Orler TV Favaro Veneto
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALIA",Oropa TV
-https://5926fc9c7c5b2.streamlock.net/9078/9078/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Otto Channel
-https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Paci Contemporary Channel
 https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Paradise Tv
-https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Paradiso Tv
-https://host1.momentotv.live:28443/hls/paradisotv/index.m3u8
 #EXTINF:-1 group-title="ITALIA",Parole di Vita
 https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Parole di Vita
-https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Partenope TV
-https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Passione Lotto (300p)
-http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Peer TV Alto Adige
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 group-title="ITALIA",Peer TV South Tyrol
-https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 group-title="ITALIA",Peer.tv
-https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1 group-title="ITALIA",Pet Mania
-https://host1.momentotv.live:29443/petmania/petmania/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Piana TV
-https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
-#EXTINF:-1 group-title="ITALIA",Pianeta imprese
-https://host2.hbbtv.me:28443/hls/pimprese/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Pianeta Salute TV
-https://64b16f23efbee.streamlock.net/pianetasalutetv/pianetasalutetv/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Più Valli TV
-https://5db313b643fd8.streamlock.net/piuvallitv/piuvallitv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Plus TV Sport
-https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/chunks.m3u8
-#EXTINF:-1 group-title="ITALIA",Political TV
-https://cloudtv.azotosolutions.com:9553/politicaltv/politicaltv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Prima Free
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Prima TV
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Prima TV
-https://64b16f23efbee.streamlock.net/primatv/primatv/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Prima Tv
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Prima TV Napoli
-https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",PrimAntenna TV
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Primocanale
-https://msh0203.stream.seeweb.it/live/stream2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Promovideo TV
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Promovideo Tv
-https://media2021.rtvweb.com/promovideo_web/promovideo/chunklist_w926768377.m3u8
-#EXTINF:-1 group-title="ITALIA",Punto Media
-https://host1.momentotv.live:29443/puntomedia/puntomedia/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Quadrifoglio Tv
-https://5dcab9aed5331.streamlock.net/livevideo/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Quants
-https://5db313b643fd8.streamlock.net/quants/quants/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Quarto Canale
-http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Quarto Canale
-https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/chunks.m3u8
-#EXTINF:-1 group-title="ITALIA",Quarto Canale Flegreo
-https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Qui Radio Londra TV
-https://load-balancer.azotosolutions.com/cdnedge6/smil:live6.smil/playlist.m3u
 #EXTINF:-1 group-title="ITALIA",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 group-title="ITALIA",QVC Italia
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1itcln/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Qwest TV
-https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="ITALIA",R115
-https://5a1178b42cc03.streamlock.net/R115tv/R115tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RACER International
-https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio 105 TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio 24
-https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio 3M InBlu
-https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio 4 You TV
-https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio 51 TV
 https://178.32.140.155/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio 51 TV
-http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio 51 Tv
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio 51 TV (480p) [Geo-blocked]
-http://178.32.140.155/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio 60 70 80
-https://5a1178b42cc03.streamlock.net/607080stream/607080stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio 80
-https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Adige TV
-https://stream9.xdevel.com/video0s976463-1250/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Bella & Monella
-https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Bellla e Monella TV
-https://str03.fluid.stream/RadioBelllaemonellaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Bianconera TV
-https://5e53c5849c731.streamlock.net/RadioBianconeraTV/smil:RadioBianconeraTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Birikina TV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Birikina Tv
-https://tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Bruno
-https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Calima
-https://nrvideo1.newradio.it/calimafm/calimafm/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Capital
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b2428000.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Capital TiVu
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Capri TV
-https://live.radiocapri.it/memfs/8ea0b12f-3624-4a80-8079-3d26747ae55b.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Carina TV
-https://samson.streamerr.co:8081/carinatv/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Città TV
-https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Company TV
-https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio CRC TV
-https://rst2.saiuzwebnetwork.it:8081/crc/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Diffusione Europea
-https://tv2.radiosaiuz.com:3496/live/rdelive.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Digiesse
-https://w1.mediastreaming.it/digiesse/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio DISCOunt
-https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Firenze Viola
-https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Gold
-https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Ibiza
-https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Ibiza TV
-https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1961450240.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Iglesias
 https://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Iglesias (576p) [Geo-blocked]
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Iglesias Sardegna
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Immagine TV
-https://media.velcom.it:8081/radioimmaginetv/index.fmp4.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Immagine TV
-https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Italia Anni 60 TV
-https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S29887338/irn4sIk4aeF2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Italia Cina TV
-https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Italia Trend
-https://radioitalia-samsungitaly.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Italia Trend TV
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Italia TV
-https://radioitaliatv.akamaized.net/hls/live/2093117-b/RadioitaliaTV/stream03/streamPlaylist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Italia TV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio JukeBox
-https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio JukeBox TV
-https://64b16f23efbee.streamlock.net/radiojukeboxtv/radiojukeboxtv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio LibertÓ
-https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",RADIO LINEA N.1 TV
-https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Lombardia TV
-https://stream9.xdevel.com/video0s976574-1330/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Mambo TV
-https://5926fc9c7c5b2.streamlock.net/9044/9044/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Marte Tv
-https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Norba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Norba TV
-https://stream7.xdevel.com/video0s975885-2346/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Norba Tv
-https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Number ONE
-https://56b50ada2d659.streamlock.net/RN1TV/livestream/chunklist_w1133430333.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio OneDance
-https://ice04.fluidstream.net/rn1_2.aac
-#EXTINF:-1 group-title="ITALIA",Radio Parsifal TV
-https://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Piter Pan Tv
-https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Piterpan TV
-https://str03.fluid.stream/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Pooh
-https://pooh.fluid.stream/RadioPoohTV/livestream/playlist.m3u8?FLID=V&type=.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Punto Zero TV
-https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Radio TV
-https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_abeef7b0903711eeb7c62796fbf7de76/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Radio TV
-https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_abeef7b0903711eeb7c62796fbf7de76/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Radio Tv
-https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Radiosa Tv
-https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Rock TV
-https://rr.fluid.stream/RadioRockTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Roma
-https://www.dailymotion.com/cdn/live/video/x96kfby.m3u8?sec=SvaQKJwW21RUFoeuBMBedxJum9EBI1MQbHyjb04ydMsxWxECmf17kcAZddPNP0Mu
-#EXTINF:-1 group-title="ITALIA",Radio Roma News
-https://www.dailymotion.com/cdn/live/video/x96kf9k.m3u8?sec=BOXNy_WseNWq1yTOd-GS5tHIJBMzoEvy3smPGRsYUvZVQkl1GF4BFFHd_Ylekoxm
-#EXTINF:-1 group-title="ITALIA",Radio Sorriso TV
-https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio SorRriso TV
-https://str02.fluid.stream/RadioSorrrisoTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Studio Delta TV
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Studio Più
-https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Sunbeat
-https://stream.rcs.revma.com/2vke97f39yuvv
 #EXTINF:-1 group-title="ITALIA",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Taormina Tv
-https://router.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Time Tv
-https://router.xdevel.com/video0s975521-196/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio TV Serda
-https://stream.ejatv.com/memfs/dff807e1-b3b2-49f5-92d6-5b178be4eb6d_output_0.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Vacri Tv
-https://host1.momentotv.live:28443/hls/radiovacri/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Radio Zeta
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio ZETA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Radio Zeta TV
-https://streamcdng13-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist_b3256000.m3u8
 #EXTINF:-1 group-title="ITALIA",Radiofreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1 group-title="ITALIA",RadioFreccia
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Rai 1
 https://srv1.adriatelekom.com/Rai1/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",RAI 1
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI 1
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:-1 group-title="ITALIA",Rai 1
-https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 1
-https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09101/stb-dash-fhd-avc/SV09101.mpd?ck=N2Y5ZjZlM2M3OGIyNDg2ZjlmZTEzZTA2YmRiNzY4ZDI6YjM0MWMxMTM2YTM3MzhmM2E2ZWExOTdkMzFmYWIzNWM=
-#EXTINF:-1 group-title="ITALIA",RAI 1 (mx player)-ott
-http://ott-cdn.ucom.am:80/s29/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 1 Europa
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 1 HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 #EXTINF:-1 group-title="ITALIA",Rai 2
 https://srv1.adriatelekom.com/Rai2/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI 2
-https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",RAI 2
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-#EXTINF:-1 group-title="ITALIA",Rai 2
-https://wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09103/stb-dash-fhd-avc/SV09103.mpd?ck=ODM5ODUzMzc2OGFlNDliZTg2MmY0NThlZGM3OGY4Mjg6NjA5MjczYzI2YzMxYTQwOTAzMTBlMzk0NWMwZGI1ZGYsNmYxNjE1Mjk0NzkzM2UyY2I3NTI4ODc5MDUyNTkxYTk6YWQ2MjkxNTY5NzcyYmI3ZDhjODlmYjI1NjVmZTQxMTU=
-#EXTINF:-1 group-title="ITALIA",RAI 2 (link 2)
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 2 Europa
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 2 HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 #EXTINF:-1 group-title="ITALIA",Rai 3
 https://srv1.adriatelekom.com/Rai3/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",Rai 3
-https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3
-https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09104/stb-dash-fhd-avc/SV09104.mpd?ck=ZjMzOWEzNzgxM2Y3NDI3MDhkMTQzNjU2ZGQ1ZjUzMjM6MTdhOWExM2UzZmJmZTFkOWNhZDczOWMyMWM4OWQzZmMsNzdiYzljZTNiMGNjM2NlN2IwMWY2NjU2YjI1NTQ0YTc6MjZmODliOWEzMmUyNjU4YWY4NDA3NDNiODE2NTRjMmQ=
-#EXTINF:-1 group-title="ITALIA",Rai 3
-https://raisportdue3-live.akamaized.net/hls/live/2018009/raisportdue3/raisportdue3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI 3 (link 2)
-https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 Europa
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Abruzzo
-https://tgrabruzzo-live.akamaized.net/hls/live/2025558/tgrabruzzo/tgrabruzzo/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Basilicata
-https://tgrbasilicata-live.akamaized.net/hls/live/2025559/tgrbasilicata/tgrbasilicata/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Calabria
-https://tgrcalabria-live.akamaized.net/hls/live/2025561/tgrcalabria/tgrcalabria/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Campania
-https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Emilia-Romagna
-https://tgremiliaromagna-live.akamaized.net/hls/live/2025563/tgremiliaromagna/tgremiliaromagna/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Friuli-Venezia Giulia
-https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Lazio
-https://tgrlazio-live.akamaized.net/hls/live/2025147/tgrlazio/tgrlazio/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Liguria
-https://tgrliguria-live.akamaized.net/hls/live/2025565/tgrliguria/tgrliguria/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Lombardia
-https://tgrlombardia-live.akamaized.net/hls/live/2025566/tgrlombardia/tgrlombardia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Marche
-https://tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Molise
-https://tgrmolise-live.akamaized.net/hls/live/2025568/tgrmolise/tgrmolise/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Piemonte
-https://tgrpiemonte-live.akamaized.net/hls/live/2025569/tgrpiemonte/tgrpiemonte/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Puglia
-https://tgrpuglia-live.akamaized.net/hls/live/2025570/tgrpuglia/tgrpuglia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Sardegna
-https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Sicilia
-https://tgrsicilia-live.akamaized.net/hls/live/2025573/tgrsicilia/tgrsicilia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Toscana
-https://tgrtoscana-live.akamaized.net/hls/live/2025574/tgrtoscana/tgrtoscana/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Trento
-https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Umbria
-https://tgrumbria-live.akamaized.net/hls/live/2025576/tgrumbria/tgrumbria/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Veneto
-https://tgrveneto-live.akamaized.net/hls/live/2025578/tgrveneto/tgrveneto/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",RAI 4
-https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 4
-https://wp6-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09105/stb-dash-fhd-avc/SV09105.mpd?ck=NzUxMjI0NDdjNGZlNGY5NmFhNjBlZjlmMTYyMDZjOTQ6NmNlMzFiYTM1YjA5ZjM3ZmQwMGJhZDUwYjhhZjI1OTcsYWZhMGVmMGU4MTcxM2RlNjg3Y2U2NjcyNWZhNGU3Njg6Y2RjMjNjODZjN2YyZGRkY2UzZWU4NzljYTM3YTBhODQ=
-#EXTINF:-1 group-title="ITALIA",Rai 4 HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
-#EXTINF:-1 group-title="ITALIA",RAI 4K
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI 4K
-https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",RAI 5
-http://78.130.250.2:8023/play/a04o/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai 5 HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTINF:-1 group-title="ITALIA",Rai Gulp
 https://srv1.adriatelekom.com/RaiGulp/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",RAI Gulp
-http://78.130.250.2:8023/play/a04m/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Gulp
-https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:-1 group-title="ITALIA",Rai Gulp
-https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09111/stb-dash-fhd-avc/SV09111.mpd?ck=NDZmY2NiZjg3YmQyMzQ3MjlkNDIwNTU1YzE2ZGU2ZTg6ODllNWZlNjg4NDEwNjUzNmE2NGZkNmQ3Y2Y0MGE0Yzg=
-#EXTINF:-1 group-title="ITALIA",Rai Gulp HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
-#EXTINF:-1 group-title="ITALIA",RAI Italia Africa
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Italia Americas
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Italia Asia
-http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Italia Australia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",Rai Movie
-https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai Movie
-https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09108/stb-dash-hdready-avc/SV09108.mpd?ck=ZTFmYWFmYWJlMTA4NGUzMGI2NTc2NDViZjcxYzFhZTI6ZmFiNTRlNjU5NTI4NGQ0OTA4NzRmY2RiNmViNmY0NjYsMTA2YThkMzg4MzAyM2YzZWEzOTY4M2QzZThjMjcxMTM6M2ZjODkxM2YwYzM4OTU2MTUxYmI2YWEzN2FjZTIyMmI=
-#EXTINF:-1 group-title="ITALIA",Rai Movie HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
-#EXTINF:-1 group-title="ITALIA",Rai News
-https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/ABCD/Rai/RaiNews24_IT/rainews1/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI News 24
-http://78.130.250.2:8023/play/a04l/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI News 24 Europa HD
-https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai News 24 HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
-#EXTINF:-1 group-title="ITALIA",Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",Rai Premium
-https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
-#EXTINF:-1 group-title="ITALIA",Rai Premium (1080p)
-http://78.130.250.2:8023/play/a04i/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Radio 2
-https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 #EXTINF:-1 group-title="ITALIA",Rai Scuola
 https://srv1.adriatelekom.com/RaiScuola/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Scuola
-http://78.130.250.2:8023/play/a04h/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",RAI Scuola
-https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
-#EXTINF:-1 group-title="ITALIA",Rai Scuola
-https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV06534/stb-dash-fhd-avc/SV06534.mpd?ck=OTEwMTg4NjYxYjljM2UyMjhmMGU1NDQ2NGQ2YjZjZTM6ZDBhNGRkMTVlMDc0OWYwMTIxZjFmNTYwZmU4YWZkOTI=
-#EXTINF:-1 group-title="ITALIA",Rai Scuola
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 #EXTINF:-1 group-title="ITALIA",Rai Sport
 https://srv1.adriatelekom.com/RaiSport/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai Sport
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1 group-title="ITALIA",Rai Sport
-http://78.130.250.2:8023/play/a04n/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai Sport
-https://wp11-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09106/stb-dash-fhd-avc/SV09106.mpd?ck=ODdhNWJlYWM1NGM3NGJmNGE5NWExNDJiOTBmYjgxN2Y6NDYxOGQxZDhkMTkwMzIyMzk5MDYzNWYxODFhZmQyMDIsYTVmODFkNzk0OWY4M2ZiOWJkYzM5ZmRlYzYxMzllM2M6YWFjMjU4M2FiODcwZmM2NWVkZGRhOTk0ZTA5MGNhODk=
-#EXTINF:-1 group-title="ITALIA",Rai Sport + HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",Rai Sport jolly
-https://raisportjolly1-live.akamaized.net/hls/live/2034072/raisportjolly1/raisportjolly1/raisportjolly1_2400/chunklist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai Storia
-https://srv1.adriatelekom.com/RaiStoria/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",RAI Storia
-https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:-1 group-title="ITALIA",Rai Storia
-https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
-#EXTINF:-1 group-title="ITALIA",Rai Storia
-https://wp1-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09112/stb-dash-fhd-avc/SV09112.mpd?ck=YWY3MDI1NjE3NjI2NDc5NjhkYTQ2MzIyMWIxYjU3OTc6YmFkYjk0YTg5ODA1Y2JjNmM5NjFkZWEwYTU3MGJkYWEsYmUxMmQyZjMwZTA1MzVhMGFiYWVlMzI0YzkxYzRmZTQ6MzAwZGMxY2I3Mzk2MzZlMjY0YjM0MDZlYzQ0YjdhY2Y=
-#EXTINF:-1 group-title="ITALIA",RAI Storia (1080p)
-http://78.130.250.2:8023/play/a04f/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Sudtirol
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rai World Premium
-https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Yoyo
-http://78.130.250.2:8023/play/a04d/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RAI Yoyo
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="ITALIA",Rai Yoyo
-https://wp13-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV00472/stb-dash-sd-avc/SV00472.mpd?ck=ZjAwMWVjYzlmN2FhM2I5MWFhOGIyNjNiNmNmNmZlMmQ6ZWIzZDk1ZDgxOTQ4NTFlMjNjZDAwNzgxM2RlMDc5Yzc=
-#EXTINF:-1 group-title="ITALIA",RaiPlay 3
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/playlist_mo.m3u8
-#EXTINF:-1 group-title="ITALIA",RaiPlaySport 1
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
-#EXTINF:-1 group-title="ITALIA",RaiPlaySport 2
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/chunklist.m3u8
-#EXTINF:-1 group-title="ITALIA",RaiPlaySport 3
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rakuten TV Action Movies Italy
-https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
 #EXTINF:-1 group-title="ITALIA",Rakuten TV Crime Series Italy
 https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Rally TV
-https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ran Friul
-https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ran Friul
-https://5f22d76e220e1.streamlock.net/RanFriul/RanFriul/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ran Germ
-https://load-balancer.azotosolutions.com/cdnedge34/rangerm/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ran Network
-https://load-balancer.azotosolutions.com/cdnedge34/ranetwork/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ran News
-https://load-balancer.azotosolutions.com/cdnedge34/ranwes/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ran Slo
-https://load-balancer.azotosolutions.com/cdnedge34/ranslo/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ran Sport
-https://load-balancer.azotosolutions.com/cdnedge34/ransport/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ran Stereo
-https://load-balancer.azotosolutions.com/cdnedge34/ranstereo/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RBE-TV
-https://5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RC88
-https://giatv.bozztv.com/giatv/giatv-centroitalia/centroitalia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RCS 75
-https://stream9.xdevel.com/video0s975429-131/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RDE Tv
-https://rst2.saiuzwebnetwork.it:8081/rdetrieste/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RDS Social TV
-https://stream.rdstv.radio/index_9.m3u8
-#EXTINF:-1 group-title="ITALIA",RDS Social TV
-https://stream.rdstv.radio/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:-1 group-title="ITALIA",Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 group-title="ITALIA",Realtime
-https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09319/stb-dash-fhd-avc/SV09319.mpd?ck=NzU0NTNmYTczMjJmNGI4YjgxYjI4NTUyOWI3MjZlNjM6Y2E3OWJkMjY1YmU2YWM3MzE1NTU1YWExYmJlYTZhZmUsNjBlYjhkZGJhNzExMzkxNTkxNGI4NjU2NjJmZWNiZGI6OGFjYTZlZGRkMGEyODBmMzlkZGM3NTM3MmJlMmFmZDk=
-#EXTINF:-1 group-title="ITALIA",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ITALIA",ReggioTV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rei Tv
-https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete 4
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete 4
-https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Rete 4
-https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09242/stb-dash-fhd-avc/SV09242.mpd?ck=MmRjMjBlNTM5N2U1NDAxNjk5OWI5Y2E0ZmM2ZmJiNzQ6MDVjOWNiZGFlYWVkNGY3ZmY2ZjBkYjk3OGM2YWFmZTksNTAyODI5YTYxOGE5NDBmZWJiMTkyMzVjZGEzNDE0MDE6ZjFlMWY5MDg0OTE0Mzk0YzU4OGMzODdiZDU4ZDYzOGY=
-#EXTINF:-1 group-title="ITALIA",Rete 4 (hls)
-https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete 4 HD
-https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:-1 group-title="ITALIA",Rete 55
-https://live1.giocabet.tv/stream/6/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete 55 (720p) [Not 24/7]
-https://stream.internet.one/Rete55_Live/index.m3u8
 #EXTINF:-1 group-title="ITALIA",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete 8
-https://edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8/master.m3u8?start=now-200m
-#EXTINF:-1 group-title="ITALIA",Rete 8 Sport
-https://edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8sport/master.m3u8?start=now-1m
-#EXTINF:-1 group-title="ITALIA",Rete 8 Vga
-https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Rete Biella TV
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete Biella TV
-https://wb.top-ix.org/redirect/retebiella/_definst_/streaming?type=m3u8
-#EXTINF:-1 group-title="ITALIA",Rete Italia
-https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
 #EXTINF:-1 group-title="ITALIA",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete Oro
-https://5a1178b42cc03.streamlock.net/ReteoroRoma/ReteoroRoma/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete Sole (Lazio)
-https://5926fc9c7c5b2.streamlock.net/9332/9332/chunklist_w830303151.m3u8
 #EXTINF:-1 group-title="ITALIA",Rete TV Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete Tv Italia
-https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/chunklist_w992954157.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete Veneta
-http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete7
-https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
-#EXTINF:-1 group-title="ITALIA",Rete8 Sport
-https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Reteconomy
-http://streaming.reteconomy.it/live/reteconomy/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALIA",Retemia
-https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Retemia
-https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Reteoro Roma
-https://5a1178b42cc03.streamlock.net/ReteoroRoma/ReteoroRoma/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Retesole Umbria
-https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Reteveneta
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Risate Cult '80
-https://chili-film-sorrisi-1-it.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="ITALIA",Ritmo 80
-https://str41.fluid.stream/Ritmo80TV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RMC 101 TV
-https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/chunklist_w2083631440.m3u8
-#EXTINF:-1 group-title="ITALIA",Rock TV
-https://chili-rock-tv-1-it.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="ITALIA",Roma Tv 82
-https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Romantica
-https://amg00069-amg00069c3-samsung-it-5223.playouts.now.amagi.tv/playlist/amg00069-highview-romantica-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Romit TV
-https://stream10.xdevel.com/video21s975955-2185/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rossini TV
-https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
-#EXTINF:-1 group-title="ITALIA",RSI La1
-https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?ck=MDlhZjVmNmViODkwNDFjYThmNWQxNjQxNjUxNDJlODY6MTk4OWNjOWM5Y2U1YjJiNTJjYjkzZWRhYWVmZTg0MjAsZDI2OGQ4MTBkOGE3M2JkOGI3ZDU0YTZhMDg3NTgxZDI6MWFhZjI5NzU0MzE2OGM2MjVlMDVhYTllMjczNDQ0NzE=
-#EXTINF:-1 group-title="ITALIA",RSI La1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1 group-title="ITALIA",RSI La2
-https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?ck=MTE3ZDA3ZmQ5OGNjNDZlZjhlMDk5MzZkMGQzN2M1MDY6Yjk1MjhjYjNmMjNlYWFkNzg5ZjBmMzNiZjZiMDE4NjgsMTY2YjJmMGQ1NmZiMzJkOWI0NmQ0YjFjYTFiNWJmMTY6ZDc4ZWU1YzkxZWIzYjliNmQzNzQxNGE0Zjc4OWJjOWI=
-#EXTINF:-1 group-title="ITALIA",RSI La2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTINF:-1 group-title="ITALIA",RSO Radio
-https://585b674743bbb.streamlock.net/9056/9056/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Rta - Radio Tivù Azzurra
-https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RTI Calabria
-https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
-#EXTINF:-1 group-title="ITALIA",RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RTL 102.5 + Plus
-https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/chunklist_b5256000.m3u8
 #EXTINF:-1 group-title="ITALIA",RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:-1 group-title="ITALIA",RTL 102.5 Bro&Sis
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
-#EXTINF:-1 group-title="ITALIA",RTL 102.5 Bro&Sis
-https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 #EXTINF:-1 group-title="ITALIA",RTL 102.5 Caliente
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 #EXTINF:-1 group-title="ITALIA",RTL 102.5 Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
-#EXTINF:-1 group-title="ITALIA",RTL 102.5 Disco
-https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 #EXTINF:-1 group-title="ITALIA",RTL 102.5 Napule
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-#EXTINF:-1 group-title="ITALIA",RTL 102.5 NapulR
-https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-#EXTINF:-1 group-title="ITALIA",RTL 102.5 Romeo & Juliet
-https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 #EXTINF:-1 group-title="ITALIA",RTL 102.5 Traffic
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 group-title="ITALIA",RTL 102.5 Traffic
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 group-title="ITALIA",RTL 102.5 TV
-https://streamcdnl1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 group-title="ITALIA",RTM
-https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",RTM
-https://cdn17.streamshow.it/cloud-rtmtv/rtmtv.stream/chunklist.m3u8
-#EXTINF:-1 group-title="ITALIA",RTM (Marche)
-https://cdn17.streamshow.it/cloud-rtmtv/rtmtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",RTM TV
 https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",RTP
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RTP
-http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RTP
-https://router.xdevel.com/video0s975966-797/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RTR 99 TV
-https://str38.fluid.stream/RTR99TV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RTR 99Tv (Ti ricordi Tv)
-https://rtr99.fluid.stream/RTR99TV/livestream/playlist.m3u8?FLID=V&type=.m3u8
-#EXTINF:-1 group-title="ITALIA",RTR99 Ti Ricordi
-https://str38.fluid.stream/RTR99TV/livestream/chunklist_w708886143.m3u8
-#EXTINF:-1 group-title="ITALIA",RTR99 Tv
-https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",RTTR
-https://rttr.fluid.stream/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",RTTR Trento
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",RTV38
 https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",RTV38 Televaldarno
-https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Sardegna1
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Satisfaction TV
-https://stream10.xdevel.com/video22s975955-2186/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",SeilaTV Bergamo
-https://nrvideo1.newradio.it:1936/efstzahwew/efstzahwew/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Serially (IT)
-https://ixmediasrl-serially-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Sesta Rete
-https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Sestarete
-https://64b16f23efbee.streamlock.net/sestarete/sestarete/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",SET TV
-https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Set Tv Cilento
-https://stream1.aswifi.it/settv/live/index.m3u8
-#EXTINF:-1 group-title="ITALIA",SI Lazio Style
-https://distribution.sportitalialive.it/livein/laziostyle/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",SI Primavera TV
-https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",SI Solo Calcio
-https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Sicilia 24
-https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Siciliamedia TV
-http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Siena Tv
-https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Sky TG24
-https://www.mytivu.it/Application/Channels/SkyTG24.php?m3u8
-#EXTINF:-1 group-title="ITALIA",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 group-title="ITALIA",SKYLINE TV
-https://64b16f23efbee.streamlock.net/skylinetv/skylinetv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",SL48
-https://streaming.softwarecreation.it/sl48/sl48/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",SL48 TV
-http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Smile
-https://chili-chilibuonumore-1-it.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="ITALIA",Soap Latino
-https://2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Soap Turco
-https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Solocalcio (SamsungTV)
-https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Sophia TV
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Sorrisi (IT)
-https://chili-film-sorrisi-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Sport Channel
-https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Sportitalia
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Sportitalia
-https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",SportOutdoor.Tv
-https://gto2000-sportoutdoortv-1-eu.xiaomi.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="ITALIA",Sportvl
-https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Squadra Speciale Cobra 11
-https://alarm-for-cobra-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-7231/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Squadra Speciale Lipsia
-https://4ede4e2e52be4ac280c54ec711b428fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SquadraSpecialeLipsia/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",ST Europe Channel
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",StandbyTV
-https://5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Stile Tv
-https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
-#EXTINF:-1 group-title="ITALIA",Storie Criminali
-https://amg01821-amg01821c19-samsung-it-3199.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovecrimeandhistoryitaly-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",STUDIO 100
-https://cdn16.streamshow.it/cloud-studio100/studio100/chunklist.m3u8
-#EXTINF:-1 group-title="ITALIA",Studio 100
-https://cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Studio 7 TV
-https://stream9.xdevel.com/video0s976596-1371/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Studio e Meta Film
-https://host1.momentotv.live:28443/hls/studiomf/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Super
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Super J Tv
-https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Super TV
 https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Super TV (720p)
-http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Super TV Oristano (720p) [Not 24/7]
-http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Super!
-https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Super24
-https://5db313b643fd8.streamlock.net/leotv/leotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",SuperSIX
-https://5f22d76e220e1.streamlock.net/supersixnew/supersixnew/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",SuperSix New
-https://5f22d76e220e1.streamlock.net/supersixnew/supersixnew/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Supertennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 group-title="ITALIA",SuperToons TV
-https://d1b18rn1fy7w7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vbsddt58t1ej1/feed/samsung/streams/SUPERTOONS_IT/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
-#EXTINF:-1 group-title="ITALIA",Supertv
-https://cdn12.streamshow.it/hbbtv-supertv/supertv/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",SuperTv Brescia
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 #EXTINF:-1 group-title="ITALIA",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Taurianova TV
 https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tcf Tv
-https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TCI
-https://cdn.jwplayer.com/live/broadcast/NXTAdMkM.m3u8
-#EXTINF:-1 group-title="ITALIA",Teatro TV
-https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele A
-https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele A (Canale 18 Campania)
-https://lostream.it/hls/telea/video.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele A1
-https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Acras
-https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Alto But
-https://load-balancer.azotosolutions.com/cdnedge34/telealtobut/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Boario
-https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Bruzzano
-https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Club Italia
-https://www.theclubfactory.com/streaming/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Colore Salerno
-https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Cupole
-https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Dehon
-https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Dolomiti
-https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Estense
-https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Foggia
-http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Liberta' HD
-https://liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Tele Liguria Sud
 https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Liguria Sud
-https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Molise
-https://654be07bf207c.streamlock.net/Telemolise4K/_definst_/Telemolise4K/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Molise
-http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Nostra
-https://13574-8.b.cdn12.com/hls/f099fa8883.ulive/_c/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Occidente
-https://stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Oltre
-http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
 #EXTINF:-1 group-title="ITALIA",Tele One 16
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Pavia
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Pavia
-http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Pegaso
-https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Piadena
-https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Ponte Abruzzo
-https://54627d4fc5996.streamlock.net/ekuotv/ekuotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Pordenone
-https://video.wifi4all.it/telepn/telepn.m3u8
 #EXTINF:-1 group-title="ITALIA",Tele Quattro
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Quattro
-http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Quattro Trieste
-http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Radio Ercolano
-https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Radio Monte Kronio Sciacca (RMK TV)
-https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Radio Orte
-https://stream10.xdevel.com/video0s977516-2077/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Radio Orte
-https://flash2.xdevel.com/ortetv/ortetv/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Radio Sciacca
-https://5db313b643fd8.streamlock.net/teleradiosciaccatv/teleradiosciaccatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Romagna
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Romagna 24
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Sondrio News
-https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Sud Puglia
-https://64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Tutto
-https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Tutto
-https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Tutto 2
-https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S75141837/T3wd5WoxAo4B/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Tutto 2
-https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Tutto 24
-https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S64637685/c2e0XXmwILE9/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Tutto 24
-https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Venezia
-https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele Video Agrigento (T.V.A.)
-https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele2000
-https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele8
-https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tele90
-https://5db313b643fd8.streamlock.net/tele90/tele90/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleAbruzzo (Abruzzo Tv)
-http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Teleambiente
-https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleAmbiente
-https://5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleAmbiente
-https://5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u
 #EXTINF:-1 group-title="ITALIA",TeleArena
 https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleArena
-https://58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telearena
-https://5f204aff97bee.streamlock.net/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleArena Verona
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleBari
-https://w1.mediastreaming.it/telebari/livestream/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Telebari
-https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleBelluno
-https://g2qd3exzy7an-hls-live.mariatvcdn.it/livetelebelluno/be0e3154b820953ce1a94a937bb2bb5d.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleBelluno
-https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
-#EXTINF:-1 group-title="ITALIA",Telebiella
-https://wb.top-ix.org/redirect/avtvlive/telebiella/streaming?type=m3u8
-#EXTINF:-1 group-title="ITALIA",TeleBoario
-https://router.xdevel.com/video0s976425-1205/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Telecamaiore Nuovi Orizzonti
-https://tv.ccn.it/hls/0/stream.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleCampione
-https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telecentro 2
-https://5f22d76e220e1.streamlock.net/telecentro2/telecentro2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telechiara
-http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telechiara
-https://fms.telemar.it:1936/telechiara/diretta/chunklist_w285735564.m3u8
-#EXTINF:-1 group-title="ITALIA",Telechiara
-https://fms.telemar.it:1936/telechiara/diretta/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telecittà
-https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telecitt� Padova
-https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u8
-#EXTINF:-1 group-title="ITALIA",Telecitt� Padova
-https://tango.wifi4all.it/telecitta/telecitta.m3u8
-#EXTINF:-1 group-title="ITALIA",Telecity Lombardia
-https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telecity Piemonte
-https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telecity Valle d'Aosta
-https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleClubItalia
-https://teleclubitalia.iostream.it/teleclubitalia.m3u8
 #EXTINF:-1 group-title="ITALIA",Telecolor Lombardia
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleComunicare
-https://host1.momentotv.live:28443/hls/telecomunicare/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleCostaSmeralda
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleCupole
-https://d4k.it/hls/live2/live.m3u8
-#EXTINF:-1 group-title="ITALIA",Telecupole Liguria
-https://d4k.it/hls/live3/live.m3u8
-#EXTINF:-1 group-title="ITALIA",Teledehon
-https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/playlist.m3u
 #EXTINF:-1 group-title="ITALIA",Telefoggia
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telefoggia
-http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w386788975.m3u
-#EXTINF:-1 group-title="ITALIA",Telefoggia
-http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
-#EXTINF:-1 group-title="ITALIA",Telefoggia
-http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",Telefoggia
-https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u
 #EXTINF:-1 group-title="ITALIA",Telefriuli
 https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleFutura
-https://rst2.saiuzwebnetwork.it:8081/telefutura/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="ITALIA",Telegela 647
-https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleGenova
-https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telegolfo RTG
-https://nrvideo1.newradio.it:1936/vmbjrayngd/vmbjrayngd/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleGranducato
-https://www.granducatotv.eu/tv/granducato/hls/?cid=40
-#EXTINF:-1 group-title="ITALIA",TeleGranducato
-https://www.granducatotv.eu/tv/granducato/hls/index.flashls.m3u8.php?cid=0&m3u8=.m3u8
-#EXTINF:-1 group-title="ITALIA",Teleiblea
-https://5f22d76e220e1.streamlock.net:443/teleiblea/teleiblea/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Teleiblea
-https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Teleischia
-https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Teleischia
-https://eu1.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Teleitalia 41
-https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telejato
-https://telejato.liberotratto.com/hls/stream.m3u8
-#EXTINF:-1 group-title="ITALIA",Telejato (Sicilia)
-https://648026e87a75e.streamlock.net/telejato/telejato/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telejonio
-http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telelaser
-https://585b674743bbb.streamlock.net/9022/9022/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleLeonessa
-https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleLeonessa
-https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w573230189.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleLeonessa
-http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
-#EXTINF:-1 group-title="ITALIA",Telelombardia
-https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:-1 group-title="ITALIA",TeleMajg
 https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleMajg
-https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/chunklist_w656612441.m3u
 #EXTINF:-1 group-title="ITALIA",Telemantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleMantova
-https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/chunklist_w219870635.m3u8
-#EXTINF:-1 group-title="ITALIA",Telemax
-https://livetv.telemaxtv.it/hls/mystream.m3u8
 #EXTINF:-1 group-title="ITALIA",TeleMia
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 #EXTINF:-1 group-title="ITALIA",TeleMia Extra
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
-#EXTINF:-1 group-title="ITALIA",Telemiracoli
-https://rst.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleMistretta
-https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telemolise
-http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telemolise
-https://654be07bf207c.streamlock.net/Telemolise4K/Telemolise4K/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Telemontecarlo
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telenorba
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/media-video-stream-1.m3u8?start=now-1h&end=now
-#EXTINF:-1 group-title="ITALIA",Telenorba
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-320m
-#EXTINF:-1 group-title="ITALIA",TeleNorba
-https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Telenord
-https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telenord
-https://5f22d76e220e1.streamlock.net:443/telenord/telenord/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telenova
-https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telenuovo
-https://ovp-live.akamaized.net/ac106_live/ac106_source_001_3/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telenuovo
-https://liveac901.b-cdn.net/channel02.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telepace
-https://geo.dailymotion.com/player/x1ganu.html?video=x9pha96
-#EXTINF:-1 group-title="ITALIA",Telepace 1
-https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TelePace 1
-https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telepace 2
-https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TelePace 2
-https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telepace 3
-https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TelePace 3
-https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telepace 4
-https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TelePace 6
-https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TelePace Roma
-https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Telepace Trento
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telepavia
-https://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telepegaso
-https://stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleQuattro
-http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1388066579.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleRadioStereo
-https://www.twitch.tv/teleradiostereo
 #EXTINF:-1 group-title="ITALIA",TeleRama
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleRama Lecce
-https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u
-#EXTINF:-1 group-title="ITALIA",TeleReggio
-https://trm-telereggio.cdn.netrw.it/event/hls/ccr/telereggio/master.m3u8?start=now-320m
 #EXTINF:-1 group-title="ITALIA",TeleRegione 118
 https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Teleregione Color
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Teleregione Color
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-270m
-#EXTINF:-1 group-title="ITALIA",TeleRegione Color
-https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleRegione Live
-https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleRent 7Gold
-https://5db313b643fd8.streamlock.net/telerent/telerent/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleRent 7Gold
-https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w513650171.mpd
-#EXTINF:-1 group-title="ITALIA",TeleRent 7Gold
-https://router.xdevel.com/video0s86-21/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telereporter
-https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleRitmo
-https://ed06.top-ix.org/avtvlive/teleritmo/streaming/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleRitmo
-https://wb.top-ix.org/redirect/avtvlive/teleritmo/streaming?type=m3u8
-#EXTINF:-1 group-title="ITALIA",Teleroma 56
-https://www.twitch.tv/teleroma_56
 #EXTINF:-1 group-title="ITALIA",Teleromagna
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleRomagna
-https://livetr.teleromagna.it/teleromagna/live/live/teleromagna480/chunks.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleSanDomenico
-https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleSanDomenico (TSD TV Arezzo)
-https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8
-#EXTINF:-1 group-title="ITALIA",Telesanterno
-https://64b16f23efbee.streamlock.net/telesanterno/telesanterno/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleSardegna
-https://f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleSirio
-https://www.telesirio.it/live/stream.m3u8
-#EXTINF:-1 group-title="ITALIA",Telespazio Messina
-https://rtm.cyberspazio.cloud:5443/LiveApp/streams/049229794390395765037801.m3u8
-#EXTINF:-1 group-title="ITALIA",Telespazio TV
-https://5f22d76e220e1.streamlock.net/Telespaziotv/Telespaziotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleStabia
-https://stream3.aswifi.it/giglitv/live/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Telestense
-https://64b16f23efbee.streamlock.net/teleestense/teleestense/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telesud
-https://64b16f23efbee.streamlock.net/asdfgh/asdfgh/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telesud Trapani
-https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Telesveva
-https://live2.telesveva.com/hls/svevahd.m3u8
-#EXTINF:-1 group-title="ITALIA",Telesveva
-https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd
-#EXTINF:-1 group-title="ITALIA",TeleTibur
-https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleTibur
-https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Teletricolore
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Teletricolore
-https://media2021.rtvweb.com/teletricolore/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Teletrullo
-https://80.teletrullo.tv/hls/teletrullo2.m3u8
-#EXTINF:-1 group-title="ITALIA",Teletruria
-https://cb01a76aa80f4069b2bf82c90466134a.msvdn.net/live/S79636643/7iyY76l3IDBd/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Teletruria
-https://cb01a76aa80f4069b2bf82c90466134a.msvdn.net/live/S79636643/7iyY76l3IDBd/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Teletubbies
-https://d2np8lwyhxd27p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-om34v718rz14h/master.m3u8
-#EXTINF:-1 group-title="ITALIA",TeleTusciaSabina 2000
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Teleuniverso (Molise)
-https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
-#EXTINF:-1 group-title="ITALIA",Televallo Trapani
-https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Televideo Agrigento
-https://media2021.rtvweb.com/tva/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Televisa Telenovelas
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Televomero
-https://stream2.xdevel.com/video0s100-23/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Ten
-https://7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tennis Channel
-https://amg01444-tennischannelth-tennischde-samsungch-jp1l8.amagi.tv/playlist/amg01444-tennischannelth-tennischde-samsungch/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tennis+
-https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tennis+
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TG Norba 24
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-320m
-#EXTINF:-1 group-title="ITALIA",TGcom
-https://live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",TGCOM 24
-https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",TGCOM 24
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",TGCOM24
-https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",Tgs
-https://router.xdevel.com/video1s975436-143/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TGS Giornale di Sicilia
-https://stream7.xdevel.com/video1s975436-829/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",That's 70s
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",That's 80s
-https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",That's 90s00s
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",That's ROCK
-https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",The Pet Collective
-https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TLT Molise
-https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/chunklist_w1143191259.m3u8
-#EXTINF:-1 group-title="ITALIA",TMW Radio TV
-https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TOP Barša
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Top Calcio 24
-https://telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0
-#EXTINF:-1 group-title="ITALIA",Top Crime
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Top Crime
-https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Top Gear
-https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitaly-rakutenit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Top Gear
-https://amg00793-amg00793c12-samsung-it-4051.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearitalysamsungit-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Topcrime
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(topcrime)/manifest.mpd?ck=MzY2MWM0YTk4YzM2NDBkYmJkYmJkYWE1YzQyOWZiODU6ZTE0M2IzZmY0YjM2NWI3ZDlhNjg0OTRiMThlMGY0NzM=
 #EXTINF:-1 group-title="ITALIA",TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Trace Latina
-https://amg01131-tracetv-tracelatinait-samsungit-n0o7t.amagi.tv/playlist/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Trace UK
-https://amg01131-tracetv-amg01131c5-plex-us-4388.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="ITALIA",Trace Urban
-https://amg01131-tracetv-traceurbanit-samsungit-80rxc.amagi.tv/playlist/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Trace Urban
-https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Travel XP (IT)
-https://travelxp-travelxp-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Travelxp
-https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TRC (Puglia)
-https://stream7.livinlive.it/trc/trc/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TRC Bologna
-https://trm-trcbologna.cdn.netrw.it/event/hls/ccr/trcbologna/master.m3u8?start=now-320m
-#EXTINF:-1 group-title="ITALIA",TRC Modena
-https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-320m
-#EXTINF:-1 group-title="ITALIA",Tremedia Tv
-https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Trentino Tv
-https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8?FLID=1
-#EXTINF:-1 group-title="ITALIA",Trentino Tv
-https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Trentino TV
-https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Trg
-https://www.trgmedia.it/hls/livestreamHD.m3u8
-#EXTINF:-1 group-title="ITALIA",TRIS
-https://streaming.teletris.it/tmp_hls/live/index.m3u8
-#EXTINF:-1 group-title="ITALIA",TRL
-https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Trm H24
-https://www.youtube.com/watch?v=PRZbtZPPnsc
-#EXTINF:-1 group-title="ITALIA",TRSP
-https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",True Crime
-https://ixmediasrl-seriallycrime-1-it.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="ITALIA",TSN (Lombardia)
-https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-18000.m3u8
-#EXTINF:-1 group-title="ITALIA",Tsn Tele Sondrio News
-https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8
-#EXTINF:-1 group-title="ITALIA",TT-TELETUTTO BS
-https://streamcdng10-3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TU Day
-https://stream.ets-sistemi.it:19360/tuday/tuday.m3u8
-#EXTINF:-1 group-title="ITALIA",TUA Channel
-https://media2021.rtvweb.com/promovideo_web/tuachannel/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Turbo
-https://wp7-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09723/stb-dash-fhd-avc/SV09723.mpd?ck=MzY0NjBlOTI0MjUxNDJjNmE2NDc1YmYyNmY2NGQ1YTY6NzVkZTU5ZTI5MzM0NGVkZDM3YWU2Yzc1MWI0NTEwZTcsOGFlMzNlMGRhZTVmM2FjYzgyOWZlODM2YzAwZjc0MmM6MDEyZjg4MGVhYzY1MmI1NjM2MzdiNGM5Njk4OWZkODQ=
-#EXTINF:-1 group-title="ITALIA",Turismo TV
-https://64b16f23efbee.streamlock.net/turismotv/turismotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tuscia Sabina 2000
-https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tuscia Sabina 2000 TV
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
-#EXTINF:-1 group-title="ITALIA",Tutto Tv
-https://host1.momentotv.live:28443/hls/tuttotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TV 2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 group-title="ITALIA",TV 8
-https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?ck=M2JmMWNkNjVlODVjNGY2YWIyZjJlZTlhYzg0MDNiOWI6OTE0MmY3ZTYyZDAxMWE4NzkzZTliMTVlZDM2ZDdiN2YsZjg2NzMzMmM2NDJlM2Q3NDk3OTcwZDU1ZjAzMzRjM2I6NjExMWRkYTY4ZDVlYjllMjllZjVmYWIxNDdlMzExNDk=
 #EXTINF:-1 group-title="ITALIA",TV Campane 1
 https://eu1.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Tv Campania Streaming
-https://eu1.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Tv Campi Flegrei
-https://rst2.saiuzwebnetwork.it:8081/campiflegreitv/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Tv Campi Flegrei
-https://tv.radiosaiuz.com:3836/live/campiflegreilive.m3u8
-#EXTINF:-1 group-title="ITALIA",Tv Luna Napoli
-https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
-#EXTINF:-1 group-title="ITALIA",TV Prato
-https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
-#EXTINF:-1 group-title="ITALIA",TV Prato
-https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/chunks.m3u8
-#EXTINF:-1 group-title="ITALIA",TV Prato
-https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
 #EXTINF:-1 group-title="ITALIA",TV Qui Modena
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tv Uno
-http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
-#EXTINF:-1 group-title="ITALIA",TV Yes (Umbria)
-https://tsw.streamingwebtv24.it:1936/inteccdn6/inteccdn6/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TV Yes Italia
-https://stream1.aswifi.it/radioyes/live/index.m3u8
-#EXTINF:-1 group-title="ITALIA",TV1
-https://stream10.xdevel.com/video0s978282-2579/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TV1 Sulmona
-https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TV12
-https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TV2000
-http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
-#EXTINF:-1 group-title="ITALIA",TV2000
-https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TV33 Bolzano
-https://64b16f23efbee.streamlock.net/tv33bz/tv33bz/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TV33 Trento
-https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TV7
-https://msh0320.stream.seeweb.it/live/tv7.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",TV7 Benevento
 https://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TV7 Benevento
-https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",TV7 Meteo
 https://www.gruppotv7.com:8090/hls/meteo.m3u8
-#EXTINF:-1 group-title="ITALIA",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 group-title="ITALIA",TV8
-https://www.mytivu.it/Application/Channels/TV8.php?m3u8
-#EXTINF:-1 group-title="ITALIA",TV9 Telemaremma
-https://view.dacast.com/76305317bd6d5f2af13478c9b0ef4aef-live-6339ee65498e3ca8e75590daa7e447f5/adaptive.m3u8
-#EXTINF:-1 group-title="ITALIA",TV9 Telemaremma (576p)
-https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
-#EXTINF:-1 group-title="ITALIA",Tva Vicenza
-https://5cdb29755e02b.streamlock.net:1936/live/diretta_1/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tva Vicenza
-http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TVA Vicenza
-https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TVL
-http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
-#EXTINF:-1 group-title="ITALIA",TVL (TV Libera)
-https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TVM
-http://195.231.82.127:8081/hls/test_low.m3u8
-#EXTINF:-1 group-title="ITALIA",TVM (Sicilia)
-https://5db313b643fd8.streamlock.net/tvmpa/tvmpa/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Tvm Palermo
-https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
-#EXTINF:-1 group-title="ITALIA",Tvr Xenon
-https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TVRS Marche
-https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",TVSEI
-https://654be07bf207c.streamlock.net/TvSeiHBBTV/tvseiWebPresenter/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Twenty Seven
-https://wp13-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV06547/stb-dash-sd-avc/SV06547.mpd?ck=MjI0Y2JjNjJjYzFkM2FjMDllZmJkMDQ5ZTYxODYwNjU6M2MxNDhhM2E0NzBiMjBmYjQ3YmIyNzc2MGI1MmJlYjQ=
-#EXTINF:-1 group-title="ITALIA",Umbria + TRT
-https://diretta.umbriapiu.it:8080/show/show.m3u8
 #EXTINF:-1 group-title="ITALIA",Umbria TV
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Umbria+ TRT
-https://diretta.teleterni.it:8080//show/show.m3u8
-#EXTINF:-1 group-title="ITALIA",Unica TV
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S84376118/gnJqPnxrsLcY/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Uninettuno (1080p)
-http://78.130.250.2:8023/play/a04p/index.m3u8
 #EXTINF:-1 group-title="ITALIA",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Uno Tv
-https://stream1.aswifi.it/unotv/live/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Uno4 Tv
-https://cdn.uno4.it/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Urania News
-https://69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Urania News
-https://amg14891-amg14891c4-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c4-amgplt0165/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Valenza TV (Lombardia)
-https://uvotv.zappr.stream/368.m3u8
-#EXTINF:-1 group-title="ITALIA",VB33
-https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",VCO Azzurra TV
-https://wb.top-ix.org/redirect/avtvlive/azzurra/streaming?type=m3u8
-#EXTINF:-1 group-title="ITALIA",Velvet
-https://chili-chilivelvet-1-it.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="ITALIA",VeraTV
-https://cdn9.streamshow.it/cloud-veratv/veratv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",VeraTv
-http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Vevo '90s & '00s
-https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Vevo '90s & '00s Italy
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Vevo 2K
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Vevo Pop
-https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Vevo Pop Italy
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Viaggi & Sapori
-https://amg01821-amg01821c18-samsung-it-3198.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-travelandtasteitaly-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Video Brescia
-https://59d7d6f47d7fc.streamlock.net/supertv/supertv/chunklist_w2031388123.m3u8
-#EXTINF:-1 group-title="ITALIA",Video Calabria
-https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Video Mediterraneo
-https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Video Novara
-https://ed04.top-ix.org/avtvlive/videonovara/streaming/chunklist_w1517872620.m3u8
-#EXTINF:-1 group-title="ITALIA",Video Novara
-https://wb.top-ix.org/redirect/avtvlive/videonovara/streaming?type=m3u8
-#EXTINF:-1 group-title="ITALIA",Video Regione
-https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Video Regione Sicilia
-https://streamcdnm9-57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Video Star TV
-https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Video Tele Carnia
-https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Video Touring Tv
-https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
-#EXTINF:-1 group-title="ITALIA",Videolina
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Videolina
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",VideoNola
-https://videonola.aswifi.it/videonolaabr/live.m3u8
-#EXTINF:-1 group-title="ITALIA",Videonovara
-https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Videoregione
-https://stream.videoregione.it/hls/vr99/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Videoregione
-https://stream.videoregione.it/vr99.mp4
-#EXTINF:-1 group-title="ITALIA",Videostar Tv Lombardia
-http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",VideoTolentino
-https://origin.live-dvbt2.it:9553/8006/8006/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",VideoTolentino
-https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Vintage Radio Tv
-https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Virgin Radio
-https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="ITALIA",Virgin Radio TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Visual Radio
-http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
-#EXTINF:-1 group-title="ITALIA",Vuemme
-https://5db313b643fd8.streamlock.net/vm/vm/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Vuemme Tv
-https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Watchmojo (IT)
-https://watchmojo-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Webcom Tv
-https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Wedding TV
-https://604e46ac2bdee.streamlock.net:1936/marcorenzi/marcorenzi/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Wedding TV
-https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",wedo Big Stories
-https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-videosolutions-wedobigstories-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="ITALIA",Wedo Big Stories (IT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-lgit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Western Time
-https://amg02512-amg02512c8-samsung-it-5139.playouts.now.amagi.tv/playlist/amg02512-nexodigital-westerntime-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Wltv
-https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",World Billiards TV
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Xite
-https://xite-germany-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",XITE Hits
-https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Yu-Gi-Oh! Italy
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Yvii Tv
-https://stream.wired-shop.com/hls/yviitv.m3u8
-#EXTINF:-1 group-title="ITALIA",Zerouno TV
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:-1 group-title="ITALIA",Zerouno Tv News
-https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8

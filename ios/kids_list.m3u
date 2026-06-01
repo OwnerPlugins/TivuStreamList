@@ -1,16 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/bambini.png" group-title="KIDS",--- KIDS ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="KIDS",---LAST UPDATE 31-05-2026 H. 10.28---
+#EXTINF:-1 group-title="KIDS",---LAST UPDATE 01-06-2026 H. 11.47---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 tvg-logo="" group-title="KIDS",13 Kids
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",4 Fun Kids
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",ADO TV
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Akili Kids!
@@ -19,8 +21,14 @@ https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",BabyTV Spain
+https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Banijay Mr Bean Animé
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",BeJoy.kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Bolajon
@@ -29,15 +37,15 @@ https://stream8.cinerama.uz/1007/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Carousel
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Cartoon Classics FAST
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Chithiram
 https://cdn-6.pishow.tv/live/1243/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Clan Internacional
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney Jr. Latin America
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Disney Jr. Latin America South
 https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="" group-title="KIDS",ducktv
 https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
@@ -45,36 +53,36 @@ https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",ETV 2
+https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",GEM Junior
 https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-logo="" group-title="KIDS",GEM Kids
 https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-logo="" group-title="KIDS",GEM Kids
-https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Gulli Girl
-https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",HodHod Farsi TV
 https://northtelecom.b-cdn.net/hodhodtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Iunior TV
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",JapanimTV
+https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Kartoon Channel!
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Ketchup TV
 https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Kidoodle.TV
-https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Kids TV
-https://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-logo="" group-title="KIDS",KiKA
-https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Koogi TV
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Lego Channel
 https://dh18i7whff86v.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Logos TV Kids
@@ -86,19 +94,27 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Minimax
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Moonbug Kids
-https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Mr Bean Animated
-https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Mr Bean Live Action
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Mr. Bean Animated
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Mr. Bean Anime Italy
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Mr. Bean Anime Spain
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Multilandia
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Multimania
+https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Nickelodeon
 https://xykt-fix.github.io/iptv/streams/SP57.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Nickelodeon East
 https://79.127.207.193/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",NickOnline
 https://x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",NickToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",PBS Kids Alaska
@@ -119,6 +135,10 @@ https://kphls.persiana.live/hls/stream.m3u8
 https://sirius.greenhosting.ru/PingvinRu/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",pocket.watch
 https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Pokémon
+https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Pokémon
+https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Radost Moya
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",RiC
@@ -149,8 +169,10 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Tiny Pop
 https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",ToonGoggles
-https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",TV Bahoriston
