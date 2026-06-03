@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/marche.png" group-title="Marche",=== Marche===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-marche.png" group-title="Marche",Rai 3 TGR Marche
+https://tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/arancia-television.png" group-title="Marche",Arancia Television
 https://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/emme-tv.png" group-title="Marche",Emme Tv
@@ -17,6 +19,8 @@ https://bbtv.intvstream.net:3988/live/fmtvlive.m3u8
 https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rossini-tv.png" group-title="Marche",Rossini TV
 https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rtm-marche.png" group-title="Marche",RTM
+https://cdn17.streamshow.it/cloud-rtmtv/rtmtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/skyline-radio-e-soul-tv.png" group-title="Marche",SKYLINE TV
 https://64b16f23efbee.streamlock.net/skylinetv/skylinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/studio7-tv.png" group-title="Marche",Studio 7 TV

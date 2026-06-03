@@ -1,18 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/sicilia.png" group-title="Sicilia",=== Sicilia===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-sicilia.png" group-title="Sicilia",Rai 3 TGR Sicilia
+https://tgrsicilia-live.akamaized.net/hls/live/2025573/tgrsicilia/tgrsicilia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/adn24.png" group-title="Sicilia",ADN24
+https://64b16f23efbee.streamlock.net/adn24tv/adn24tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/alpa-uno.png" group-title="Sicilia",Alpa uno
 https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/bella-radio-tv.png" group-title="Sicilia",Bella Radio Tv
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-97-sicilia.png" group-title="Sicilia",Canale 97
+https://5db313b643fd8.streamlock.net/canale97/canale97/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/doc-tv.png" group-title="Sicilia",Doc TV
+https://64b16f23efbee.streamlock.net/radiodoctv/radiodoctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/etna-espresso-channel.png" group-title="Sicilia",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/gustotv.png" group-title="Sicilia",Gusto TV
+https://64b16f23efbee.streamlock.net/gustotv/gustotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/in-sicilia-tv.png" group-title="Sicilia",In Sicilia TV
 https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/la3-marsala-latr3.png" group-title="Sicilia",La3 Marsala (latr3)
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/la3-marsala-latr3.png" group-title="Sicilia",La Tr3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/motori-tv.png" group-title="Sicilia",Motori TV
+https://64b16f23efbee.streamlock.net/motoritv/motoritv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/nuova-tv-1.png" group-title="Sicilia",Nuova Tv 1
 https://nuovatv.net:8443/tv/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/nuova-tv-2.png" group-title="Sicilia",Nuova Tv 2
@@ -41,6 +53,8 @@ https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rtp.png" group-title="Sicilia",RTP
 https://router.xdevel.com/video0s975966-797/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/sestarete-tv.png" group-title="Sicilia",Sestarete
+https://64b16f23efbee.streamlock.net/sestarete/sestarete/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sicilia-24.png" group-title="Sicilia",Sicilia 24
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tcf-tv.png" group-title="Sicilia",Tcf Tv
@@ -51,10 +65,16 @@ https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele8-mazara.png" group-title="Sicilia",Tele8
 https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tele90.png" group-title="Sicilia",Tele90
+https://5db313b643fd8.streamlock.net/tele90/tele90/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telegela.png" group-title="Sicilia",Telegela
+https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-iblea.png" group-title="Sicilia",Teleiblea
 https://5f22d76e220e1.streamlock.net:443/teleiblea/teleiblea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-iblea.png" group-title="Sicilia",Teleiblea
 https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telejato.png" group-title="Sicilia",Telejato
+https://648026e87a75e.streamlock.net/telejato/telejato/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telemistretta.png" group-title="Sicilia",Telemistretta
 https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telemistretta.png" group-title="Sicilia",Telemistretta
@@ -71,10 +91,18 @@ https://router.xdevel.com/video0s86-21/stream/playlist.m3u8
 https://media2021.rtvweb.com/tva/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tgs-giornale-di-sicilia.png" group-title="Sicilia",Tgs
 https://router.xdevel.com/video1s975436-143/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tris-siracusa.png" group-title="Sicilia",TRIS
+https://streaming.teletris.it/tmp_hls/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/turismo-tv.png" group-title="Sicilia",Turismo TV
+https://64b16f23efbee.streamlock.net/turismotv/turismotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tvm-palermo.png" group-title="Sicilia",TVM
+https://5db313b643fd8.streamlock.net/tvmpa/tvmpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/video-mediterraneo.png" group-title="Sicilia",Video Mediterraneo
 https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/video-regione-sicilia.png" group-title="Sicilia",Video Regione Sicilia
 https://streamcdnm9-57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/video-regione-sicilia.png" group-title="Sicilia",Video Regione
+https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/video-star-tv.png" group-title="Sicilia",Video Star TV
 https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/vintage-radio-tv.png" group-title="Sicilia",Vintage Radio Tv

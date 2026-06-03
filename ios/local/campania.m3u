@@ -51,6 +51,8 @@ https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/quarto-canale.png" group-title="Campania",Quarto Canale
 http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/Radio-Capri.png" group-title="Campania",Radio Capri
+https://live.radiocapri.it/memfs/8ea0b12f-3624-4a80-8079-3d26747ae55b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-crc-tv-targato-italia.png" group-title="Campania",Radio CRC TV
 https://rst2.saiuzwebnetwork.it:8081/crc/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-ibiza-tv.png" group-title="Campania",Radio Ibiza TV

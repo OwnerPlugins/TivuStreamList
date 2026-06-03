@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/piemonte.png" group-title="Piemonte",=== Piemonte===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-piemonte.png" group-title="Piemonte",Rai 3 TGR Piemonte
+https://tgrpiemonte-live.akamaized.net/hls/live/2025569/tgrpiemonte/tgrpiemonte/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/giocabet-tv.png" group-title="Piemonte",Giocabet TV
+https://live1.giocabet.tv/stream/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/grp-televisione.png" group-title="Piemonte",GRP VeraTV
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/love-music.png" group-title="Piemonte",LOVE MUSIC
@@ -19,6 +23,8 @@ https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/jukebox-tv.png" group-title="Piemonte",Radio JukeBox
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/jukebox-tv.png" group-title="Piemonte",Radio JukeBox TV
+https://64b16f23efbee.streamlock.net/radiojukeboxtv/radiojukeboxtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rbe-tv-radio-beckwith-evangelica.png" group-title="Piemonte",RBE-TV
 https://5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rete-biella.png" group-title="Piemonte",Rete Biella
@@ -37,6 +43,8 @@ https://d4k.it/hls/live2/live.m3u8
 https://ed06.top-ix.org/avtvlive/teleritmo/streaming/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-ritmo.png" group-title="Piemonte",TeleRitmo
 https://wb.top-ix.org/redirect/avtvlive/teleritmo/streaming?type=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/valenza-tv.png" group-title="Piemonte",Valenza TV
+https://uvotv.zappr.stream/368.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/vco-azzurra-tv.png" group-title="Piemonte",VCO Azzurra TV
 https://wb.top-ix.org/redirect/avtvlive/azzurra/streaming?type=m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/vco-azzurra-tv.png" group-title="Piemonte",VCO Azzurra TV
