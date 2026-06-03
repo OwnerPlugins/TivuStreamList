@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/sardegna.png" group-title="Sardegna",=== Sardegna===
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/logoz/regioni/sardegna.png" group-title="Sardegna",=== Sardegna===
+https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-sardegna.png" group-title="Sardegna",Rai 3 TGR Sardegna
 https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/supertv-oristano.png" group-title="Sardegna",Aristanis Super TV Oristano
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/supertv-oristano.png" group-title="Sardegna",Aristanis Super TV Oristano
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/odeon-24-netweek.png" group-title="Sardegna",Odeon Sardegna
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/odeon-24-netweek.png" group-title="Sardegna",Odeon Sardegna
 https://streaming.softwarecreation.it/Odeon24SA/Odeon24SA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-iglesias-tv.png" group-title="Sardegna",Radio Iglesias Sardegna
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-iglesias-tv.png" group-title="Sardegna",Radio Iglesias Sardegna
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sardegna1.png" group-title="Sardegna",Sardegna1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/sardegna1.png" group-title="Sardegna",Sardegna1
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/supertv-sarda.png" group-title="Sardegna",Super Tv Aristanis
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/supertv-sarda.png" group-title="Sardegna",Super Tv Aristanis
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telecostasmeralda.png" group-title="Sardegna",TeleCostaSmeralda
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telecostasmeralda.png" group-title="Sardegna",TeleCostaSmeralda
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telesardegna.png" group-title="Sardegna",TeleSardegna
 https://f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/uno4-tv.png" group-title="Sardegna",Uno4 Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/uno4-tv.png" group-title="Sardegna",Uno4 Tv
 https://cdn.uno4.it/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/videolina.png" group-title="Sardegna",Videolina
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-iglesias-tv.png" group-title="Sardegna",Visual Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-iglesias-tv.png" group-title="Sardegna",Visual Radio
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
