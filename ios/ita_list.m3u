@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 03-06-2026 H. 14.33---
+#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 06-06-2026 H. 15.50---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
@@ -235,6 +235,8 @@ https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09241/s
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 group-title="ITALIA",Canale 6
 http://195.231.82.127:8082/hls/test_low.m3u8
+#EXTINF:-1 group-title="ITALIA",Canale 63
+https://smplu.link/xN1ckuz-Canale63.m3u8
 #EXTINF:-1 group-title="ITALIA",Canale 7
 https://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Canale 7
@@ -1289,6 +1291,8 @@ https://tgrtoscana-live.akamaized.net/hls/live/2025574/tgrtoscana/tgrtoscana/pla
 https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Rai 3 TGR Umbria
 https://tgrumbria-live.akamaized.net/hls/live/2025576/tgrumbria/tgrumbria/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai 3 TGR Valle D'Aosta
+https://tgrvaldaosta-live.akamaized.net/hls/live/2025577/tgrvaldaosta/tgrvaldaosta/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Rai 3 TGR Veneto
 https://tgrveneto-live.akamaized.net/hls/live/2025578/tgrveneto/tgrveneto/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",RAI 4
@@ -1453,7 +1457,7 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
 #EXTINF:-1 group-title="ITALIA",Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 group-title="ITALIA",Real Time
+#EXTINF:-1 group-title="ITALIA",Realtime
 https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09319/stb-dash-fhd-avc/SV09319.mpd?ck=NzU0NTNmYTczMjJmNGI4YjgxYjI4NTUyOWI3MjZlNjM6Y2E3OWJkMjY1YmU2YWM3MzE1NTU1YWExYmJlYTZhZmUsNjBlYjhkZGJhNzExMzkxNTkxNGI4NjU2NjJmZWNiZGI6OGFjYTZlZGRkMGEyODBmMzlkZGM3NTM3MmJlMmFmZDk=
 #EXTINF:-1 group-title="ITALIA",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
