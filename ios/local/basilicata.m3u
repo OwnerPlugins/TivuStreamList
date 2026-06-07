@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/logoz/regioni/basilicata.png" group-title="Basilicata",=== Basilicata===
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/logoz/regioni/basilicata.png" tvg-id="",=== Basilicata===
 https://github.com/OwnerPlugins/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-basilicata.png" group-title="Basilicata",Rai 3 TGR Basilicata
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-basilicata.png" tvg-id="",Rai 3 TGR Basilicata
 https://tgrbasilicata-live.akamaized.net/hls/live/2025559/tgrbasilicata/tgrbasilicata/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/le-cronache-lucane-tv-canale-76.png" group-title="Basilicata",Le Cronache TV
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/le-cronache-lucane-tv-canale-76.png" tvg-id="",Le Cronache TV
 https://stream7.livinlive.it/lecronache/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/carina-tv.png" group-title="Basilicata",Carina TV
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/carina-tv.png" tvg-id="",Carina TV
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/la-nuova-tv.png" group-title="Basilicata",La Nuova Tv
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/la-nuova-tv.png" tvg-id="",La Nuova Tv
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/le-cronache-lucane-tv-canale-76.png" group-title="Basilicata",Le Cronache
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/le-cronache-lucane-tv-canale-76.png" tvg-id="",Le Cronache
 https://lorenzocarbone.me/hls/cronache.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-carina-tv.png" group-title="Basilicata",Radio Carina TV
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-carina-tv.png" tvg-id="RADIONORBA.TV.it",Radio Carina TV
 https://samson.streamerr.co:8081/carinatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/set-tv-cilento.png" group-title="Basilicata",Set Tv Cilento
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/set-tv-cilento.png" tvg-id="",Set Tv Cilento
 https://stream1.aswifi.it/settv/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/trm-h24.png" group-title="Basilicata",Trm H24
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/trm-h24.png" tvg-id="TRM.h24.it",Trm H24
 https://www.youtube.com/watch?v=PRZbtZPPnsc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tv-sei.png" group-title="Basilicata",TVSEI
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tv-sei.png" tvg-id="",TVSEI
 https://654be07bf207c.streamlock.net/TvSeiHBBTV/tvseiWebPresenter/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tele-norba-tg-norba-24.png" group-title="Basilicata",Telenorba
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tele-norba-tg-norba-24.png" tvg-id="",Telenorba
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-320m
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgnorba24.png" group-title="Basilicata",TG Norba 24
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgnorba24.png" tvg-id="TG.NORBA.24.it",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-320m
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telemolise.png" group-title="Basilicata",Telemolise (Basilicata)
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telemolise.png" tvg-id="",Telemolise (Basilicata)
 https://654be07bf207c.streamlock.net/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-citta.png" group-title="Basilicata",Radio Città TV
+#EXTINF:-1 group-title="Basilicata" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-citta.png" tvg-id="",Radio Città TV
 https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8

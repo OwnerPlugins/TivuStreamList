@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/logoz/regioni/molise.png" group-title="Molise",=== Molise===
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/logoz/regioni/molise.png" tvg-id="",=== Molise===
 https://github.com/OwnerPlugins/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-molise.png" group-title="Molise",Rai 3 TGR Molise
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-molise.png" tvg-id="",Rai 3 TGR Molise
 https://tgrmolise-live.akamaized.net/hls/live/2025568/tgrmolise/tgrmolise/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/diciotto.png" group-title="Molise",Diciotto
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/diciotto.png" tvg-id="",Diciotto
 https://654be07bf207c.streamlock.net/Telemolise2-FB/Telemolise2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/InfoMediaNews.png" group-title="Molise",Info Media News
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/InfoMediaNews.png" tvg-id="",Info Media News
 https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/italia-cable.png" group-title="Molise",ItaliaCable
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/italia-cable.png" tvg-id="",ItaliaCable
 https://5f22d76e220e1.streamlock.net/italiacable/italiacable/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/media-tv-t3ly3ko0j0ey.png" group-title="Molise",Media TV
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/media-tv-t3ly3ko0j0ey.png" tvg-id="",Media TV
 https://stream3.aswifi.it/mediatv/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rete8.png" group-title="Molise",Rete 8
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rete8.png" tvg-id="",Rete 8
 https://edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8/master.m3u8?start=now-200m
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rete8-sport.png" group-title="Molise",Rete 8 Sport
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rete8-sport.png" tvg-id="",Rete 8 Sport
 https://edge.live-rete8.cdn.netrw.it/rete8/hls/live/rete8sport/master.m3u8?start=now-1m
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telemax.png" group-title="Molise",Telemax
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telemax.png" tvg-id="",Telemax
 https://livetv.telemaxtv.it/hls/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telemolise.png" group-title="Molise",Telemolise
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telemolise.png" tvg-id="",Telemolise
 http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telemolise.png" group-title="Molise",Telemolise
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telemolise.png" tvg-id="",Telemolise
 https://654be07bf207c.streamlock.net/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teleuniverso.png" group-title="Molise",Teleuniverso
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teleuniverso.png" tvg-id="",Teleuniverso
 https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tlt-molise.png" group-title="Molise",TLT Molise
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tlt-molise.png" tvg-id="",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tlt-molise.png" group-title="Molise",TLT Molise
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tlt-molise.png" tvg-id="",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/chunklist_w1143191259.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/trsp-televisione-radio-san-pietro.png" group-title="Molise",TRSP
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/trsp-televisione-radio-san-pietro.png" tvg-id="",TRSP
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tv-sei.png" group-title="Molise",TVSEI
+#EXTINF:-1 group-title="Molise" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tv-sei.png" tvg-id="",TVSEI
 https://654be07bf207c.streamlock.net/TvSeiHBBTV/tvseiWebPresenter/playlist.m3u8

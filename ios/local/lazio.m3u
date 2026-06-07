@@ -1,83 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/logoz/regioni/lazio.png" group-title="Lazio",=== Lazio===
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/logoz/regioni/lazio.png" tvg-id="",=== Lazio===
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-lazio.png" group-title="Lazio",Rai 3 TGR Lazio
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-lazio.png" tvg-id="",Rai 3 TGR Lazio
 https://tgrlazio-live.akamaized.net/hls/live/2025147/tgrlazio/tgrlazio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/alma-tv.png" group-title="Lazio",Alma TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/alma-tv.png" tvg-id="",Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/ap-channel.png" group-title="Lazio",AP Channel
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/ap-channel.png" tvg-id="",AP Channel
 https://64b16f23efbee.streamlock.net/apchannel/apchannel/playlist.m3u
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-10.png" group-title="Lazio",Canale 10
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-10.png" tvg-id="",Canale 10
 https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/chunklist_w2118955691.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/nologo.png" group-title="Lazio",Canale 10 [Not 24/7
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/nologo.png" tvg-id="",Canale 10 [Not 24/7
 https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-10.png" group-title="Lazio",Canale 10 Ostia (540p) [Not 24/7]
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-10.png" tvg-id="",Canale 10 Ostia (540p) [Not 24/7]
 https://nrvideo1.newradio.it/desxcerbht/desxcerbht/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale21-extra.png" group-title="Lazio",Canale 21 Extra
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale21-extra.png" tvg-id="",Canale 21 Extra
 https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-81-lazio.png" group-title="Lazio",Canale 63
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-81-lazio.png" tvg-id="",Canale 63
 https://smplu.link/xN1ckuz-Canale63.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/63-cs24.png" group-title="Lazio",Canale 81
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/63-cs24.png" tvg-id="",Canale 81
 https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/easyanditaly.png" group-title="Lazio",Easy & Italy
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/easyanditaly.png" tvg-id="",Easy & Italy
 https://5926fc9c7c5b2.streamlock.net/bjxypgjasy/bjxypgjasy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/extra-tv-live.png" group-title="Lazio",Extra TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/extra-tv-live.png" tvg-id="",Extra TV
 https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/gold-tv-roma.png" group-title="Lazio",Gold TV Roma
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/gold-tv-roma.png" tvg-id="",Gold TV Roma
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rockaforte.png" group-title="Lazio",La Rockaforte TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rockaforte.png" tvg-id="",La Rockaforte TV
 https://5926fc9c7c5b2.streamlock.net/npwsqkmzjp/npwsqkmzjp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/la-voce-tv.png" group-title="Lazio",La Voce TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/la-voce-tv.png" tvg-id="",La Voce TV
 https://stream9.xdevel.com/video0s977001-1746/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/laziotv.png" group-title="Lazio",LazioTV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/laziotv.png" tvg-id="",LazioTV
 https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/mana-man-sport.png" group-title="Lazio",Manà Manà Sport
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/mana-man-sport.png" tvg-id="",Manà Manà Sport
 https://router.xdevel.com/video2s975363-2370/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/odeon-24.png" group-title="Lazio",Odeon 24
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/odeon-24.png" tvg-id="",Odeon 24
 https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-immagine-tv.png" group-title="Lazio",Radio Immagine TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-immagine-tv.png" tvg-id="",Radio Immagine TV
 https://media.velcom.it:8081/radioimmaginetv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-mambo-tv.png" group-title="Lazio",Radio Mambo TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-mambo-tv.png" tvg-id="",Radio Mambo TV
 https://5926fc9c7c5b2.streamlock.net/9044/9044/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-radio-tv.png" group-title="Lazio",Radio Radio TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-radio-tv.png" tvg-id="",Radio Radio TV
 https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_abeef7b0903711eeb7c62796fbf7de76/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radiorock.png" group-title="Lazio",Radio Rock TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radiorock.png" tvg-id="",Radio Rock TV
 https://rr.fluid.stream/RadioRockTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-roma.png" group-title="Lazio",Radio Roma News
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-roma.png" tvg-id="",Radio Roma News
 https://www.dailymotion.com/cdn/live/video/x96kf9k.m3u8?sec=BOXNy_WseNWq1yTOd-GS5tHIJBMzoEvy3smPGRsYUvZVQkl1GF4BFFHd_Ylekoxm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-roma.png" group-title="Lazio",Radio Roma
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-roma.png" tvg-id="",Radio Roma
 https://www.dailymotion.com/cdn/live/video/x96kfby.m3u8?sec=SvaQKJwW21RUFoeuBMBedxJum9EBI1MQbHyjb04ydMsxWxECmf17kcAZddPNP0Mu
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rc88.png" group-title="Lazio",RC88
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rc88.png" tvg-id="",RC88
 https://giatv.bozztv.com/giatv/giatv-centroitalia/centroitalia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rete-oro.png" group-title="Lazio",Rete Oro
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rete-oro.png" tvg-id="",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rtr99.png" group-title="Lazio",RTR 99 TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rtr99.png" tvg-id="",RTR 99 TV
 https://str38.fluid.stream/RTR99TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rete-sole-lazio.png" group-title="Lazio",Rete Sole
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rete-sole-lazio.png" tvg-id="",Rete Sole
 https://5926fc9c7c5b2.streamlock.net/9332/9332/chunklist_w830303151.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/romit.png" group-title="Lazio",Romit TV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/romit.png" tvg-id="",Romit TV
 https://stream10.xdevel.com/video21s975955-2185/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rtr99-ti-ricordi.png" group-title="Lazio",RTR99 Ti Ricordi
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rtr99-ti-ricordi.png" tvg-id="",RTR99 Ti Ricordi
 https://str38.fluid.stream/RTR99TV/livestream/chunklist_w708886143.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/sl48.png" group-title="Lazio",SL48
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/sl48.png" tvg-id="",SL48
 https://streaming.softwarecreation.it/sl48/sl48/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/standby-tv.png" group-title="Lazio",StandbyTV
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/standby-tv.png" tvg-id="",StandbyTV
 https://5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/t9.png" group-title="Lazio",T9
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/t9.png" tvg-id="",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teleambiente.png" group-title="Lazio",Teleambiente
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teleambiente.png" tvg-id="",Teleambiente
 https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telegolfo-rtg.png" group-title="Lazio",Telegolfo RTG
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telegolfo-rtg.png" tvg-id="",Telegolfo RTG
 https://nrvideo1.newradio.it:1936/vmbjrayngd/vmbjrayngd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teleitalia.png" group-title="Lazio",Teleitalia 41
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teleitalia.png" tvg-id="",Teleitalia 41
 https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teletibur.png" group-title="Lazio",TeleTibur
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teletibur.png" tvg-id="",TeleTibur
 https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teletibur.png" group-title="Lazio",TeleTibur
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/teletibur.png" tvg-id="",TeleTibur
 https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tu-day.png" group-title="Lazio",TU Day
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tu-day.png" tvg-id="",TU Day
 https://stream.ets-sistemi.it:19360/tuday/tuday.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tuscia-sabina-2000.png" group-title="Lazio",Tuscia Sabina 2000
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tuscia-sabina-2000.png" tvg-id="",Tuscia Sabina 2000
 https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/trl-tele-radio-leo.png" group-title="Lazio",TRL
+#EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/trl-tele-radio-leo.png" tvg-id="",TRL
 https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
