@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO",---LAST UPDATE 14-06-2026 H. 09.46---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO",---LAST UPDATE 15-06-2026 H. 12.30---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/radio.png" group-title="RADIO",--- AD ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
@@ -8971,6 +8971,8 @@ https://ryerson.out.airtime.pro/ryerson_a
 https://quincy.torontocast.com:1500/stream
 #EXTINF:-1 tvg-logo="" group-title="Canada",MetalRock.FM
 https://kathy.torontocast.com:2820/;
+#EXTINF:-1 tvg-logo="" group-title="Canada",Michi-FM
+https://kathy.torontocast.com:4115/stream
 #EXTINF:-1 tvg-logo="" group-title="Canada",Middle East Radio
 https://s2.voscast.com:7387/stream
 #EXTINF:-1 tvg-logo="" group-title="Canada",Mix 103.7 FM
@@ -35543,8 +35545,8 @@ https://stream-152.zeno.fm/48533y95cnruv
 https://relay.rainwave.cc/all.mp3
 #EXTINF:-1 tvg-logo="" group-title="Giappone",Replay News
 https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3
-#EXTINF:-1 tvg-logo="" group-title="Giappone",Shonan Beach FM
-https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
+#EXTINF:-1 tvg-logo="" group-title="Giappone",Shonan Beach FM 78.9
+https://shonanbeachfm.out.airtime.pro/shonanbeachfm_c
 #EXTINF:-1 tvg-logo="" group-title="Giappone",Súper Tokio Radio
 https://streamer.radio.co/s83eb8ff39/listen
 #EXTINF:-1 tvg-logo="" group-title="Giappone",TildeRadio
@@ -35635,6 +35637,8 @@ https://usa1-vn.mixstream.net/:8086/listen.mp3
 https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kenya",Radio Jambo
 https://atunwadigital.streamguys1.com/radiojambo
+#EXTINF:-1 tvg-logo="" group-title="Kenya",Radio Maisha
+https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha
 #EXTINF:-1 tvg-logo="" group-title="Kenya",Radio Tumaini
 https://stream.zeno.fm/nu9qfhxx9reuv
 #EXTINF:-1 tvg-logo="" group-title="Kenya",Ramogi FM
@@ -35645,6 +35649,8 @@ https://stream.zeno.fm/gf58b0pt5x8uv
 https://streams.rautemusik.fm/caribbean-wave/mp3-192/
 #EXTINF:-1 tvg-logo="" group-title="Kenya",Replay News
 https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3
+#EXTINF:-1 tvg-logo="" group-title="Kenya",Urumwe FM 93.5
+https://s1.free-shoutcast.com/stream/18084
 #EXTINF:-1 tvg-logo="" group-title="Kenya",Vuuka FM
 https://vuukafm-atunwadigital.streamguys1.com/vuukafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kenya",Wimwaro FM
