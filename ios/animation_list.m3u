@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/bambini.png" group-title="ANIMAZIONE",--- ANIMAZIONE ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ANIMAZIONE",---LAST UPDATE 10-06-2026 H. 10.13---
+#EXTINF:-1 group-title="ANIMAZIONE",---LAST UPDATE 25-06-2026 H. 09.33---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",3RS Cartoon Movies
+https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",ADN TV+
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Animation+
@@ -29,12 +31,18 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Gong
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",KMBY-LD 27.5
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",LAMIL35 TV
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",MAX Anime
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",MCN6 Music Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ANIMAZIONE",Mr. Bean Animated

@@ -1,15 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/relaxweb.png" group-title="RELAX",--- RELAX = TV ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="RELAX",---LAST UPDATE 10-06-2026 H. 10.13---
+#EXTINF:-1 group-title="RELAX",---LAST UPDATE 25-06-2026 H. 09.33---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="RELAX",10 Bold
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELAX",Better Life Nature Channel
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELAX",FunBox UHD
+https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELAX",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELAX",Space Live powered by sen
-https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
+https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELAX",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
