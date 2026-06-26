@@ -41,3 +41,6 @@ https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c3-amgplt0165/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvCinema.png" group-title="Canali Nazionali",Plus Tv Cinema
+https://dotfvxkfj90ca.cloudfront.net/programming/cinema3/playlist.m3u8?token=68acac7d-ceed-45cd-84dd-a44e59cbaab8&streamSessionId=144d216b-9310-42af-bfe7-92d76dc3aefe&code=publistep&expires=1782598092404&ctrl=7345782890f703335ebc387c69da44c3352ed779a78fa87d4ce777da6b894d2bbaa4f0fc125ff88b470bfe4fe8e949b2719eda88659de22c053605665712241f
