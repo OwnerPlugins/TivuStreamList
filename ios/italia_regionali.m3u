@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="REGIONALI ITALIA",---LAST UPDATE 25-06-2026 H. 08.26---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="REGIONALI ITALIA",---LAST UPDATE 26-06-2026 H. 08.32---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1 group-title="Abruzzo" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/logoz/regioni/abruzzo.png" tvg-id="",=== Abruzzo===
@@ -898,6 +898,8 @@ https://media2021.rtvweb.com/tva/live/playlist.m3u8
 https://router.xdevel.com/video1s975436-143/stream/playlist.m3u8
 #EXTINF:-1 group-title="Sicilia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tris-siracusa.png" tvg-id="",TRIS
 https://streaming.teletris.it/tmp_hls/live/index.m3u8
+#EXTINF:-1 group-title="Sicilia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/trm_sicilia.png" tvg-id="",TRM
+https://api.zappr.stream/trm.m3u8
 #EXTINF:-1 group-title="Sicilia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/turismo-tv.png" tvg-id="",Turismo TV
 https://64b16f23efbee.streamlock.net/turismotv/turismotv/playlist.m3u8
 #EXTINF:-1 group-title="Sicilia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tvm-palermo.png" tvg-id="",TVM
