@@ -1,4 +1,313 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvSport.png" group-title="Canali Nazionali",Plus TV Sport
+https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvMotori.png" group-title="Canali Nazionali",Plus TV Motori
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvCinema.png" group-title="Canali Nazionali",Plus Tv Cinema
-https://dotfvxkfj90ca.cloudfront.net/programming/cinema3/playlist.m3u8?token=b27bf860-0219-4911-954b-01527dafe642&streamSessionId=1b50f737-1e33-4f7f-8b50-229fdd33d146&code=publistep&expires=1782642082584&ctrl=74ea8e3631783ba5e99051dd4282b20c6ef740c504fe9dcdbb9ddb0a0d5cda04e90746d43c83adc94c6abdbe6467c4df272c9f1311994b898acdcdafbbfce198
+https://dotfvxkfj90ca.cloudfront.net/programming/cinema3/playlist.m3u8?token=cb5b92a6-2dfa-4d38-b0d1-ee7e05c9ff75&streamSessionId=88cfd98d-94ea-46cc-9374-21bac3911451&code=publistep&expires=1782642631367&ctrl=b1cd5dd7496770d081ca848cd7f722bee8f3b38323d82fb0c1778a853fe1b9ab9348e9e5c2b736ff36c351834b6a0676811af0f56d313b963c4fe42dd901c8c8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",AGRODOLCE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/agrodolce-39c08b4e-8f97-46f9-9501-89917811d5d5-tr.mp4/playlist.m3u8?token=258fa380-3ad7-4cd0-ab2a-014df073487e&streamSessionId=9395e1a4-a42f-416a-87db-faf6c7ba77d2&code=publistep&expires=1782642633034&ctrl=cc7e89f52d7961f941c60bb477f145313f16b26f1e7c2c27633c08c50078c950ba524870a6e61ca37bfdaf938e20d95af1f2533e6e76306334e53a74a894206e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",STAVOLTA TOCCA A ME
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/stavoltatoccaame-0691b1f7-1f04-4834-8ba8-1f49d1599e62-tr.mp4/playlist.m3u8?token=55cdce6c-67b8-4a98-aa51-c19be6d7c15e&streamSessionId=63fc1e8d-670d-4bb7-96dc-09c1cb519eba&code=publistep&expires=1782642634788&ctrl=5ba79504f54f392615e046ff812c27f39a1b2736458965f47e1a340ac7c39fec18bf64334f62f34ddaeaf8a7c2c9a69b37ff19abcf8f5818ff5195c4fafa2164
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",TAXI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/taxi-366605d5-e139-4363-a06c-222595b6c812-tr.mp4/playlist.m3u8?token=108ba890-b570-4d23-896a-c27f652cb27f&streamSessionId=82a33749-9932-4154-8e34-a0a565895d4b&code=publistep&expires=1782642636669&ctrl=e1cdfa822f3663ffa775001cd59a8cb7618efbd601da38dd304c6eead38e6e818f7f69c2e8d6af3308775bc4720a5fc93a0df5e3dad83140ba1d042b36d93441
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",THE BOX 
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/thebox-3c558804-e728-4e98-89b8-fcf9fd69884e-tr.mp4/playlist.m3u8?token=df9f2c71-4fa8-4d2e-b453-dc78169f9ae6&streamSessionId=1bd8e065-132a-447f-9c79-e1b0b5938c8a&code=publistep&expires=1782642638312&ctrl=8b1af9276d2b49eecf5a2422e1a2cf7075f1a9bc54abce6905f1c64a53bb67e6384b2f6059bc3bc590fce2831446eea3dbd4b439d2f9183fb008807b349e487c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",THE BUNKER
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/thebunker-a35663f3-ff89-4921-8be4-58e888dddf38-tr.mp4/playlist.m3u8?token=eaf64065-e0ff-4098-a741-f595dce8fb38&streamSessionId=256ed6e9-7e00-4c71-a8f4-c67078e8c36d&code=publistep&expires=1782642640218&ctrl=31853ec95d4ec4d51f8a82e4cad77ab490d4a88fb91de4c45595117a5d84cfabea0554b555bf5a8f3a0a97f4d3cd641c6b69441edd59319b9187a95f3bc74da6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",THE THINGS THAT LIE BEHIND THE DARKNESS
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/thethingsthatliebehindthedarkness-99bcf7f7-dbcc-4149-89d0-d83d6641911d-tr.mp4/playlist.m3u8?token=3e5e2495-95ff-43a2-bf06-2f6a5b10660d&streamSessionId=f03d9f4e-c971-4e8c-ad6c-2f3810ca4f84&code=publistep&expires=1782642641998&ctrl=04a622deaf9f1cfb65627b374b7eec3214ceb7bbc57c224c8152cee5ae2b806aa36ba8eceba2cdab1b6638eddf7372d3a8e26bb4ae9f5a2f1ad83edd80287381
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",THE WITCHES 
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/thewitches-538c1fdf-5e91-42f3-bf0d-738483ce73bc-tr.mp4/playlist.m3u8?token=0516eee7-2526-4f1b-abf4-0976b8793198&streamSessionId=4392970a-de91-4005-b7a7-a24bbc71bc16&code=publistep&expires=1782642643610&ctrl=b458470db3dcd3dbbb03d4c86de3257fc6dbe7be92c74a77af398736d9e7a1d4f9d13105cc7180b0d9786eb2823efe7bb478fb95289695667e71c64cdcc06abd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",TRA LE SETTE E LE OTTO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/tralesetteeleotto-1426afd7-2ce9-462c-a164-585beb0c9f54-tr.mp4/playlist.m3u8?token=ef027499-8b4d-4dcf-97c8-e54abc72c621&streamSessionId=64c041a8-c26e-41b1-bfb3-ae4fbe93e83c&code=publistep&expires=1782642645553&ctrl=9d5448f1bbad66c0611ac5cbe320978bf922424fa0200b21d8c4473a8ac7c84f45fc74c414097b3de52c8a88989f33f7c9f28405ae87bfed64a57f8011518cec
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",TU CI CREDI NELLA MAGIA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/tucicredinellamagia-c3a54127-ff7a-491e-b51f-87ec5ee30988-tr.mp4/playlist.m3u8?token=55612859-798d-41df-8675-cdf9a71e3776&streamSessionId=6d5ced96-d449-4381-aaa2-387820c90776&code=publistep&expires=1782642647252&ctrl=404b38af434fe4c8aaa74457860a5b04fafbcd863f1c9180cdc3ec037fd365ba40d0a06099848730b69362eadd1838e9ef45762445ac6cf2535c7640886753a8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",VINDEX FLAMMA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/vindexflamma-d8978170-2079-46ea-b5ec-d0a8aebc866a-tr.mp4/playlist.m3u8?token=41cafb30-65c0-442d-b934-671938a8da4c&streamSessionId=e97b6d8f-3330-424a-aa79-207f32654637&code=publistep&expires=1782642648937&ctrl=22512f885187c76f980de7d08ab6892e2c64a4b3dafc35b8c7da3a5506bd454b9c59b5eebeaceb964dd30b18807a274f8a4e4d9fdbae0e288d846125d25c566b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",WHEN BUYING A FINE MURDER
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/whenbuyingafinemurder-9ac7e128-701a-4fcc-9446-91c00d1c6f08-tr.mp4/playlist.m3u8?token=7eca652d-352e-4fa8-af61-59b6a44a42e9&streamSessionId=95bee2fc-8121-4965-8feb-ebf131789da7&code=publistep&expires=1782642650607&ctrl=743348ead5460d07c9a5c48b4bf3ebbe07be9b4850770608c751c83b4ee418f027ad23c9f454853d55c1e0b412d633ecb5d3dd57a2326999bb895e7bc31becfd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",ANDIAMO AVANTI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/andiamoavanti-2a37129b-6a6c-4583-9aea-76ac15caaffc-tr.mp4/playlist.m3u8?token=93a74cd3-58e9-427d-aff3-5e81463c24b6&streamSessionId=06a03c0b-542a-4e81-8bc8-506fa3899bec&code=publistep&expires=1782642652475&ctrl=8779e3eca110c1ccd038b7bd0a5abcbdb8633808157be0ebb354d9ebb2eb5930559e5dff8513c306d5bb0b0803c881e89831a42053ee7ad85167308d595f98e6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",OZYMANDIAS
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ozymandias-e8ee1e57-be00-462e-bc5d-c2886f258d63-tr.mp4/playlist.m3u8?token=ad0b6aae-5ea3-489c-9a18-b0fb840458df&streamSessionId=fc016682-8083-452b-9627-1a5613fc6c23&code=publistep&expires=1782642654170&ctrl=ea635d526272f72ac761be054e0999299b0b90ac28d63aaed54ba77c9a661c5ddcd8382c1f547cd7da057028d0ea164a8f082ebd6a6208d06d8e513e2da9ea8e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",COME IL SALE NELL'ACQUA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/comeilsalenellacqua-a058ea9b-9d75-41b4-9125-14fcbdad3c23-tr.mp4/playlist.m3u8?token=51ecfb00-df3f-498d-84b6-de02e2c48e36&streamSessionId=552a636e-1986-4e64-ae7d-62222b757e76&code=publistep&expires=1782642655734&ctrl=1aecb837e747452fbaaed179c320008c4e9479743a8eeb7840e58ba7713082c5a7f26fea20d0341d11e9612728169f1f5c352cfc2c26dee5c6ba95ab73bc14ec
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",CUSTODES
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/custodes-8c4b6b42-f366-4199-a416-5cb04911a4d1-tr.mp4/playlist.m3u8?token=75a242d9-e5d4-4da9-83b0-a8646e774c89&streamSessionId=c473efd6-16e1-4717-9c57-96ca6b07dc9a&code=publistep&expires=1782642657273&ctrl=7251c3e346c87978b30d23db86f0a451b16541753e08a0c51d7776609afff79f4bcdeed4c3e4976c9d7c4ba5a24765562e931942c199409ba6fc5c95c12d9c45
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",FALLAX
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/fallax-e8e71e73-0c5b-4747-b405-9e8b2f8be922-tr.mp4/playlist.m3u8?token=9d3aebd7-052e-439a-8aca-578589cb41e5&streamSessionId=5220919f-152d-4ba1-9613-50c8ee5bcc94&code=publistep&expires=1782642658814&ctrl=b1ee6baf1752c48b2988b25099e94bd4deb84de06f57e90b96faf47df95a88f15488f5943863de36a5219bd766b6f40acc6daea5e982732fa3e0edc7705107ce
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",FRANCHITTO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/franchitto-f518b005-183a-47ff-b993-360f1216279b-tr.mp4/playlist.m3u8?token=ebd3b0dc-9110-4beb-827a-4c56b31bb234&streamSessionId=fd668e9f-4935-44df-9a60-70bc869ea629&code=publistep&expires=1782642660397&ctrl=3a2b3f04090aff8af3eb69f7a23d2e88011e5da677ec59b053db0b27d738ade9a29cda59b5f1600ec45542a6cb124884137b91d650cd0d5f69086bbe6043330b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL DOLORE NASCOSTO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ildolorenascosto-b4b69c87-b7cd-496e-bb67-e6e2de0506c1-tr.mp4/playlist.m3u8?token=2a749cb6-3d89-47b5-9a5a-ba78014fd0d4&streamSessionId=69c67046-c0b1-4854-91f7-857d93d7e1ad&code=publistep&expires=1782642662139&ctrl=c8d045afedb26ed16ee716ae4d12a96ffaf82cb766283cfb8af08058dd036cfcf07faaf43a6aeb88d7fc0b1df16ee1dd5a265c25a936dc9a687206e01fe001c9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IO RESTO QUA!
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/iorestoqua-161adcfa-4713-4da2-a060-f5b7dabf7ed3-tr.mp4/playlist.m3u8?token=287534d5-795a-4850-b793-aa912f5bf258&streamSessionId=804b3607-6932-422a-88ff-98ae60661620&code=publistep&expires=1782642663774&ctrl=a33109fdb9ab6cb17b838e274c6c7cdb45f14c45b38df760d3d3280cd75380d03aecea9ffd2c1f837f3e1e35ab5f34def90bf13088eb834ca6bee252db32c300
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",KATABASIS INFERNO E RITORNO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/katabasisinfernoeritorno-e84798d0-bc00-41a6-a9d9-d362d6707d83-tr.mp4/playlist.m3u8?token=bfc31d47-b5a9-4c7c-bc96-63075d216106&streamSessionId=6b457589-753a-40e2-941e-3e7bf3a15576&code=publistep&expires=1782642665309&ctrl=3e5f4a8357589c92839bbdc8d6b4a268c4ca8c621474e13e31ed57ebe5bce4458e760f3be173088e3dde557dbcda159a289cfe58490b244780632311e54f3fa6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",L'ULTIME RIVAGE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/lultimarivage-b79bd356-1af9-4ad6-9cbf-a04aac2145fa-tr.mp4/playlist.m3u8?token=33c45cd7-1b51-4d51-a970-5d0f70e342b7&streamSessionId=b19ee05b-e66d-4aae-9abb-184ad8378d82&code=publistep&expires=1782642666912&ctrl=7cc3b7cdfd4fc0f1bd989ba8905c747e1a9cb573e21a45d7eceedeb413d7959b274257a2c0dadf40f060e5862ac734ebc3d77e3cf4fa21131db5a242c3b6f257
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LE GRIDA DEL SILENZIO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/legridadelsilenzio-001125ad-927b-4fc6-bb1d-e8a53082582f-tr.mp4/playlist.m3u8?token=305fbb2f-da3e-4a06-8ec8-d4867abc59ae&streamSessionId=180bfbc3-72ed-4a5c-afbb-b51ca8da7d55&code=publistep&expires=1782642668634&ctrl=526c562f02db783596e7de28de5cfaab8ab4c349f787b986a55ade259cf11777706fa476e92b1fd8006a273900635cdc4882d589cd10f198c4d5aed7b77dd9c9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LO CHIAMAVANO MARCUS
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/lochiamavanomarcus-b5019c2d-aa8c-4a6a-9d16-4e6b78ae9c0a-tr.mp4/playlist.m3u8?token=8fcd5380-a6a1-4103-8589-67c379b8399c&streamSessionId=3e13feec-ebb5-40a1-acc6-80e4e2a78ca8&code=publistep&expires=1782642670388&ctrl=9fc7ad54538540d2721eb2d24c37f7b095c6361dab4e8dc93056a723b464b2146515342b0b493dc52aa558019c37e283eca2868db8d81e4011b0a4ac69869239
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LO SCOGLIO DEL LEONE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/loscogliodelleone-3570a0af-2563-45d5-9159-a0275864e5a7-tr.mp4/playlist.m3u8?token=03695f43-6e79-4c32-80f6-b7f90eb19cce&streamSessionId=9c3d3a06-40da-4024-87e0-ebd11c19fcf0&code=publistep&expires=1782642671957&ctrl=d951b5b7dac696a16ad2947f51d5efc6c23ed288b7e2e05e25c9d8cf5afa9175dd7e25cd181fd1b2da1db800769a911a1bb36f8837545c06ef0b6eec54887922
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",MALEZA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/maleza-fdf67323-d9fc-45a8-bd68-61cf226ac3ff-tr.mp4/playlist.m3u8?token=f394d0c8-c008-4df5-a230-b76805245503&streamSessionId=e416dffc-ec2e-4d91-8d09-4907ea1b1acd&code=publistep&expires=1782642673533&ctrl=e06a4c71f957664682c6a5fa72c06ce08d6242c308bf5f6cb0f227efc24520c481d720cb4019a7ebd44309ea95363b9f3a640b450ef36b31e32219110abdc58e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",NO VAYAS A CLASE MANANA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/novayasaclasemanana-4bd1bf0d-0349-4f1d-ada1-8db9a194a1a1-tr.mp4/playlist.m3u8?token=a3521178-c7ad-409d-8010-55c7adca58cd&streamSessionId=58849a35-77f2-4bdb-ac01-e03c9aac1283&code=publistep&expires=1782642675198&ctrl=87555039edbcf94fb0b1c6017a3126c254bde876b74302f9f1ef34a5925f9adff2a64c67580ee1c55f3a9c30750e34349f912d2badc315416efc481ae84f6298
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",OKLIM
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/oklim-a14e632b-4709-4305-9bb2-ee1a766af37e-tr.mp4/playlist.m3u8?token=1c6a671f-e928-4774-aee9-a3fb65443522&streamSessionId=959c641e-468f-48b3-8544-5c70e211e2c3&code=publistep&expires=1782642676820&ctrl=46c32b5a457391c8b8e37b5742e6493d07af93fcea6c9e5cdd3014abff4048655dadb28631014c6df0dc8b0ed6db6d60327f84a54bb14dcb336f5767ca0e1fbb
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",OLTRE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/oltre-0c1d4e5a-7dd5-46fa-b97f-fc8a96cffc3e-tr.mp4/playlist.m3u8?token=36c3ee6d-639f-4894-93bb-ca0796577a82&streamSessionId=6a653ac5-953c-432d-bd4d-3daf6adb4014&code=publistep&expires=1782642678379&ctrl=f1d29bb74ddb2f65e97ca5d3d75d6c20d4edbb1feed18419a4c5412bea6f5c1fa87f4c0ae6d6e3e47fdeff900655d7c5c162ca8d4c5eaebe37cf278a5f0cdec8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",PARENTESI TONDE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/parentesitonde-044910de-e7e5-48e4-8ae9-4ccd8987328e-tr.mp4/playlist.m3u8?token=9a9d938b-6bcb-4d72-9c53-d99fb1876bcb&streamSessionId=767be759-cef4-40b9-8ad2-ba733207d320&code=publistep&expires=1782642680065&ctrl=3c8b3fdb13bbcb8d079becd3d1dd39d5c47c0782e9e927432e781c05302322c23c92f76ad1e33de9e37fd88343fd22c91e7a5360fb8c22902569269dd06f7914
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",PRIGIONIERI DI UN INCUBO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/prigionieridiunincubo-347fee20-2e8c-4072-bb56-c90e7b3f031d-tr.mp4/playlist.m3u8?token=55146cbb-a916-432e-b119-df5d7e71b038&streamSessionId=21636aa0-f7ae-4a10-b75e-5722c377e179&code=publistep&expires=1782642681606&ctrl=e337f0b08fa54c3fa0aba741efaefe2123a50c111ff0902d154a9197b1ffa2fddc0e047982ab06aa6e9a7dc81af4c908f08ab5303f565b2b0b8870bb36b29f86
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",ROMEO, GIULIETTA E OMICIDI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/romeogiuliettaeomicidi-4bd6c679-7f30-4a9b-b138-e73e4ef21129-tr.mp4/playlist.m3u8?token=04630604-6d66-41a3-9653-89b7091fd0dd&streamSessionId=232636a0-c985-475f-a241-469112d7b749&code=publistep&expires=1782642683206&ctrl=f265aa313f6fc2486e208829678a1371e93fcec8f83137bd77460e73f1b04072b3284df1ff30bcb0b6fa230c40c7ef06b31a049ce63516072639432fdcb10b57
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",SAFROM
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/safrom-37aebe94-141c-41f4-9aa2-2b38d4be1a0d-tr.mp4/playlist.m3u8?token=c27aebbf-7dc2-4c8f-9e6c-88d85c33d5c0&streamSessionId=c6b785a1-64a1-4854-9f37-fb93264f7265&code=publistep&expires=1782642684781&ctrl=8d384ab0e6e9708afe51ab425b9bf79b1d605fde6f1b1a5ef87515c3ad4373299b27f2258ed708a1934660502956b803bc2711cb3545f6052a13e9a322c092ab
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",SCIANEL
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/scianel-2e154832-1d4e-4cf1-944f-c8c309b2c2c6-tr.mp4/playlist.m3u8?token=7aa67d13-3b1c-44f9-8d20-19fdcf9c5db7&streamSessionId=08884239-335f-4ac7-8ab0-24e08859cad7&code=publistep&expires=1782642686427&ctrl=7535b4a606ed0f5738b0b888ca4d5292ee9611b78d61854111fe2986940a50bd2339ab181e3ef6e0f34d63ade12f7de640280462e000b65dc04e949478f421c6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL SOTTILE FASCINO DEL PECCATO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/sottilefascinodelpeccato-b99e8469-142c-46b8-ab67-5379a4231342-tr.mp4/playlist.m3u8?token=12ef46dd-0d7c-44d6-8f90-3752d04960d6&streamSessionId=9e791ac8-1488-44d0-9f4e-dd1385eab458&code=publistep&expires=1782642688203&ctrl=a6978bf5e2fbf98bfd1b8bc94155139c56777e304c21fddd63ee2ee3ce8c48774038a1c4abad20c1e207d7995eb133c385898400ed9c9be86c3f075d6283a408
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",STORIE D'OMBRA E DI ZUCCHERO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/storiedombraedizucchero-79f3052b-b1f6-41ac-9618-b711373a933c-tr.mp4/playlist.m3u8?token=42982e1f-1eb4-425e-a6a3-8705e0d13b8d&streamSessionId=82254430-bd4a-441c-92b5-f6f2cc750e7b&code=publistep&expires=1782642689929&ctrl=a28fffbbec7f222628e9620b8dd9adf3b44e11941d47ca28fd5b5503669a401ddf503f2fb78dfe1b7b6db1b8c07793a07cb5ae85e260c1b2acf48a65289f25f9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",THE GAMBLERS
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/thegamblers-08291cc2-2f68-43a5-80b7-8b173fc1f641-tr.mp4/playlist.m3u8?token=969c1e65-1da0-4df1-9273-79c16262c7a5&streamSessionId=a91f3a13-7faa-4fae-b0d8-bfa3d5003f1e&code=publistep&expires=1782642691530&ctrl=d9d3af47a33fd70df96314c668c6407aaeb09748ce40019955a8597cbc41bdbad7020994fd0d8c929dab93580bb0c54347248eb764c15e1eed8faa7fb442b45a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",TRAPPOLA D'AUTORE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/trappoladautore-f7780ad7-2d95-44f3-ab9e-3b5ea3285350-tr.mp4/playlist.m3u8?token=d3481e6a-c66b-4075-826d-07fe59838a8e&streamSessionId=a81c2050-972d-41c0-84ed-1153a00a8c0f&code=publistep&expires=1782642693154&ctrl=c89ba00c10fba8faff2b69a0d8b9d2f1b0bc26978656b10521a27914924c5977d230705cc03d702e84519d789332edd98c149081f71d24b4ae15809b1773440a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",UN POSTO SICURO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/unpostosicuro-21c64fc0-ccf6-4769-9637-eb1a870f48b9-tr.mp4/playlist.m3u8?token=3536c74b-50a9-4e92-a66e-cec8ca841715&streamSessionId=b547993d-b0f0-4d26-b9b4-a61be177adfe&code=publistep&expires=1782642694763&ctrl=e1b4ad20e8ec71e5c0c49ae2e0317d190e5f4a2a6c6c04eb779c8dea605860963220359dd2ba5ab40a893238770fd9e21a2414d047e0306dda74327aa2955fdc
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",UNA NOTTE BLU COBALTO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/unanotteblucobalto-bacef3fd-94ea-416b-90c6-91a9b0536649-tr.mp4/playlist.m3u8?token=9f79c8ff-91ed-42c6-aa19-6139fd10c597&streamSessionId=52c5e5a3-7df3-45ec-b066-93246041703c&code=publistep&expires=1782642696320&ctrl=f413f1af3b059670ab12d75be748020a70243f63910837629e53abe9e13cbf1f104f1f76949653396ef6bf313ff8863daf916064d322b4895504216f4c3b644d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",UNA VIA FREDDA PER L'INFERNO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/unaviafreddaperlinferno-0cb071a8-91bb-4e61-a1ab-ffd0e3b48839-tr.mp4/playlist.m3u8?token=24b58bbe-450d-4cef-94da-9c6b33e0a9c5&streamSessionId=dfd184aa-4130-4216-a70c-e9331ef0eda4&code=publistep&expires=1782642697851&ctrl=ab25f059c9d528250c9c42c530a9141f09ab01491b6a95741fb3c7bf5d3896f783272da16d1b425ba83c1318a7dc0f757efc14b86730278a9345e888e28cdc01
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",VENTO DI PRIMAVERA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ventodiprimavera-a8e81274-566a-4a15-b1a4-3ec7bd98bf2d-tr.mp4/playlist.m3u8?token=8c402a81-6977-4e38-998c-21afcc858bc2&streamSessionId=acd9c69a-babd-4dc1-9eec-72a612b45104&code=publistep&expires=1782642699429&ctrl=072cfa85e1df7b196a336306bcdc66da2a034576f0d33ca71e4abe633804bab88bf38e0f68fbdced03a3172abdcad10516cd9284242dae8e888d6ad1b300606c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",ANDREA MAZZOLI - IL PITTORE DEI RICORDI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/andreamazzoliilpittoredeiricordi-277000f9-bffa-4541-9cb4-324a87b26d2d-tr.mp4/playlist.m3u8?token=bea8d7c8-958a-4aed-8d86-1a9f4ff6f925&streamSessionId=9133335e-8e51-49d5-8efb-a9fe1d7bb262&code=publistep&expires=1782642700983&ctrl=42edc86c7e0e074210a381532d30e9f30a73dd8a1f21292e4a33177ede7ad2309f0dcb9bc45d40841553fd493e014d5d1f06c0eff04e703ead9e7852dd86ddc5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",EDO JANICH - LO SCULTORE DEL VUOTO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/edojanichloscultoredelvuoto-9f18d863-2117-4e69-9e07-50aa63affdd6-tr.mp4/playlist.m3u8?token=33f679af-31b2-40e4-a084-dc8e9046756a&streamSessionId=2ea812a2-fc2e-44a9-9b5e-5daeb392ba9c&code=publistep&expires=1782642702664&ctrl=da272f8e16b71339cde0cdf31ba0e919a043d2f23c8f87f123c5c681767737b7bb5c13a5221504438f3f369fa703b19cc1ad0a4e1b7918f9fd3e99b415ce6ffa
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL BALLO DELLE SPIRITATE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ilballodellespiritate-94d80c15-ac6b-458a-b56b-119446935f8b-tr.mp4/playlist.m3u8?token=b1ba77a6-d377-4b71-b506-1a02b1fa9e37&streamSessionId=724eb8d9-a9f0-480f-8ff3-06f91491bfb7&code=publistep&expires=1782642704218&ctrl=f5d4149c2a77283bf80c20aaeb47ec11c125b320abc6c5bacf66ef09943459522d3f115f64b14f3bf9228e8a0a978698a1957d9ed95ab6044128cf1f91206e80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL PROFUMO DEL MIRTO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ilprofumodelmirto-bea7ceaf-d7db-4345-b5b7-a6ceef61d5d9-tr.mp4/playlist.m3u8?token=369fd8e4-b1fe-4f70-9da7-45c189aaa4dc&streamSessionId=589f78ae-fc34-4e41-b4f2-0b92f7fa3285&code=publistep&expires=1782642705728&ctrl=3b3f60309988a961a77fc219d94b84619708468efedddc4120313051e890ba6ff88fd2e35893a916cb26f38347b52a98ac4cb982f5d0e642b3ffc181123599ef
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LA RABBIA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/larabbia-ce5d3264-42ac-43f3-861a-30822b798306-tr.mp4/playlist.m3u8?token=c74f4ed6-f46d-47a3-aeea-fce359b7ebfe&streamSessionId=55eef452-df68-44e9-93aa-296a425ce47d&code=publistep&expires=1782642707343&ctrl=0a6d4ebcb55254844c0293f9c6434153e344baccce9cc77f65aabd381cbb365e5a87af274e29b426700cdb0d179f82261b00f050c78d936ea93d8006f11d22dc
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",MATERIA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/materia-f11164c2-e46f-495e-9713-e15909cd3bc9-tr.mp4/playlist.m3u8?token=f38b3884-caeb-45e4-96fc-279594b23ca9&streamSessionId=803883c5-b859-4db8-9c77-88b7fe2e1ff6&code=publistep&expires=1782642708901&ctrl=36ef09a0240b6e42679ce33a666aa3bcbdbc3f084ea0ada1348bce81ae2d057669b62d7a485180f1674cdad7e7edaaa344bf833688c1fdf5aa0c00be8648b025
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",OLTRE IL MARKETING 1
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/oltreilmarketing1-7d39defd-14b6-4d73-a98e-8c078926755c-tr.mp4/playlist.m3u8?token=40130038-9679-458a-bad5-155d29734574&streamSessionId=32f25142-9bf8-4874-9381-af1af7fed925&code=publistep&expires=1782642710471&ctrl=b904e838f5e02d449382ce60fdb430a0e42cea1e9a7536cb8993966c4bd16ae07e2a5a1a76d8724a2b53b65f681337a540dad2c9ceac9e91962a0a7e2cec646c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",OLTRE IL MARKETING 2
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/oltreilmarketing2-222b594d-3e94-48fd-8540-f117a91a4678-tr.mp4/playlist.m3u8?token=7539334e-2e5c-4e41-8854-feaf737911aa&streamSessionId=611becd5-d24f-411d-91c2-0dffd676c961&code=publistep&expires=1782642712133&ctrl=343d08c1db5d340f742336acc01aa0e7901c15121b54add1996276654ef7904bbea6cc02382d41094373e4ac5392dd339d7f91f9bf6f34eedad263fab7bb9ce3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",OLTRE IL MARKETING 3
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/oltreilmarketing3-fb22ab63-6429-4adb-9aa8-09665313c1d9-tr.mp4/playlist.m3u8?token=f33dc9eb-709f-484e-b043-c95dcbcb34b3&streamSessionId=8571aebf-d65d-4c01-b726-604379a5f0a7&code=publistep&expires=1782642713847&ctrl=45176e3efa8d0ad83aee5c2b5064ec11376fc86f7616e1ec035c321de7ebecc5235ffde925329e777d7ad5dd6636e3aae0c0ab39d3bbb9c28b526d6b1a9c7f20
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",OLTRE IL MARKETING 4
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/oltreilmarketing4-7cc43302-5dc0-4a0f-bc50-62ed633789a5-tr.mp4/playlist.m3u8?token=3a6edbb5-5376-46dd-8ff6-6736b36eaf3c&streamSessionId=682638ef-fcec-4988-874b-4ac4d611b635&code=publistep&expires=1782642715482&ctrl=42b45cb388904f3bdd92de871118930ea904b20873a10d27a4e52493b64f2e704a05108f530f9a57d088007a4ef3098d9ea32131bf82e539069b049a013efa98
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",PASOLINI STORIES
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/pasolinistories-5d17bb26-4dbf-42f8-9847-79be4ad567ab-tr.mp4/playlist.m3u8?token=764c4068-f8ab-4f3c-8856-49d86059effc&streamSessionId=6dde1b1e-b30e-4a86-aa34-4d98fa2d78d1&code=publistep&expires=1782642717117&ctrl=7017cba37bf0c733b9bc2ed7f1d0223126d1c82c18f2c52569d0d5aa2554add284f2022acfdbe9fe88da147a119dec7621fab269e66810ce3c006406c23a9565
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",RESPIRANDO CON LA MUSICA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/respirandoconlamusica-f6e026a8-7fc8-4c50-994e-03fc09e2c475-tr.mp4/playlist.m3u8?token=b29499d5-4795-4739-b12f-d0df5a5ef034&streamSessionId=502f0183-7760-4b87-9331-af2fb86cd668&code=publistep&expires=1782642718669&ctrl=fb5345d514392f901c0b6892e353578b58088a03525ecb95f7e73f1f3e356cf0525ae2355dc8e3795e02d5fe7de62215bab1a9cef2234b1056e62935bb1582de
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",SPAZIO RITRATTO DI ARCHITETTI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/spazioritrattidiarchitetti-343025f2-fc41-470c-9834-63704e077b61-tr.mp4/playlist.m3u8?token=bd7ba4c7-b588-4c60-89eb-1cdc355fb45f&streamSessionId=ff77ec96-fbd3-4c27-909f-18a69bbfa0cb&code=publistep&expires=1782642720259&ctrl=121c45c2cd23a11c802c762343074600620b511c64ccbff64c5b315021d77e13e5a53cfe2008a978b04946b315ca9fff7e6cc427e046673d2c8e11ea1d54e50c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",STORY RIDERS
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/storyriders-f8711d52-d2c1-4508-a230-7f8c93f887fc-tr.mp4/playlist.m3u8?token=a994cc71-bc76-4514-b876-b94bcf74596d&streamSessionId=7a52e125-eeb4-4970-b76e-41a93fbe7abf&code=publistep&expires=1782642722002&ctrl=e5303f6140d98db41a7f054ecc4aa359a253d9eb90a7a269883c73a73c7a382a6e5d7f449ba54451ce456ef5080de1f3f277494eddb767a9de8ce27e4e82260c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",STRADE DI MUSICA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/stradedimusica-817644f0-a0ce-4127-90a5-0a55778f7090-tr.mp4/playlist.m3u8?token=5e3073d9-75b4-4af0-840a-52a0f4cf982f&streamSessionId=8275418c-db0a-4058-82ff-48ac9ee76983&code=publistep&expires=1782642723582&ctrl=16215a0444287a00012eb1de74c9bf2a38beda9ecc79738d420f57ce634564b2b3c65b904925cc376a24c73fac4932cf043ea0b31674d8a669d2702aecc5dd0b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",VERITA' NUDA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/veritanuda-846ef8ed-c593-4122-87aa-739ea3d2e409-tr.mp4/playlist.m3u8?token=19cf2652-458d-4c19-a166-381e362f7ad0&streamSessionId=f538250b-f574-4b3e-9026-50265c6a1c60&code=publistep&expires=1782642725236&ctrl=6a0a32d52f807a2329ea699df9d75ed0aa9f11de7db85511422329083c5ddef1f662d36b88a2b02d49b7d5a4209d1ea33a95871732fa9d4c74f95a12c3a8b380
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",XCAT - PURA ADRENALINA SULL'ACQUA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/xcatpuraadrenalinasullacqua-06744bff-2f2f-4691-8b16-c77d4efd18f8-tr.mp4/playlist.m3u8?token=d1e9a9a8-9d39-41a1-9e4b-be72ce0b9a5c&streamSessionId=491f06a9-4b1a-41f0-8807-175a8b487bc4&code=publistep&expires=1782642726999&ctrl=4029652faa907e05d3bee406bb60e9c26e1bcbf8553cd3e49878325da2326b556c52b4e9ea1c08770d89d16e03aae3a8353afadc11dd5217e161d7789a390e05
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",404 FILE NOT FOUND
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/filenotfound-c5d2c2c0-466f-4ada-9d41-18e279c3c41a-tr.mp4/playlist.m3u8?token=e785b118-9a1c-4594-8961-e000d549a375&streamSessionId=12b49654-ba36-4465-9593-f8bdbd9d659e&code=publistep&expires=1782642728604&ctrl=52e6e20a1c301525b4a51006eedf2598ae8fa4cbdfacea73094c5b4f56d6c6c926471fe3e0c6b0e476d5e27ff18b51992906c573f8d2135b834368e96d43df61
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",ANTONIO E IL SUO MARE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/antonioeilsuomare-89d74268-9e95-4f0c-95ba-2713e9131122-tr.mp4/playlist.m3u8?token=7e23fa84-7815-4e59-90fc-5f21b9598f1d&streamSessionId=b9fd75af-6fdb-4d2d-8d2d-449ad1dcdac4&code=publistep&expires=1782642730174&ctrl=f16cd54f44f48614044d7b65f47bddfbbf4beb7b3245c802e65550c69d427d6caa25707876f904dc0b1b1b7431f8777658c722a02e71dfa0aab09fde460359c4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",ARRIVEDERCI PARIS
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/arrivederciparis-64176aae-9065-47ad-8195-64d5639fc8a4-tr.mp4/playlist.m3u8?token=24f5fb4c-92e3-4aee-a6a3-bc090f700c86&streamSessionId=720727b3-8de0-42f5-9f81-f3c943af1fe8&code=publistep&expires=1782642731788&ctrl=68f3811f9b9c726a2a8669e674cb69a0a6f8e1da790e7be05e62957f742a0a74e45836b062301fd447fb7fe105798540c9dfb0f0d12fcdb6b12c519efa064ed9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",ASHES
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ashes-e8a50713-87d4-4dae-9a36-24a4db1fe3c9-tr.mp4/playlist.m3u8?token=ef71594f-4c00-4fe8-9cbc-81a35ce739dd&streamSessionId=db066a8c-35b1-4747-a8fd-7d7b8d989f14&code=publistep&expires=1782642733321&ctrl=b370608dc7d55c16a99dcd48d696030a9507ba0fc048e3b7ca8d01bc904a670af02a36d830651c0408d95fd898733ba7943c11669c37306363ce29e2a960a1b0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",BEHIND THE FLAME
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/behindtheflame-fb9a7078-f176-427f-a5e8-731cbeb8e4ce-tr.mp4/playlist.m3u8?token=09db9ff4-4990-4aa5-babd-d1fb387166c0&streamSessionId=97ff26ac-ddc0-4c4b-947d-f8323d517bc8&code=publistep&expires=1782642734886&ctrl=ad905a9bf0959775f6adfc4524428ed309608c45f5eb5e69b1e60632986501022f64cad509a49080fff531424032d62a56b0db5e2effd5b9077ed4286a711baa
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",E STATO UN PIACERE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/estatounpiacere-bdc64d46-c2f6-4191-82ec-65093df1da1e-tr.mp4/playlist.m3u8?token=ef322030-637b-4d7d-b023-c85e981a0184&streamSessionId=4eb9f6cb-6a7b-4ff6-b73b-ac800e651401&code=publistep&expires=1782642736439&ctrl=0cf50d02875e002e9e4dfcc6e8a12214f5516a34a21f338075d41350fa4bfedb5696531f7d85477d052632a226ce147aa67b519e30845656ff8fbcfca6be174c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",FACCIAMOLA FINITA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/facciamolafinita-dcf9cb96-96c2-4fc8-9886-29077a127c2a-tr.mp4/playlist.m3u8?token=0ff247d9-ed08-4b06-9bdc-9ebbf1587c33&streamSessionId=aed377b1-5dfe-4596-9fd1-953bf8da6b4e&code=publistep&expires=1782642738100&ctrl=26f34b2eec1a7bb553b2de564f83b09b497b2dc2de8bc670fa3662395d965cc5e7146f3634cd6bfc47e699f9b5787d83c9e2d98bddd98d9f61704f039994f520
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",FRATELLI MINORI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/fratelliminori-0f5a0c21-5249-4f2f-814b-a7320c705ba1-tr.mp4/playlist.m3u8?token=7ad67443-587e-4239-86fe-77e5bc033ac3&streamSessionId=fa79c94e-047a-407f-bbad-f1f166da30d9&code=publistep&expires=1782642739687&ctrl=787bc75cbf86510a10a85e38f0caca80d9ce4d02fa8cbf2c48dc0aa686ba49a09185895af25ece3b28c068f5cdcb2f72a2a20eee4c612d219d46f96c5ca64b55
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",GLI EFFETTI DEL GOLEM ACIDO DELLA DISTRUZIONE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/glieffettidelgolemacidodelladistruzione-0140d578-2ffe-409d-bcab-1971eb0d08a6-tr.mp4/playlist.m3u8?token=11ea8610-37f6-4b6f-9c58-84aa1a684dc9&streamSessionId=41ab6c60-3fda-4437-842a-a2b1bb578a04&code=publistep&expires=1782642741335&ctrl=091af0acb70a1eb7e5829c0e05d318d1d43ed12a7372fe1bea3b39846c18f67b587a5db196fb884291e8aa63318900587b3781985971f3ca7b5e76548de669c2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",HIDDEN TRUTHS
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/hiddentruths-0079feab-1961-4b65-a0e7-357f158cdf9f-tr.mp4/playlist.m3u8?token=4db8b5e1-03c5-4c0c-950d-fa069f98c99a&streamSessionId=1cdb926b-47af-4098-ac61-a149c16b8c9a&code=publistep&expires=1782642743059&ctrl=c64380860fb26626766d62bd80c736eaffa2a5fda44d297a7945dbadb66c4e20c181b11b7653ce316541fd218a20828b88849b09a613f40b0118cde05bc6b9f6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",I WANT YOU
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/iwantyou-238a27e2-ea7b-4220-8a19-1c5a25b2e4a2-tr.mp4/playlist.m3u8?token=2a2fdd8e-90af-4e7e-8558-da4c203a5305&streamSessionId=dd2d16bb-897d-461e-960a-88b418dc857b&code=publistep&expires=1782642744751&ctrl=5094dc629198dddc32806341730b5a4f2e612521dc18711c17a481bbc77998d9aa24b4033ef8686dc096638fa279f6b75188945d572c0b7799aa945ff27cd823
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL CIOCCOLATINO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ilcioccolatino-9ed853b4-175e-4c86-afba-c96590d5932b-tr.mp4/playlist.m3u8?token=b9b82ca4-67ac-42d3-b851-3b5fa9a47a2b&streamSessionId=1d2c628f-c4b1-4a93-a07d-aa4d12ef7f49&code=publistep&expires=1782642746597&ctrl=e22e493cfb200d29a5b2e885f26c63deccf38591463c8a60c75f795f4b602c29eceb1f4ddaf04162f166e74d9495b5cc92cd35643a3000408b4bc7c16479d828
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL CUORE RUBATO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ilcuorerubato-20156a1a-022e-4467-a399-05e915813b46-tr.mp4/playlist.m3u8?token=2744c92b-cd5f-4f5f-a381-ac4694fedc26&streamSessionId=d942a588-f166-47f4-a739-27faa4985a7c&code=publistep&expires=1782642748205&ctrl=7b61765d64a1382d46509e92a9dc89d414a95e19142c6ce21612047cfe71f7751d6e38521260f2c16da856ae1646c8f9819864d325be75b25889e8d8da9ac2cb
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL DILUVIO UNIVERSALE
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ildiluviouniversale-d7e5b537-19bc-43df-9787-02370b7f28e4-tr.mp4/playlist.m3u8?token=273fb74e-5b38-4374-9ceb-b9314894333f&streamSessionId=f55c21a3-5beb-4cef-b6ce-b92510915f55&code=publistep&expires=1782642749971&ctrl=a4e21081fe692231ad39ad4a9b9bc24d3e17988b52736d71a717f2b460bf6a6bc76ee098d45d52fff789d667a2e384afa4fe5a25f3b1a0c0f3b707bf9b5a150e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL FRUTTO PROIBITO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ilfruttoproibito-14d3dbcc-901b-4808-9509-27ae5eb1d4ad-tr.mp4/playlist.m3u8?token=1be02248-8cac-40e5-bcc7-2544bf4de028&streamSessionId=62cd5803-41cc-48e6-9edd-4ad0a60cf601&code=publistep&expires=1782642751550&ctrl=4c736263f7ccb75ab3a64371771842ff34d984b74022abf54b2421b73094522a329ea294b9ade2df83cd5781737847ff81b024e34b1b1e3460de3d4736692da2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL GIARDINO DEI SOGNI PERDUTI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ilgiardinodeisogniperduti-5873671e-20d9-4f4f-860e-190a5e632775-tr.mp4/playlist.m3u8?token=6f7070ae-2e66-4652-b4f4-b614554c885a&streamSessionId=89a247ae-6d5b-47a7-bed1-8bb17e63dd08&code=publistep&expires=1782642753379&ctrl=8a276b01a59c28bb5d136da09c53dcc08db2ae021bdcafdaf68411ef493bad4697cbd18af248cf2249e4148d0c1c1581fa23958025afedc781e13ea987645e67
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL MARITOZZO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ilmaritozzo-cd7752e7-adab-43e2-84ac-473cced44071-tr.mp4/playlist.m3u8?token=11a79165-7662-4afc-b8ff-446f13ea6ce6&streamSessionId=f69b6333-59d8-4f40-bb50-bc2b7823a2eb&code=publistep&expires=1782642754949&ctrl=daf79bbac1dd039a3e1016a36e5d2aa785e31a833ffa05c9568fda51512916e4e83db2e61862dd5b49f8f91d6d3696bd69d8146c7e09a000dc8d1646f7e322af
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL MIO AMICO E.T.
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ilmioamicoet-c1740d6e-cedc-458e-ad32-9e67dcaf6fa7-tr.mp4/playlist.m3u8?token=81e890fd-b71d-4121-ae34-862b77ecd75e&streamSessionId=d0b17c05-0e72-46e1-8154-e5fde794b2e1&code=publistep&expires=1782642756491&ctrl=90d9170997d76254ef71d402594ccf80edd6d7c8140de3c9dfa9aaa22569cd8bbd113809e267c1e04a63b4c586dba9dd969b4d156ddfe5fd8bd6136e9bd57952
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IL NONNO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ilnonno-e783048c-8653-46b0-9885-8d7fc0332ea7-tr.mp4/playlist.m3u8?token=007b4a4c-9233-4b11-be2d-20b2733748ac&streamSessionId=6b9fe22e-89e9-4b2d-a43a-1097bb9be583&code=publistep&expires=1782642758072&ctrl=e2344b2069247751a05770294b8f11d9f824b4002b41c7ee722a36dd853b8197288d6ceb841c0bae4f21fb7af8d7ae93b39ba76465717e23f71cafa0d6874a62
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IN MEZZO ALLE TERRE 
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/inmezzoalleterre-37f4a6c4-e267-48a7-b127-5a1517145acd-tr.mp4/playlist.m3u8?token=16d565cd-e59d-4da2-8f6f-c666e900c26f&streamSessionId=bbf4461e-13b4-4753-a2f2-000a2d8d437b&code=publistep&expires=1782642759809&ctrl=60f406bf24ab794bb3ef64092cb1558260880976396f3cef10a0b8ca2ca12c89a1c415ce4293b77c66defe392fbee163688b3bc4525f65d1b93e74cab4d05c7d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",IO E MIO FRATELLO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/ioemiofratello-cd87bd30-ba47-4dad-a46e-2d8b03486e40-tr.mp4/playlist.m3u8?token=68f86634-9803-473b-9e0d-c21a84485475&streamSessionId=6147ae77-b2fe-47ed-a5d0-32dda3884367&code=publistep&expires=1782642761375&ctrl=a77ffc977a0632e2bce926addb8fa32c1a0499008c4822a5deba315e4dfe0b364d6176837c879c7affd127d683576f3e687441de21924b94d92ee9fc011c113a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",L ULTIMA SCOMMESSA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/lultimascommessa-2460ac12-1605-48c6-a66a-1160de84fad7-tr.mp4/playlist.m3u8?token=b34c4429-a2d3-46fc-a158-3b65e0682e36&streamSessionId=0ba7bf41-c3d8-43fa-bb9d-988200691319&code=publistep&expires=1782642763025&ctrl=256ef950a8ecc97aa14a88fea79bd9d523ac92076c2911d7521de26c13cdf7e49521dc0fc0d6b8d9404007a542884b79e7b1d8c0cd5d141c13da894f6fefffcc
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",L'AMORE E' BASTA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/lamoreebasta-2930e76b-d74b-4304-a89f-56c35c7bc602-tr.mp4/playlist.m3u8?token=0017bfe3-d4ea-48c8-aabc-19f806ba1235&streamSessionId=d22445d8-da26-415f-b79f-62b3515e2728&code=publistep&expires=1782642764657&ctrl=9603d659ff8c988925c81b600f6af974f21be0b90edc9320bfeed2a5440f6a55b0fb852985ebcac38cdedfda3cc6881d50b253ded0597dacf2d6b177ffae6eb2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LA CRISI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/lacrisi-ff743afb-9ac4-4a04-bfb7-5f333ef7037b-tr.mp4/playlist.m3u8?token=344ce92e-e6f7-4eb2-9acc-862bad4dcc4f&streamSessionId=97f34329-b784-4529-928f-815b384fa11d&code=publistep&expires=1782642766315&ctrl=f4beaed7e948073b54af03ab08bb761d6295fb158fb787e1ac4d51886fdb673a11a546d4096b5a95e333fdfd7d518c2532e8aa6ac938b67175760159dcc9948a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LA LUNGA NOTTE DI DOUG
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/lalunganottedidoug-bf16dc66-f8ff-4c20-a6d7-2f68d65c19ce-tr.mp4/playlist.m3u8?token=78b6a003-3e31-4273-b068-d7ec184a05b6&streamSessionId=83447555-cbce-4348-bd90-836127e946b1&code=publistep&expires=1782642767953&ctrl=395575e117cfa996e773f5435e3c96add934da7f7828306fa314fb21dda0909a65e7c84e2973d6b0f2019a4534c4d93fde5dd4e6cd0a0f79e546f48bf22aa050
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LA MUSICA NELL'ANIMA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/lamusicanellanima-1a54add9-edb3-4369-a695-12685a3ff0f8-tr.mp4/playlist.m3u8?token=d2a43926-97d5-4c3b-8f75-d1b961123a81&streamSessionId=7ec9d94f-36a5-49d3-a0db-f04626089f47&code=publistep&expires=1782642769550&ctrl=5c92984c0c332ade154c4a34613b6423491b0b2fb1be380f1faab4a672cbb61a603bff4611582a13a923d018bde711316ac61c61edd63bc4bda5bff4b5e738b6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LA RICCHEZZA DI NAPOLI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/laricchezzadinapoli-f9f88fe5-93ea-4e4f-b551-656520b0cea1-tr.mp4/playlist.m3u8?token=1e277df2-609e-491e-9ade-55678ac7a06e&streamSessionId=9817a22c-7bc2-4e7c-944f-f44813eda58b&code=publistep&expires=1782642771254&ctrl=8d5103541c4c6c9b4ef3da6be17b47cf81c9458882dd283774f56ddcf16182640603df4cf0921f4fad9969d763754a15640167fb7d8a7987af02a8f444a8eb1a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LA VALSE DE AUDIEX
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/levalsedeaudiex-cd389fff-e3a0-4668-a5c5-08e3f08737fc-tr.mp4/playlist.m3u8?token=6b17e94c-a333-421e-8088-762ad272fc00&streamSessionId=4cdbfbd6-3e6c-4d6b-80f2-24fc0903a287&code=publistep&expires=1782642772952&ctrl=fe5aa21e6684397e48d9a2558a35d6c42a7dfe7d055b91bccf289174100cf2eb15d83314b945fa8a8dae630ce4635d591790c7900d740b102bc287fe3df91619
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",LES VOYEURS
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/lesvoyeurs-3de6f175-74bb-4da4-8446-55c551606d67-tr.mp4/playlist.m3u8?token=42ce45ba-dbb8-401a-b01e-fea1a7502fed&streamSessionId=b73ae85b-1992-4020-87f9-e84a5e0e6f14&code=publistep&expires=1782642774662&ctrl=3e6961842bb83b8a814b07caa71699c771c138520ba8a3dcd83cc574aed4b681478a69c31180cd16d47c77ff8ba1b07a70e55024448894d6114f319ba6005b31
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",MANCO MORTO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/mancomorto-a24b515a-fc41-4df4-998d-2a3a2780c515-tr.mp4/playlist.m3u8?token=41fb866f-43f2-4211-b2f8-254f83ecc644&streamSessionId=946b713d-359c-48e1-a991-52902d3970cc&code=publistep&expires=1782642776447&ctrl=998114c1153ce5e54b3078f805672e1c7826d76f63fee8da4fcee6905fe84a4f1290d6e37d412056d0fabdc5be392d3e7074e25b6c23d8c453c8a2b38c69fb53
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",MARZIA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/marzia-55b554ed-41c2-431b-83be-e024e4a5afe8-tr.mp4/playlist.m3u8?token=7783b2fd-0cb2-4e9d-9bd3-e0f7e0fad0e1&streamSessionId=7cb9310a-ceeb-4035-99fa-88da5a35ee90&code=publistep&expires=1782642778308&ctrl=fb41c1811da1bd70cc016a78553ff7ca825e14eeee2a72db00e302bd38ebf1eb61c5f3ee463c086752e7cb3eeaab6653a255a96f13440c358b31a53d84b1d822
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",MIRABILIA
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/mirabilia-dd3ffb2e-264d-4f5c-b273-617fa657cd05-tr.mp4/playlist.m3u8?token=ad9e0d38-66b6-4d91-9c99-565b37a5a303&streamSessionId=a6473016-66de-426c-a8d0-45513f4c96e7&code=publistep&expires=1782642780186&ctrl=b3dad46b145f17eafd61008a86882852850cfe7922e62358c0ee5fa519cd640e91c3374db225ba4efc435f0eb093ac7435ac646efc07ce4af695b011568e40d0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",NOI
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/noi-701fde1b-00e3-47d4-be64-e2a707708c19-tr.mp4/playlist.m3u8?token=ed508dd7-8f83-411f-a727-688b3260a4c8&streamSessionId=0162d6c9-db54-4ca2-bf42-e1693e259201&code=publistep&expires=1782642781775&ctrl=34e6d57542c7f6465d46935f60851ef31257331bc93c15406c5f737c56cf584584f574f6c491869ef92ab21b9741897b0d1cd1e6a10254c9dee36221481ecb96
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",NOUVELLE VR
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/nouvellevr-35fdc7fc-11cf-4c12-9f48-1238f2db5808-tr.mp4/playlist.m3u8?token=064e67a1-1209-4483-8fda-4e72cd42440b&streamSessionId=c9d48be5-de96-416c-aef7-983ed1452c36&code=publistep&expires=1782642783331&ctrl=9a54062aa32632333781c0fde8c8204f9adc8fd990db1657c0f0d91a5738f97119ec2180957ab95c018478240e04507290a135741d4251b9f1ec3fff9da0907a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",NOVEL
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/novel-35b1ef1d-3a7f-40e7-befe-8efff09ec83f-tr.mp4/playlist.m3u8?token=8d076a36-4191-4daf-a685-aceca2670b7d&streamSessionId=6eea44e7-e048-4408-9363-63d53f380b13&code=publistep&expires=1782642785053&ctrl=209b5b50f7853f93d358a1807ae337b746bf201014798575b2a7fb713c4b646fc6466b1aa30c16d90a78422c97fd06354f524a2a4c34c4d0c4efbc6ee0f31fdf
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",QUANDO SOFFIA IL VENTO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/quandosoffiailvento-f6c3e101-227f-400c-b11f-a9af0a1c79e4-tr.mp4/playlist.m3u8?token=b74439c0-f885-4c70-b94a-7ebf8b63913c&streamSessionId=e5b55674-e52d-4f67-bfe0-758555d9b27f&code=publistep&expires=1782642786679&ctrl=0586ad6a1346ea34edc4973a59c3c2d7dbdfdf99d4d9426b91e3866b09be52436638edba3cbfe4953ce4014047e2e60eaa69dd6ea102af1b0b15c4b3b1ee1e6c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",REDLIGHT
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/redlight-484f84b6-4341-45ac-893d-21962296988b-tr.mp4/playlist.m3u8?token=22ddf6e6-dc47-4382-8e97-fcc15d153cbd&streamSessionId=6ad5e6bc-936e-4516-ac05-f9f4d07485e4&code=publistep&expires=1782642788310&ctrl=7d452eec728ea804a9a0a207a3d985f9e7f318ccaa509ad55e53defb13ebacaa54ec2856508d6d7217231cb5baf33cbf8455bd424283e4048313bf53de44aaa3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",ROSA BLU
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/rosablu-44dd2a50-d49c-45ca-a13b-b47b82fd6315-tr.mp4/playlist.m3u8?token=20a1cb46-6498-4b17-b408-269cfde1b33b&streamSessionId=b05d4594-8f00-4e09-b542-3c4f1f763aa3&code=publistep&expires=1782642789966&ctrl=c09aeafaab5496a5f025201d61be85b211449ccb68abcff028a840b92dbf3cf9206f038804cfcffb03a357c5290783f5e53d040dd5781c808e11a4a2f9cb381f
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",SATURDAY VILLAGE - IL SABATO DEL VILLAGGIO
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/saturdayvillageilsabatodelvillaggio-a3bd0358-69cf-4b66-9b1b-a1dc81805c4d-tr.mp4/playlist.m3u8?token=2cfb940e-eaf4-4637-a168-33d8d87ec792&streamSessionId=6d083c19-32e7-4acd-9bd3-09d64b9642f0&code=publistep&expires=1782642791676&ctrl=570e1bdab4b3382a3f7a6dce0e1286b8d7c0fe7bddfd88dedd5cd33db616fc86cfcb978e1728fcb234f5837a5a4068f77a3d060bc9fb2e902d1d4cec903b188c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",SPACE MISADVENTURES - COVID19 FROM OUTER SPACE 1
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/spacemisadventurescovid19fromouterspace1-327dfdb0-5fa4-4844-b62e-e0e050f61ce8-tr.mp4/playlist.m3u8?token=746ab4a1-9e3c-4fe6-8162-2cc9c59af18e&streamSessionId=0a2ca874-0f5f-4fba-aefd-e1d7c5847679&code=publistep&expires=1782642793646&ctrl=2f7616b98357320ab5c7eb801b0a7210a9f9c50fe2e37580f5621fec6555de2069778b7718eacafe2726a7d5c0906973dc7d4830ef6d423266a845800a71d343
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",SPACE MISADVENTURES - HEIR OF SPACE 3
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/spacemisadventuresheirofspace3-f06d2d8a-4fdd-4f4f-9920-372757028569-tr.mp4/playlist.m3u8?token=24e406c7-2297-4506-af5c-35910bbf31e1&streamSessionId=c3915765-3535-4566-a226-79a1b2a89fbc&code=publistep&expires=1782642795300&ctrl=6bb493be7f2322ef2f2d88bc3950dc37c44a4fbcd88fa3fb50050237bf7f22ba49efddf900c322ac970659c9b2e1c3e20ff75881b1e4cb04684567e96a1ebc73
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",SPACE MISADVENTURES - THE BRIDE OF THE SKYMAN 2
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/spacemisadventuresthebrideoftheskyman2-ac8a9ae1-3e14-4c85-9ba7-b902a96eefc2-tr.mp4/playlist.m3u8?token=056dc134-f8c3-471b-9c14-c225ab0ea4f4&streamSessionId=03eebccd-9fef-4dc9-8762-e9be4f6813af&code=publistep&expires=1782642796996&ctrl=4ae74fcacf57b98ca97a41840e53b3af03ca6c62c27f62ec79de509fda166c2c2a065ae5e2a42be05b8748c5476cc5e50bb73105591e16ac489f10599b1b0a31
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvVod.png" group-title="Cinema VOD",STAR CUOC
+https://dotfvxkfj90ca.cloudfront.net/vods3/_definst/mp4:amazons3/net-cedeo-wimtv-videos-tr/starcuoc-02f031ee-15e3-4947-a0f8-6d0767549a1c-tr.mp4/playlist.m3u8?token=3b6f8969-f397-4eb2-974e-929e64de59fc&streamSessionId=4098ea75-cbfb-4a16-b007-f1ec5674fb85&code=publistep&expires=1782642798754&ctrl=fc8a0c71ac3f040fd696b05d4b22ea5e2d592ed42bc30a30309e17eea9d75bff1f94fdb239077531268d28292af915a197334b9625f043889d6e0d1e55919e7e
