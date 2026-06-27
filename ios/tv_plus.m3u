@@ -1,6 +1,4 @@
 #EXTM3U
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvCinema.png" group-title="Canali PlusTv",--- Canali PlusTv ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="Canali PlusTv",---LAST UPDATE 27-06-2026 H. 10.15---
