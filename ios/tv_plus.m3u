@@ -6,19 +6,6 @@ https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.
 #EXTINF:-1 group-title="Canali PlusTv",---LAST UPDATE 27-06-2026 H. 10.15---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 
-
-nella cartella https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image
-
-default 
-https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvCinema.png
-
-usiamo per i vods   PlusVOD.png
-per sport           PlusTVSport.png
-per motori          PlusTVMotori.png
-per cinema          PlusCINEMA.png
-
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTvSport.png" group-title="Canali PlusTv",Plus TV Sport
 https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/playlist.m3u8
 
