@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/main/logo-garden-stream.png" alt="Logo" width="300">
+  <img src="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logo-garden-stream.png" alt="Logo" width="300">
 </p>
 
 ---
