@@ -1,50 +1,41 @@
-# TivuGardenList +
+<h1 align="center">📺 TivuStreamList</h1>
 
+<p align="center">
+  <a href="https://github.com/Belfagor2005">
+    <img src="https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet" alt="Visitors">
+  </a>
+</p>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)](https://github.com/Belfagor2005)
+<p align="center">
+  <a href="https://ko-fi.com/lululla">
+    <img src="https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge" alt="Ko-fi">
+  </a>
 
-[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://ko-fi.com/lululla)
-[![Donate](https://img.shields.io/badge/_-Donate-green.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://paypal.me/belfagor2005)
+  <a href="https://paypal.me/belfagor2005">
+    <img src="https://img.shields.io/badge/_-Donate-green.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge" alt="PayPal">
+  </a>
+</p>
 
-
-![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-garden-stream.png)
-
-Questo repository contiene playlist M3U generate automaticamente con canali **gratuiti e pubblici**, raccolti da fonti aperte su internet.  
-Non viene fornito alcun canale a pagamento (es. Sky, Netflix, DAZN, ecc.) né contenuti protetti da copyright in violazione di licenze.
-
-I file vengono aggiornati quotidianamente.
-
----
-
-## 📥 Utilizzo
-
-Per utilizzare le playlist, puoi puntare il tuo lettore IPTV (es. VLC, Kodi, ecc.) direttamente a:
-
-```
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/playlist.m3u
-```
-
-Oppure, se preferisci una delle liste specializzate:
-
-- `estero_list.m3u` → canali internazionali
-- `news_list.m3u` → solo news
-- `music_list.m3u` → solo musica
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/main/logo-garden-stream.png" alt="Logo" width="300">
+</p>
 
 ---
 
-## ⚠️ Note importanti
+## 📺 About
 
-- **Tutti gli stream sono pubblici e gratuiti.**  
-  Non vengono inclusi canali a pagamento né contenuti protetti da copyright in modo illecito.  
-  Se dovessi trovare all'interno delle playlist un canale che ritieni violi i diritti di proprietà, **segnalalo immediatamente** aprendo una issue, e verrà rimosso.
+This repository contains automatically generated M3U playlists with **free and public TV channels**, collected from open sources.
 
-- I canali provengono da fonti aperte e potrebbero non essere sempre funzionanti.  
-- Le liste vengono aggiornate **ogni giorno**, ma alcuni stream possono essere offline temporaneamente.  
-- Per segnalazioni o richieste, apri una issue in questo repository o usa il forum di sostegno corvoboys.org
+No paid or copyrighted content is included.
+
+Playlists are updated daily.
 
 ---
 
-*Repository mantenuto con ❤️ da [Belfagor2005] e da [Buio2005]
+## 📥 Usage
 
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/Belfagor2005/TivuStreamList.svg?variant=adaptive)](https://starchart.cc/Belfagor2005/TivuStreamList)
+Use your IPTV player (VLC, Kodi, etc.):
+
+
+
+
