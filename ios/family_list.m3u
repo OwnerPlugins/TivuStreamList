@@ -1,55 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/family.png" group-title="FAMILY",--- FAMILY ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="FAMILY",---LAST UPDATE 28-06-2026 H. 09.19---
+#EXTINF:-1 group-title="FAMILY",---LAST UPDATE 29-06-2026 H. 11.11---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",1KZN TV
-https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",6 Wise Tv
-https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",alpha Cinema
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",AMG TV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",Canal IPe
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",Dove Channel
-https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",EmanTv
-https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Estrella Games
 https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",MCI Television
 https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",MCI Television
-https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",Mixkurdy
-https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Positiv TV
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",Pro100TV
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Rakuten TV Family Movies Finland
 https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",RiC
-https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",Sevimli TV
-https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",Soweto TV
-https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",STS
-https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",STS Love
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",Superscreen TV
-https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Telenovisa43
 https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",Tshwane TV
-https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FAMILY",TVS Family Channel
-https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
