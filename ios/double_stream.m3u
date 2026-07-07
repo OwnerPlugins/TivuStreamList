@@ -1,6 +1,9 @@
 #EXTM3U
 # Canali duplicati (stesso URL) - modificare manualmente
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/la7d.png" group-title="Canali Nazionali",La7 Cinema
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="SPORT",ADO TV (720p)
 https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
 
