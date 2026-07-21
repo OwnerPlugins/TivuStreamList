@@ -21,20 +21,15 @@ jobs:
           PLAYLIST="ios/playlist.m3u"
           REPORT="health_report.txt"
           SKIP_LIST="(Teledue|Boing Plus|Canale 63)"
-          TEMP_PAIRS=$(mktemp)
 
           if [ ! -f "$PLAYLIST" ]; then
               echo "ERROR: Playlist file not found at $PLAYLIST" > $REPORT
-              echo "Directory contents:" >> $REPORT
-              ls -la >> $REPORT
               exit 1
           fi
 
           echo "Playlist Health Check Report" > $REPORT
           echo "Generated: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $REPORT
           echo "" >> $REPORT
-          echo "Playlist size: $(wc -c < "$PLAYLIST") bytes" >> $REPORT
-          echo "Number of lines: $(wc -l < "$PLAYLIST")" >> $REPORT
 
           # EPG extraction
           EPG_URL=$(grep -oP 'x-tvg-url="\K[^"]+' "$PLAYLIST" | head -1)
@@ -50,7 +45,12 @@ jobs:
               EPG_AVAILABLE=0
           fi
 
-          # Estrae le coppie #EXTINF + URL in un file temporaneo
+          echo "" >> $REPORT
+          echo "--- Details ---" >> $REPORT
+          echo "" >> $REPORT
+
+          # Creiamo un file temporaneo con le coppie #EXTINF + URL
+          TMP_FILE=$(mktemp)
           awk '
             BEGIN { extinf="" }
             /^#EXTINF/ { extinf=$0 }
@@ -60,24 +60,23 @@ jobs:
                     extinf=""
                 }
             }
-            /^#/ && !/^#EXTINF/ { next }
-            /^$/ { next }
-          ' "$PLAYLIST" > "$TEMP_PAIRS"
+            END { if (extinf != "") print extinf "\t" }
+          ' "$PLAYLIST" > "$TMP_FILE"
 
-          echo "" >> $REPORT
-          echo "--- Details ---" >> $REPORT
-          echo "" >> $REPORT
-
-          # Inizializza i contatori
+          # Inizializzo contatori
           TOTAL=0
           WORKING=0
           DOWN=0
           SKIPPED=0
           EPG_OK=0
           EPG_MISSING=0
+          COUNT=0
 
-          # Legge il file temporaneo riga per riga (senza subshell)
+          # Leggo il file riga per riga (senza subshell)
           while IFS=$'\t' read -r extinf url; do
+              COUNT=$((COUNT+1))
+              echo "Processing #$COUNT: $extinf"  # Log per vedere l'avanzamento
+
               CHANNEL_NAME=$(echo "$extinf" | sed 's/.*,//')
               TVG_ID=$(echo "$extinf" | sed -n 's/.*tvg-id="\([^"]*\)".*/\1/p')
 
@@ -101,7 +100,8 @@ jobs:
 
               TOTAL=$((TOTAL+1))
 
-              if curl -Is --max-time 5 "$url" >/dev/null 2>&1; then
+              # Test dello stream con timeout di 3 secondi
+              if curl -Is --max-time 3 "$url" >/dev/null 2>&1; then
                   STREAM_STATUS="OK"
                   WORKING=$((WORKING+1))
               else
@@ -118,9 +118,9 @@ jobs:
               fi
 
               echo "[$STREAM_STATUS]  $CHANNEL_NAME | Stream $STREAM_STATUS | $EPG_STATUS" >> $REPORT
-          done < "$TEMP_PAIRS"
+          done < "$TMP_FILE"
 
-          rm -f "$TEMP_PAIRS"
+          rm -f "$TMP_FILE" epg.xml.gz epg.xml
 
           echo "" >> $REPORT
           echo "Total channels tested: $TOTAL" >> $REPORT
