@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (branch list)
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          ref: list
+          ref: list   # FORZA il branch list
 
       - name: Run health check
         run: |
@@ -29,6 +29,8 @@ jobs:
 
           echo "Playlist Health Check Report" > $REPORT
           echo "Generated: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $REPORT
+          echo "" >> $REPORT
+          echo "Branch: list" >> $REPORT
           echo "" >> $REPORT
 
           # EPG extraction
@@ -49,7 +51,7 @@ jobs:
           echo "--- Details ---" >> $REPORT
           echo "" >> $REPORT
 
-          # Creiamo un file temporaneo con le coppie #EXTINF + URL
+          # Estrae le coppie #EXTINF + URL in un file temporaneo
           TMP_FILE=$(mktemp)
           awk '
             BEGIN { extinf="" }
@@ -63,7 +65,6 @@ jobs:
             END { if (extinf != "") print extinf "\t" }
           ' "$PLAYLIST" > "$TMP_FILE"
 
-          # Inizializzo contatori
           TOTAL=0
           WORKING=0
           DOWN=0
@@ -72,10 +73,17 @@ jobs:
           EPG_MISSING=0
           COUNT=0
 
-          # Leggo il file riga per riga (senza subshell)
+          # Legge il file temporaneo
           while IFS=$'\t' read -r extinf url; do
               COUNT=$((COUNT+1))
-              echo "Processing #$COUNT: $extinf"  # Log per vedere l'avanzamento
+              
+              # OPZIONALE: testa solo i primi 50 canali per velocizzare
+              # if [ $COUNT -gt 50 ]; then
+              #     echo "[SKIP]  Limit reached, stopping after 50 channels" >> $REPORT
+              #     break
+              # fi
+
+              echo "Processing #$COUNT: $(echo "$extinf" | sed 's/.*,//')"
 
               CHANNEL_NAME=$(echo "$extinf" | sed 's/.*,//')
               TVG_ID=$(echo "$extinf" | sed -n 's/.*tvg-id="\([^"]*\)".*/\1/p')
@@ -100,8 +108,8 @@ jobs:
 
               TOTAL=$((TOTAL+1))
 
-              # Test dello stream con timeout di 3 secondi
-              if curl -Is --max-time 3 "$url" >/dev/null 2>&1; then
+              # Timeout di 2 secondi per velocizzare
+              if curl -Is --max-time 2 "$url" >/dev/null 2>&1; then
                   STREAM_STATUS="OK"
                   WORKING=$((WORKING+1))
               else
@@ -130,16 +138,21 @@ jobs:
           echo "EPG OK: $EPG_OK" >> $REPORT
           echo "EPG Missing: $EPG_MISSING" >> $REPORT
 
-      - name: Commit report to repository
+      - name: Commit report to repository (branch list)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Assicura che siamo sul branch list
+          git checkout list || git checkout -b list
+          
           mkdir -p reports
           cp health_report.txt reports/latest_report.txt
           git add reports/latest_report.txt
+          
           if git diff --staged --quiet; then
             echo "Nessuna modifica da committare"
           else
             git commit -m "Aggiornamento report salute playlist $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            git push origin list
           fi
