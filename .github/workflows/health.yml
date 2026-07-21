@@ -22,28 +22,41 @@ jobs:
           REPORT="health_report.txt"
           SKIP_LIST="(Teledue|Boing Plus|Canale 63)"
 
+          echo "=== START ==="
+          echo "Cerco playlist in: $PLAYLIST"
+
           if [ ! -f "$PLAYLIST" ]; then
               echo "ERROR: Playlist not found" > $REPORT
               exit 1
           fi
 
+          echo "Playlist trovata! $(wc -l < "$PLAYLIST") righe"
+
           echo "Playlist Health Check Report" > $REPORT
           echo "Generated: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $REPORT
           echo "" >> $REPORT
 
+          echo "=== EPG ==="
           EPG_URL=$(grep -oP 'x-tvg-url="\K[^"]+' "$PLAYLIST" | head -1)
           if [ -n "$EPG_URL" ]; then
+              echo "Scarico EPG da: $EPG_URL"
               curl -s "$EPG_URL" -o epg.xml.gz
               gunzip -f epg.xml.gz 2>/dev/null && EPG_AVAILABLE=1 || EPG_AVAILABLE=0
+              echo "EPG disponibile: $EPG_AVAILABLE"
           else
               EPG_AVAILABLE=0
+              echo "EPG non trovato"
           fi
 
           echo "--- Details ---" >> $REPORT
           echo "" >> $REPORT
 
+          echo "=== Estrazione canali ==="
           TMP_FILE=$(mktemp)
           awk '/^#EXTINF/ {extinf=$0} /^https?:\/\// {if(extinf!=""){print extinf"\t"$0; extinf=""}}' "$PLAYLIST" > "$TMP_FILE"
+
+          TOTAL_LINES=$(wc -l < "$TMP_FILE")
+          echo "Trovati $TOTAL_LINES canali da testare"
 
           TOTAL=0
           WORKING=0
@@ -53,10 +66,13 @@ jobs:
           EPG_MISSING=0
           COUNT=0
 
+          echo "=== Inizio test canali ==="
           while IFS=$'\t' read -r extinf url; do
               COUNT=$((COUNT+1))
               CHANNEL_NAME=$(echo "$extinf" | sed 's/.*,//')
               TVG_ID=$(echo "$extinf" | sed -n 's/.*tvg-id="\([^"]*\)".*/\1/p')
+
+              echo "[$COUNT/$TOTAL_LINES] Test: $CHANNEL_NAME"
 
               if [ -z "$url" ]; then
                   echo "[SKIP] $CHANNEL_NAME | No URL" >> $REPORT
@@ -81,9 +97,11 @@ jobs:
               if curl -Is --max-time 2 "$url" >/dev/null 2>&1; then
                   STREAM_STATUS="OK"
                   WORKING=$((WORKING+1))
+                  echo "  ✅ OK"
               else
                   STREAM_STATUS="DOWN"
                   DOWN=$((DOWN+1))
+                  echo "  ❌ DOWN"
               fi
 
               if [[ $EPG_AVAILABLE -eq 1 && -n "$TVG_ID" ]] && grep -q "channel id=\"$TVG_ID\"" epg.xml 2>/dev/null; then
@@ -97,6 +115,7 @@ jobs:
               echo "[$STREAM_STATUS] $CHANNEL_NAME | $STREAM_STATUS | $EPG_STATUS" >> $REPORT
           done < "$TMP_FILE"
 
+          echo "=== Test completati ==="
           rm -f "$TMP_FILE" epg.xml.gz epg.xml
 
           echo "" >> $REPORT
@@ -107,14 +126,21 @@ jobs:
           echo "EPG OK: $EPG_OK" >> $REPORT
           echo "EPG Missing: $EPG_MISSING" >> $REPORT
 
+          echo "=== REPORT GENERATO ==="
+          cat $REPORT
+
       - name: Commit report
         run: |
+          echo "=== COMMIT REPORT ==="
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p reports
           cp health_report.txt reports/latest_report.txt
           git add reports/latest_report.txt
           git diff --staged --quiet || {
+            echo "Nuovo report da committare"
             git commit -m "Update report $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push origin list
+            echo "Report committato!"
           }
+          echo "=== FINE ==="
