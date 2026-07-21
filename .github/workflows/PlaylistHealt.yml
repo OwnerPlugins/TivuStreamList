@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository (branch list)
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          ref: list   # FORZA il branch list
+          ref: list
 
       - name: Run health check
         run: |
@@ -23,136 +23,73 @@ jobs:
           SKIP_LIST="(Teledue|Boing Plus|Canale 63)"
 
           if [ ! -f "$PLAYLIST" ]; then
-              echo "ERROR: Playlist file not found at $PLAYLIST" > $REPORT
+              echo "ERROR: Playlist not found" > $REPORT
               exit 1
           fi
 
           echo "Playlist Health Check Report" > $REPORT
           echo "Generated: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $REPORT
           echo "" >> $REPORT
-          echo "Branch: list" >> $REPORT
-          echo "" >> $REPORT
 
-          # EPG extraction
           EPG_URL=$(grep -oP 'x-tvg-url="\K[^"]+' "$PLAYLIST" | head -1)
           if [ -n "$EPG_URL" ]; then
-              echo "Scarico EPG da: $EPG_URL" >> $REPORT
               curl -s "$EPG_URL" -o epg.xml.gz
-              if gunzip -f epg.xml.gz 2>/dev/null; then
-                  EPG_AVAILABLE=1
-              else
-                  EPG_AVAILABLE=0
-              fi
+              gunzip -f epg.xml.gz 2>/dev/null && EPG_AVAILABLE=1 || EPG_AVAILABLE=0
           else
               EPG_AVAILABLE=0
           fi
 
-          echo "" >> $REPORT
           echo "--- Details ---" >> $REPORT
           echo "" >> $REPORT
 
-          # Estrae le coppie #EXTINF + URL in un file temporaneo
           TMP_FILE=$(mktemp)
-          awk '
-            BEGIN { extinf="" }
-            /^#EXTINF/ { extinf=$0 }
-            /^https?:\/\// {
-                if (extinf != "") {
-                    print extinf "\t" $0
-                    extinf=""
-                }
-            }
-            END { if (extinf != "") print extinf "\t" }
-          ' "$PLAYLIST" > "$TMP_FILE"
+          awk '/^#EXTINF/ {extinf=$0} /^https?:\/\// {if(extinf!=""){print extinf"\t"$0; extinf=""}}' "$PLAYLIST" > "$TMP_FILE"
 
-          TOTAL=0
-          WORKING=0
-          DOWN=0
-          SKIPPED=0
-          EPG_OK=0
-          EPG_MISSING=0
-          COUNT=0
+          TOTAL=0; WORKING=0; DOWN=0; SKIPPED=0; EPG_OK=0; EPG_MISSING=0; COUNT=0
 
-          # Legge il file temporaneo
           while IFS=$'\t' read -r extinf url; do
               COUNT=$((COUNT+1))
-              
-              # OPZIONALE: testa solo i primi 50 canali per velocizzare
-              # if [ $COUNT -gt 50 ]; then
-              #     echo "[SKIP]  Limit reached, stopping after 50 channels" >> $REPORT
-              #     break
-              # fi
-
-              echo "Processing #$COUNT: $(echo "$extinf" | sed 's/.*,//')"
-
               CHANNEL_NAME=$(echo "$extinf" | sed 's/.*,//')
               TVG_ID=$(echo "$extinf" | sed -n 's/.*tvg-id="\([^"]*\)".*/\1/p')
 
-              if [ -z "$url" ]; then
-                  echo "[SKIP]  $CHANNEL_NAME | No URL found" >> $REPORT
-                  SKIPPED=$((SKIPPED+1))
-                  continue
-              fi
-
-              if [[ $url == *"startend.avi"* ]]; then
-                  echo "[SKIP]  $CHANNEL_NAME | Placeholder skipped" >> $REPORT
-                  SKIPPED=$((SKIPPED+1))
-                  continue
-              fi
-
-              if [[ $CHANNEL_NAME =~ $SKIP_LIST ]]; then
-                  echo "[SKIP]  $CHANNEL_NAME | Skipped (known issue)" >> $REPORT
-                  SKIPPED=$((SKIPPED+1))
-                  continue
-              fi
+              [ -z "$url" ] && { echo "[SKIP] $CHANNEL_NAME | No URL" >> $REPORT; SKIPPED=$((SKIPPED+1)); continue; }
+              [[ $url == *"startend.avi"* ]] && { echo "[SKIP] $CHANNEL_NAME | Placeholder" >> $REPORT; SKIPPED=$((SKIPPED+1)); continue; }
+              [[ $CHANNEL_NAME =~ $SKIP_LIST ]] && { echo "[SKIP] $CHANNEL_NAME | Known issue" >> $REPORT; SKIPPED=$((SKIPPED+1)); continue; }
 
               TOTAL=$((TOTAL+1))
-
-              # Timeout di 2 secondi per velocizzare
               if curl -Is --max-time 2 "$url" >/dev/null 2>&1; then
-                  STREAM_STATUS="OK"
-                  WORKING=$((WORKING+1))
+                  STREAM_STATUS="OK"; WORKING=$((WORKING+1))
               else
-                  STREAM_STATUS="DOWN"
-                  DOWN=$((DOWN+1))
+                  STREAM_STATUS="DOWN"; DOWN=$((DOWN+1))
               fi
 
               if [[ $EPG_AVAILABLE -eq 1 && -n "$TVG_ID" ]] && grep -q "channel id=\"$TVG_ID\"" epg.xml 2>/dev/null; then
-                  EPG_STATUS="EPG OK"
-                  EPG_OK=$((EPG_OK+1))
+                  EPG_STATUS="EPG OK"; EPG_OK=$((EPG_OK+1))
               else
-                  EPG_STATUS="EPG MISSING"
-                  EPG_MISSING=$((EPG_MISSING+1))
+                  EPG_STATUS="EPG MISSING"; EPG_MISSING=$((EPG_MISSING+1))
               fi
 
-              echo "[$STREAM_STATUS]  $CHANNEL_NAME | Stream $STREAM_STATUS | $EPG_STATUS" >> $REPORT
+              echo "[$STREAM_STATUS] $CHANNEL_NAME | $STREAM_STATUS | $EPG_STATUS" >> $REPORT
           done < "$TMP_FILE"
 
           rm -f "$TMP_FILE" epg.xml.gz epg.xml
 
           echo "" >> $REPORT
-          echo "Total channels tested: $TOTAL" >> $REPORT
+          echo "Total tested: $TOTAL" >> $REPORT
           echo "Skipped: $SKIPPED" >> $REPORT
-          echo "Working streams: $WORKING" >> $REPORT
-          echo "Broken streams: $DOWN" >> $REPORT
+          echo "Working: $WORKING" >> $REPORT
+          echo "Broken: $DOWN" >> $REPORT
           echo "EPG OK: $EPG_OK" >> $REPORT
           echo "EPG Missing: $EPG_MISSING" >> $REPORT
 
-      - name: Commit report to repository (branch list)
+      - name: Commit report
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Assicura che siamo sul branch list
-          git checkout list || git checkout -b list
-          
           mkdir -p reports
           cp health_report.txt reports/latest_report.txt
           git add reports/latest_report.txt
-          
-          if git diff --staged --quiet; then
-            echo "Nessuna modifica da committare"
-          else
-            git commit -m "Aggiornamento report salute playlist $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git diff --staged --quiet || {
+            git commit -m "Update report $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push origin list
-          fi
+          }
