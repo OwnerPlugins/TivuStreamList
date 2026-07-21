@@ -20,6 +20,7 @@ jobs:
         run: |
           PLAYLIST="ios/playlist.m3u"
           REPORT="health_report.txt"
+          DOWN_FILE="down_channels.txt"
           SKIP_LIST="(Teledue|Boing Plus|Canale 63)"
 
           echo "=== START ==="
@@ -32,9 +33,16 @@ jobs:
 
           echo "Playlist trovata! $(wc -l < "$PLAYLIST") righe"
 
+          # Inizializza i report
           echo "Playlist Health Check Report" > $REPORT
           echo "Generated: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $REPORT
           echo "" >> $REPORT
+
+          # Inizializza il file dei canali down
+          echo "# CANALI DOWN" > $DOWN_FILE
+          echo "# Generated: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $DOWN_FILE
+          echo "# Formato: NOME_CANALE URL" >> $DOWN_FILE
+          echo "" >> $DOWN_FILE
 
           echo "=== EPG ==="
           EPG_URL=$(grep -oP 'x-tvg-url="\K[^"]+' "$PLAYLIST" | head -1)
@@ -102,6 +110,9 @@ jobs:
                   STREAM_STATUS="DOWN"
                   DOWN=$((DOWN+1))
                   echo "  ❌ DOWN"
+                  
+                  # SALVA nel file dei canali down: NOME LINK
+                  echo "$CHANNEL_NAME $url" >> $DOWN_FILE
               fi
 
               if [[ $EPG_AVAILABLE -eq 1 && -n "$TVG_ID" ]] && grep -q "channel id=\"$TVG_ID\"" epg.xml 2>/dev/null; then
@@ -118,6 +129,7 @@ jobs:
           echo "=== Test completati ==="
           rm -f "$TMP_FILE" epg.xml.gz epg.xml
 
+          # Riepilogo nel report
           echo "" >> $REPORT
           echo "Total tested: $TOTAL" >> $REPORT
           echo "Skipped: $SKIPPED" >> $REPORT
@@ -126,8 +138,18 @@ jobs:
           echo "EPG OK: $EPG_OK" >> $REPORT
           echo "EPG Missing: $EPG_MISSING" >> $REPORT
 
+          # Aggiunge la lista dei canali down alla fine del report
+          echo "" >> $REPORT
+          echo "=== CANALI NON FUNZIONANTI ($DOWN) ===" >> $REPORT
+          if [ -f "$DOWN_FILE" ] && [ $(wc -l < "$DOWN_FILE") -gt 4 ]; then
+              cat "$DOWN_FILE" >> $REPORT
+          else
+              echo "Nessun canale down" >> $REPORT
+          fi
+
           echo "=== REPORT GENERATO ==="
-          cat $REPORT
+          echo "Report completo: $REPORT"
+          echo "File canali down: $DOWN_FILE"
 
       - name: Commit report
         run: |
@@ -135,12 +157,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p reports
+          
+          # Copia i file nella cartella reports
           cp health_report.txt reports/latest_report.txt
-          git add reports/latest_report.txt
+          cp down_channels.txt reports/down_channels.txt
+          
+          # Aggiungi entrambi i file
+          git add reports/latest_report.txt reports/down_channels.txt
+          
           git diff --staged --quiet || {
-            echo "Nuovo report da committare"
-            git commit -m "Update report $(date -u +'%Y-%m-%d %H:%M UTC')"
+            echo "Nuovi report da committare"
+            git commit -m "Update reports $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push origin list
-            echo "Report committato!"
+            echo "Report committati!"
           }
           echo "=== FINE ==="
