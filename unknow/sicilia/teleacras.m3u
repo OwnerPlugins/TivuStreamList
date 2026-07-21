@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleacras.png" group-title="Locali",Teleacras
+https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.centromedicobellanca.it/wp-content/uploads/2019/11/tv-agrigento.jpg" group-title="Locali",TVA Tele Video Agrigento
+https://media2021.rtvweb.com/tva/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_antenna_sicilia.jpg" group-title="Locali",Antenna Sicilia
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_Telecolor_%28Sicilia%29_2022.png" group-title="Locali",Telecolor Catania
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/master.m3u8

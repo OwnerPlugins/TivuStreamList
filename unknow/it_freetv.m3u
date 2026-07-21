@@ -1,0 +1,1326 @@
+#EXTM3U
+# ========== National MPD ==========
+
+rServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="In Chiaro",Rai 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="In Chiaro",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="In Chiaro",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="In Chiaro",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="In Chiaro",LA7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
+
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="In Chiaro",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="In Chiaro",NOVE
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="In Chiaro",20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai4.it" tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="In Chiaro",Rai 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-chno="22" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="In Chiaro",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="In Chiaro",Rai 5
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="In Chiaro",Rai Movie
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="In Chiaro",Rai Premium
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="In Chiaro",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="In Chiaro",Twenty Seven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="In Chiaro",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-id="LA7D.it" tvg-chno="29" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png" group-title="In Chiaro",LA7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
+
+#EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="In Chiaro",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="RealTime.it" tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="In Chiaro",Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QVC.it" tvg-chno="32" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png" group-title="In Chiaro",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="In Chiaro",Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine34.it" tvg-chno="34" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png" group-title="In Chiaro",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Focus.it" tvg-chno="35" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.png" group-title="In Chiaro",FOCUS
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="In Chiaro",RTL 102.5
+https://streamcdng9-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="In Chiaro",Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="In Chiaro",Giallo
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="In Chiaro",Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png" group-title="In Chiaro",Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="In Chiaro",K2
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="In Chiaro",Rai Gulp
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="In Chiaro",Rai Yoyo
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="In Chiaro",Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="In Chiaro",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Super.it" tvg-chno="47" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/super.png" group-title="In Chiaro",Super!
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="In Chiaro",Rai News 24
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Italia2.it" tvg-chno="49" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png" group-title="In Chiaro",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="In Chiaro",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="In Chiaro",TGCOM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="In Chiaro",DMAX
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="In Chiaro",Rai Storia
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="In Chiaro",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Home&GardenTV.it" tvg-chno="56" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/homegardentv.png" group-title="In Chiaro",HGTV - Home&Garden
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png" group-title="In Chiaro",Rai Scuola
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png" group-title="In Chiaro",Rai Sport + HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="In Chiaro",Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="In Chiaro",Sportitalia
+https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
+
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="In Chiaro",Donna TV
+https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="In Chiaro",Supertennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="In Chiaro",Rai 4K (HbbTV)
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+# ========== National DVB-T ==========
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="National DVB-T",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="National DVB-T",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="National DVB-T",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://i.imgur.com/GWx2Fkl.png" group-title="National DVB-T",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://i.imgur.com/p6YdiR1.png" group-title="National DVB-T",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://i.imgur.com/oCiOxBG.png" group-title="National DVB-T",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="La7.it" tvg-logo="https://i.imgur.com/F90mpSa.png" group-title="National DVB-T",La7
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+
+#EXTINF:-1 tvg-id="TV8.it" tvg-logo="https://i.imgur.com/xvoHVOU.png" group-title="National DVB-T",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://i.imgur.com/Hp723RU.png" group-title="National DVB-T",Nove
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:-1 tvg-id="20.it" tvg-logo="https://i.imgur.com/It13jwX.png" group-title="National DVB-T",Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://i.imgur.com/XFkZRfv.png" group-title="National DVB-T",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://i.imgur.com/Ixz1BY3.png" group-title="National DVB-T",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://i.imgur.com/Leu2zTO.png" group-title="National DVB-T",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://i.imgur.com/RKpO8CE.png" group-title="National DVB-T",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="National DVB-T",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="CieloTV.it" tvg-logo="https://i.imgur.com/cPluF03.png" group-title="National DVB-T",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="27Twentyseven.it" tvg-logo="https://i.imgur.com/y2PdPCK.png" group-title="National DVB-T",Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.va" tvg-logo="https://i.imgur.com/x7RaK3a.png" group-title="National DVB-T",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-id="La7Cinema.it" tvg-logo="https://i.imgur.com/khPweok.png" group-title="National DVB-T",La7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+
+#EXTINF:-1 tvg-id="La5.it" tvg-logo="https://i.imgur.com/UNyJaho.png" group-title="National DVB-T",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="RealTimeItaly.it" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="National DVB-T",Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+
+#EXTINF:-1 tvg-id="QVCItaly.it" tvg-logo="https://i.imgur.com/Ea7iUX2.png" group-title="National DVB-T",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetworkItaly.it" tvg-logo="https://i.imgur.com/i60OYr9.png" group-title="National DVB-T",Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+
+#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://i.imgur.com/YyldwhI.png" group-title="National DVB-T",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://i.imgur.com/M4smqpF.png" group-title="National DVB-T",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="National DVB-T",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="National DVB-T",Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
+#EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://i.imgur.com/0PIRwZS.png" group-title="National DVB-T",Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-logo="https://i.imgur.com/RFIwv9O.png" group-title="National DVB-T",Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="BoingItaly.it" tvg-logo="https://i.imgur.com/niSlrqT.png" group-title="National DVB-T",BOING
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://i.imgur.com/wlLgSiA.png" group-title="National DVB-T",K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.imgur.com/lu1DPVb.png" group-title="National DVB-T",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://i.imgur.com/DRSa3ys.png" group-title="National DVB-T",Rai YoYo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://i.imgur.com/9y1zIAe.png" group-title="National DVB-T",Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoItaly.it" tvg-logo="https://i.imgur.com/oK2DcDJ.png" group-title="National DVB-T",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://i.imgur.com/1124YEp.png" group-title="National DVB-T",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="National DVB-T",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="Italia2.it" tvg-logo="https://i.imgur.com/nq48sjO.png" group-title="National DVB-T",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://i.imgur.com/q4d3Dah.png" group-title="National DVB-T",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-logo="https://i.imgur.com/xautVD8.png" group-title="National DVB-T",TGCOM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAXItaly.it" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="National DVB-T",DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="National DVB-T",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="National DVB-T",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTVItaly.it" tvg-logo="https://i.imgur.com/emLNC0U.png" group-title="National DVB-T",HGTV – Home & Garden Tv
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="National DVB-T",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://i.imgur.com/xsGljsb.png" group-title="National DVB-T",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://i.imgur.com/ipj2H0n.png" group-title="National DVB-T",Motor Trend
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="National DVB-T",Sportitalia Plus
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TravelTV.it" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="National DVB-T",Travel TV
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-logo="https://i.imgur.com/Aa1Abme.png" group-title="National DVB-T",Donna TV
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="National DVB-T",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="National DVB-T",Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="https://i.imgur.com/3NiLKvj.png" group-title="National DVB-T",Radio 105 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="R101TV.it" tvg-logo="https://i.imgur.com/mWeEa9T.png" group-title="National DVB-T",R101 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="National DVB-T",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="National DVB-T",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/UTStxDW.png" group-title="National DVB-T",Radio KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-logo="https://i.imgur.com/nVBet0h.png" group-title="National DVB-T",Rai Radio 2 Visual Radio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-id="RTL1025Traffic.it" tvg-logo="https://i.imgur.com/GH7byqm.jpeg" group-title="National DVB-T",RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Manga.it" tvg-logo="https://i.imgur.com/8a6WYU2.png" group-title="National DVB-T",MAN-GA
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio24TV.it" tvg-logo="https://i.imgur.com/NTqrdWW.png" group-title="National DVB-T",Radio24-IlSole24OreTV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+
+#EXTINF:-1 tvg-id="BeJoyKids.it" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="National DVB-T",BeJoy.Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-logo="https://i.imgur.com/RApMW5x.png" group-title="National DVB-T",Gambero Rosso
+https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-logo="https://i.imgur.com/J5N9F7Z.png" group-title="National DVB-T",RadioFreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-logo="https://i.imgur.com/TY6FhqI.png" group-title="National DVB-T",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioZetaTV.it" tvg-logo="https://i.imgur.com/0MgCm1n.png" group-title="National DVB-T",Radio ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTVSerieA.it" tvg-logo="https://i.imgur.com/NzDeCIx.png" group-title="National DVB-T",Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+
+# ========== Satellite ==========
+
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Satellite",Sportitalia SOLOCALCIO
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bike.it" tvg-logo="https://i.imgur.com/4IzVSQI.png" group-title="Satellite",BIKE Channel
+https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
+
+#EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Satellite",Radio Montecarlo TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Satellite",Virgin Radio TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="SenatoTV.it" tvg-logo="https://i.imgur.com/FoQoNZW.png" group-title="Satellite",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-logo="https://i.imgur.com/fqGn1k9.png" group-title="Satellite",Camera dei Deputati
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="Satellite",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="Satellite",UniNettuno University TV
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+
+# ========== Regional DVB-T ==========
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Regional DVB-T",Tv
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12TVParma.it" tvg-logo="https://i.imgur.com/xnUgx6b.png" group-title="Regional DVB-T",Tv Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NN0cSbz.png" group-title="Regional DVB-T",You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nVmIeTD.png" group-title="Regional DVB-T",Abc Tv
+https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8
+
+#EXTINF:-1 tvg-id="ABChannel.it" tvg-logo="https://i.imgur.com/k8EPLB9.png" group-title="Regional DVB-T",AB Channel
+https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QKFtUa.png" group-title="Regional DVB-T",Alpauno
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AltoAdigeTV.it" tvg-logo="https://i.imgur.com/S2sCFQi.png" group-title="Regional DVB-T",Alto Adige Tv
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NfvHIAw.png" group-title="Regional DVB-T",Antenna 2 Bergamo
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHDU86j.png" group-title="Regional DVB-T",Antenna 3 Massa
+https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntennaTreNordest.it" tvg-logo="https://i.imgur.com/NiVHLwp.png" group-title="Regional DVB-T",Antenna 3 Veneto Nord Est
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b8y6ImZ.png" group-title="Regional DVB-T",Antenna Sud
+https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6tBv8VD.png" group-title="Regional DVB-T",Antenna Sud Extra
+https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8PlAJO.png" group-title="Regional DVB-T",Aristanis SuperTv
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DP5y0Er.png" group-title="Regional DVB-T",Arte Network Orler
+https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AuroraArte.it" tvg-logo="https://i.imgur.com/BoLZ5wG.png" group-title="Regional DVB-T",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzzurraTV.it" tvg-logo="https://i.imgur.com/mSWw8uW.png" group-title="Regional DVB-T",Azzurra Tv Vco
+https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VS6CQ88.png" group-title="Regional DVB-T",Basilicata 1 Tv
+http://77.68.40.210:8888/hls/basilicata1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1doR6Vl.png" group-title="Regional DVB-T",Bergamo Tv
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="BomChannel.it" tvg-logo="https://i.imgur.com/hISoOK3.png" group-title="Regional DVB-T",BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xaHGtU.png" group-title="Regional DVB-T",ByoBlu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KbcbxFw.png" group-title="Regional DVB-T",Cafe Tv 24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TK1GQ5.png" group-title="Regional DVB-T",Calabria Uno Tv
+https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWirucd.png" group-title="Regional DVB-T",Calabria tv
+https://64b16f23efbee.streamlock.net/calabriatv-clone/calabriatv-clone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KuQcjYV.png" group-title="Regional DVB-T",Canale 10
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETqDkS1.png" group-title="Regional DVB-T",Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canale21.it" tvg-logo="https://i.imgur.com/mU6Cq89.png" group-title="Regional DVB-T",Canale 21
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canale21Extra.it" tvg-logo="https://i.imgur.com/cDAsrBl.png" group-title="Regional DVB-T",Canale 21 Extra
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cuOLCn.png" group-title="Regional DVB-T",Canale 7
+http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18JIVgu.png" group-title="Regional DVB-T",Canale 74 Sicilia
+https://stream.cp.ets-sistemi.it:1936/canale74/canale74/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElAS2WC.png" group-title="Regional DVB-T",Canale 8 Campania
+https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanaleItalia.it" tvg-logo="https://i.imgur.com/QlwLRyh.png" group-title="Regional DVB-T",Canale Italia
+https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMGcm6I.jpg" group-title="Regional DVB-T",Carina Tv
+https://samson.streamerr.co:8081/carinatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4GQVCk.png" group-title="Regional DVB-T",Casa Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WL3SFTs.png" group-title="Regional DVB-T",Casa Sanremo Tv
+https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0kjYNG.png" group-title="Regional DVB-T",Castrovillari Tv
+http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RVriNK.jpeg" group-title="Regional DVB-T",Cittaceleste Tv
+https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IbabUDd.png" group-title="Regional DVB-T",Company Tv
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a5d0F01.jpg" group-title="Regional DVB-T",Cremona 1
+https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9F1sVjZ.png" group-title="Regional DVB-T",Cusano Italia Tv
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L49Ie1Q.png" group-title="Regional DVB-T",Cusano News 7
+https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mfwVXt7.png" group-title="Regional DVB-T",Delta Tv
+http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kRexw3w.png" group-title="Regional DVB-T",Deluxe 139
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kHxTsJw.png" group-title="Regional DVB-T",Di.Tv 80
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g3SI08H.png" group-title="Regional DVB-T",Di.Tv 92
+https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NaQkklP.png" group-title="Regional DVB-T",Digital Tv7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLDvx2T.png" group-title="Regional DVB-T",Donna Shopping Tv
+https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZ3B7pi.png" group-title="Regional DVB-T",E'live Brescia Tv
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKrVuRR.jpg" group-title="Regional DVB-T",Easy Tv Canale 190
+https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1VPXKrW.png" group-title="Regional DVB-T",Entella Tv
+https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9Wdz7h.png" group-title="Regional DVB-T",EQUtv
+https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YwyfNDF.png" group-title="Regional DVB-T",Equos Tv
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/2824fb123d5e44b797232c7abf8195da/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EspansioneTV.it" tvg-logo="https://i.imgur.com/mm9HKpD.png" group-title="Regional DVB-T",Espansione Tv
+https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/esperiatv.png" group-title="Regional DVB-T",Esperia Tv
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMUxytZ.png" group-title="Regional DVB-T",Etna Espresso Channel
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxgbFnR.png" group-title="Regional DVB-T",è Tv Marche
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FXFzJhM.png" group-title="Regional DVB-T",è Tv Rete7
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DASRCe2.png" group-title="Regional DVB-T",è Tv Umbria
+https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCl5Zbu.png" group-title="Regional DVB-T",Euro Tv
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCBurST.png" group-title="Regional DVB-T",Extra Tv
+https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yY01NhL.jpg" group-title="Regional DVB-T",FM Tv Marche
+https://bbtv.intvstream.net:3988/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/orqEzJ6.png" group-title="Regional DVB-T",Fano Tv
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XYYY5B.png" group-title="Regional DVB-T",Fascino Tv
+https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zNPpVE.png" group-title="Regional DVB-T",GRP Televisione
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OlJohKK.png" group-title="Regional DVB-T",GarganoTv
+https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TMtvCLL.jpg" group-title="Regional DVB-T",Giornale Radio Tv
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GH5eJE6.png" group-title="Regional DVB-T",Giovanni Paolo Tv
+https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yUTYqCv.png" group-title="Regional DVB-T",Globus Television
+https://cdn.cubws.com/live/globus.m3u8
+
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-logo="https://i.imgur.com/3rVi4kD.png" group-title="Regional DVB-T",Gold Tv
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GOTVCanale163.it" tvg-logo="https://i.imgur.com/xgjrAAn.png" group-title="Regional DVB-T",GO-TV Channel
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExfxCRv.png" group-title="Regional DVB-T",GS Channel
+https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z05VSSN.png" group-title="Regional DVB-T",Icaro Tv Rimini
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2edmxYF.png" group-title="Regional DVB-T",Idea Plus
+https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rUZsBv.png" group-title="Regional DVB-T",il61
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Italia2TV.it" tvg-logo="https://i.imgur.com/ISbxfY0.png" group-title="Regional DVB-T",Italia 2 Tv
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YBXkY4w.png" group-title="Regional DVB-T",Italia 7
+https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uDxWI4a.png" group-title="Regional DVB-T",Italia 8 Prestige
+https://5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ItaliaChannel.it" tvg-logo="https://i.imgur.com/zuuKXGv.png" group-title="Regional DVB-T",Italia Channel
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="IuniorTV.it" tvg-logo="https://i.imgur.com/9jeNlLE.png" group-title="Regional DVB-T",Iunior Tv
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgj79J3.png" group-title="Regional DVB-T",L'Altro Corriere Tv
+https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wg8FhdN.png" group-title="Regional DVB-T",La Nuova Tv
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnBp0hT.png" group-title="Regional DVB-T",La Tenda Tv
+https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlxpfEx.png" group-title="Regional DVB-T",La tr3 Marsala
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02vCECa.png" group-title="Regional DVB-T",LaC News 24
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ef6crS.png" group-title="Regional DVB-T",LaC Tv Calabria
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpRS6Fl.png" group-title="Regional DVB-T",Lab Tv
+https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAj5Uwb.png" group-title="Regional DVB-T",Lazio Tv
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBY3IZL.jpg" group-title="Regional DVB-T",Le Cronache Lucane Tv
+http://stucazz.com:8888/hls/cronache.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0ReVEo.png" group-title="Regional DVB-T",Lira Tv
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aksVy9f.jpg" group-title="Regional DVB-T",Lombardia Tv
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lLBzzce.png" group-title="Regional DVB-T",Love in Venice
+http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wuUNVR5.png" group-title="Regional DVB-T",Lucania Tv
+https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFnrMS0.png" group-title="Regional DVB-T",Made in BO
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fdx5YXi.png" group-title="Regional DVB-T",Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1HeXrn.png" group-title="Regional DVB-T",Matrix Tv
+https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GUTOqRt.png" group-title="Regional DVB-T",Mediterranea Tv
+https://stream1.aswifi.it/mediterraneatv/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hkZScXf.png" group-title="Regional DVB-T",Medjugorje Italia Tv
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IWBeddh.png" group-title="Regional DVB-T",Medjugorje Tv Puglia
+https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VJNtnZM.jpg" group-title="Regional DVB-T",Minformo Tv
+https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NWXQKbl.png" group-title="Regional DVB-T",Motori Tv
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlmcUe0.jpg" group-title="Regional DVB-T",NTI Canale 271
+https://www.ntimedia.it/video/S0B/S0B_master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dak9AtV.png" group-title="Regional DVB-T",News24 City
+https://dc3.telesveva.com:4433/news24.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWlRuXg.png" group-title="Regional DVB-T",Nuova TV Nazionale
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="Regional DVB-T",Nuova Tv 1
+https://nuovatv.net:8443/tv/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vauyV3.png" group-title="Regional DVB-T",Nuova Tv 2
+https://nuovatv.net:8443/tv2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDGez2x.png" group-title="Regional DVB-T",Nuvola Tv
+https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1tVBuH.png" group-title="Regional DVB-T",Odeon 24
+https://streaming.softwarecreation.it/Odeon/Odeon/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UCgATWn.png" group-title="Regional DVB-T",Ofanto Tv
+https://videostream.isgm.it:3276/live/tvofantolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qoh9CFy.png" group-title="Regional DVB-T",Onda Novara Tv
+https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c5Y6lr.png" group-title="Regional DVB-T",Onda Tv Sicilia
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3hTvrC8.jpg" group-title="Regional DVB-T",Onda Web Radio
+http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clWVrvE.png" group-title="Regional DVB-T",Ora Tv
+https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dBkxD8e.png" group-title="Regional DVB-T",Orler Tv
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRonD2N.png" group-title="Regional DVB-T",Otto Channel
+https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ajxEPH.png" group-title="Regional DVB-T",Padre Pio Tv
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okIBfIb.jpg" group-title="Regional DVB-T",Paradise Tv
+https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9mIiZD.png" group-title="Regional DVB-T",Parole di Vita
+https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtuWkj1.png" group-title="Regional DVB-T",Partenope Tv
+https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
+
+#EXTINF:-1 tvg-id="PeerTV.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Regional DVB-T",Peer Tv Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+
+#EXTINF:-1 tvg-id="PeerTV.de" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="Regional DVB-T",Peer TV Südtirol
+https://iptv.peer.biz/live/peertv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeolCu9.png" group-title="Regional DVB-T",Pop Tv
+https://stream1.aswifi.it/poptelevision/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPuQeEy.jpg" group-title="Regional DVB-T",Prima Tv Napoli
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/br45JER.png" group-title="Regional DVB-T",Prima Tv Sicilia
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrSSmOL.png" group-title="Regional DVB-T",PrimaFREE
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqEcPFs.gif" group-title="Regional DVB-T",Primantenna Torino
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWF1A1U.png" group-title="Regional DVB-T",Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MwK9HVG.png" group-title="Regional DVB-T",Promovideo Tv
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8RKY3Du.png" group-title="Regional DVB-T",Quarto Canale Flegreo
+http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d7O7Uqa.png" group-title="Regional DVB-T",Radio 3M InBlu
+https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radio51.png" group-title="Regional DVB-T",Radio 51 Tv
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
+
+#EXTINF:-1 tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiobirikina.png" group-title="Regional DVB-T",Radio Birikina Tv
+https://tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y4vKE83.png" group-title="Regional DVB-T",Radio Bruno Tv
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uu0DHY5.png" group-title="Regional DVB-T",Radio Ibiza
+https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iQlXRAB.png" group-title="Regional DVB-T",Radio Immagine Tv
+https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGkyrO3.png" group-title="Regional DVB-T",Radio Italia Cina Tv
+https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRvPlf5.png" group-title="Regional DVB-T",Radio Libertà
+https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="m2oTV.it" tvg-logo="https://i.imgur.com/wl30UFj.png" group-title="Regional DVB-T",Radio m2o Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0I2Shi.jpg" group-title="Regional DVB-T",Radio Monte Kronio Tv (R.M.K.)
+https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-logo="https://i.imgur.com/qftBPM9.png" group-title="Regional DVB-T",Radio Norba Tv
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiopiterpan.png" group-title="Regional DVB-T",Radio Piter Pan Tv
+https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
+
+#EXTINF:-1 tvg-id="RadioRadioTV.it" tvg-logo="https://i.imgur.com/iKuRg2b.png" group-title="Regional DVB-T",Radio Radio Tv
+https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kqyxvz.png" group-title="Regional DVB-T",Radio Radiosa Tv
+https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RKvfStm.png" group-title="Regional DVB-T",Radio Roma
+https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RKvfStm.png" group-title="Regional DVB-T",Radio Roma Television
+https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qs5eQPM.png" group-title="Regional DVB-T",Ran Friul
+https://5f22d76e220e1.streamlock.net/RanFriul/RanFriul/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NiwPlrr.png" group-title="Regional DVB-T",RDE Tv
+https://rst2.saiuzwebnetwork.it:8081/rdetrieste/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/merrg2C.png" group-title="Regional DVB-T",Reggio Tv
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNRWFOo.png" group-title="Regional DVB-T",Rei Tv
+https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EsZn2cj.png" group-title="Regional DVB-T",Rete 55
+https://live1.giocabet.tv/stream/6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wF2AJX.jpg" group-title="Regional DVB-T",Rete 8 Vga
+https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGsjPRh.png" group-title="Regional DVB-T",Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUAjWlF.png" group-title="Regional DVB-T",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e2ryHx7.png" group-title="Regional DVB-T",Rete Biella Tv
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kCJ621Q.png" group-title="Regional DVB-T",Rete Mia
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OCxGtwA.png" group-title="Regional DVB-T",Rete Oro Tv
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u0ezKgE.png" group-title="Regional DVB-T",Rete Sole
+https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lXGWoV9.png" group-title="Regional DVB-T",Rete Tv Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cInhQFp.png" group-title="Regional DVB-T",Rete Veneta
+http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C3UnlFF.png" group-title="Regional DVB-T",Roma Tv 82
+https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0Em0nx.jpg" group-title="Regional DVB-T",Rossini Tv
+https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rFGA6qL.png" group-title="Regional DVB-T",RTC Quarta Rete
+https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTCTelecalabria.it" tvg-logo="https://i.imgur.com/tTYLcuh.jpg" group-title="Regional DVB-T",RTC Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVzEvmo.jpg" group-title="Regional DVB-T",RTI Calabria
+https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL1025Plus.it" tvg-logo="https://i.imgur.com/mPqDtCO.png" group-title="Regional DVB-T",RTL 102.5 + Plus
+https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/chunklist_b5256000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WwzU0EP.png" group-title="Regional DVB-T",RTM Manduria
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mkO95pD.png" group-title="Regional DVB-T",RTR99 Tv
+https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1hYI0C.png" group-title="Regional DVB-T",Rtp Tv
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z7xMArA.png" group-title="Regional DVB-T",Rttr
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqlhJqK.png" group-title="Regional DVB-T",Rtv 38 Toscana
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b58oouu.jpg" group-title="Regional DVB-T",SL 48 Tv
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpPgSfr.png" group-title="Regional DVB-T",ST Europe Channel
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNEW2h2.png" group-title="Regional DVB-T",Sardegna 1
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="Regional DVB-T",Set Tv Cilento
+https://stream1.aswifi.it/settv/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0B0S2gI.png" group-title="Regional DVB-T",Sesta Rete
+https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GhQX36O.png" group-title="Regional DVB-T",Sicilia 24 Tv
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5FoThW.png" group-title="Regional DVB-T",Sicilia Tv
+https://stream9.xdevel.com/video0s976441-1226/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gcysky4.png" group-title="Regional DVB-T",Sienatv
+https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fiLNK3b.jpg" group-title="Regional DVB-T",Sophia Tv
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZP3cJi7.png" group-title="Regional DVB-T",Stiletv
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oy5Nuu.png" group-title="Regional DVB-T",Super J Tv
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="Regional DVB-T",Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7gUZcEh.png" group-title="Regional DVB-T",Supertv
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzL05Py.png" group-title="Regional DVB-T",T9
+https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VbYdS8P.jpg" group-title="Regional DVB-T",TRC Santeramo
+https://stream7.livinlive.it/trc/trc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qAagkJT.png" group-title="Regional DVB-T",TRL Tele Radio Leo
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WQ8eQXc.png" group-title="Regional DVB-T",TSD Tv Arezzo(Tele San Domenico)
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07geF0L.png" group-title="Regional DVB-T",TVL (TV Libera Pistoia)
+http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fiylFs2.jpg" group-title="Regional DVB-T",Tcf Tv
+https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCZTaKs.jpg" group-title="Regional DVB-T",Tci
+https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UsvffQL.png" group-title="Regional DVB-T",Teatro Tv
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7Za9KH.jpg" group-title="Regional DVB-T",Tele A
+https://lostream.it/hls/telea/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/koB8J4b.jpg" group-title="Regional DVB-T",Tele Abruzzo Tv
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90Lsv8q.png" group-title="Regional DVB-T",Tele Acras
+https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9hsoWMO.png" group-title="Regional DVB-T",Tele Arena
+https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYSz4rx.png" group-title="Regional DVB-T",Tele Bari
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YiM2Z7E.png" group-title="Regional DVB-T",Tele Belluno
+https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LlLD3L6.png" group-title="Regional DVB-T",Tele Boario
+https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7TWbCDt.jpg" group-title="Regional DVB-T",Tele Bruzzano
+https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q5XpnXR.png" group-title="Regional DVB-T",Tele Chiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelecolorLombardia.it" tvg-logo="https://i.imgur.com/urUG78J.png" group-title="Regional DVB-T",Telecolor
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZmUI9zb.png" group-title="Regional DVB-T",Tele Cupole
+https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7i7DWo.png" group-title="Regional DVB-T",Tele Estense
+https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M7tqBu9.jpg" group-title="Regional DVB-T",Tele Foggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AoQxZxD.png" group-title="Regional DVB-T",Tele Friuli
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vihHVQn.jpg" group-title="Regional DVB-T",Tele Ischia
+https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJeDV8R.png" group-title="Regional DVB-T",Tele Jonio
+http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzAB5k7.jpg" group-title="Regional DVB-T",Tele Liberta' HD
+https://streaming.liberta.it/hls/liberta.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BeLAYJ6.jpg" group-title="Regional DVB-T",Tele Liguria Sud
+https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkSPcs4.png" group-title="Regional DVB-T",Tele Mantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SdXpCwL.png" group-title="Regional DVB-T",Tele Mia
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upzBG32.png" group-title="Regional DVB-T",Tele Mia Extra
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJ3zUS0.png" group-title="Regional DVB-T",Tele Mistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5VD0x9.png" group-title="Regional DVB-T",Tele Molise
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6yegEK.png" group-title="Regional DVB-T",Tele Nord Genova
+https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FACahKZ.png" group-title="Regional DVB-T",Tele Nostra
+https://13574-8.b.cdn12.com/hls/f099fa8883.ulive/_c/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3aOiWKa.png" group-title="Regional DVB-T",Tele Occidente
+https://stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PxtJAxs.png" group-title="Regional DVB-T",Tele Oltre
+http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9trB6mj.png" group-title="Regional DVB-T",Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o5sQCpF.png" group-title="Regional DVB-T",Tele Pace Trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YVodo4T.png" group-title="Regional DVB-T",Tele Pavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQkM8Vd.png" group-title="Regional DVB-T",Tele Pegaso
+https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqaPuQN.png" group-title="Regional DVB-T",Tele Piadena
+https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbYwXwg.png" group-title="Regional DVB-T",Tele Pordenone
+https://video.wifi4all.it/telepn/telepn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFxQxve.png" group-title="Regional DVB-T",Tele Quattro Trieste
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPuoy8N.jpg" group-title="Regional DVB-T",Tele Radio Ercolano
+https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORkkXM8.png" group-title="Regional DVB-T",Tele Radio Pace 1
+https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U4E3eEr.png" group-title="Regional DVB-T",Tele Radio Pace 2
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTqIxFD.png" group-title="Regional DVB-T",Tele Radio Pace 3
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KPHHsN5.png" group-title="Regional DVB-T",Tele Radio Pace 4
+https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uX2uxvN.png" group-title="Regional DVB-T",Tele Radio Orte
+https://flash2.xdevel.com/ortetv/ortetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suhz5mE.png" group-title="Regional DVB-T",Tele Radio Sciacca
+https://5db313b643fd8.streamlock.net/teleradiosciaccatv/teleradiosciaccatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mDN6QX1.png" group-title="Regional DVB-T",Tele Sirio
+https://www.telesirio.it/live/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Io5w6lT.png" group-title="Regional DVB-T",Tele Spazio Messina
+https://rtm.cyberspazio.cloud:5443/LiveApp/streams/049229794390395765037801.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqTLtvs.png" group-title="Regional DVB-T",Tele Sud Puglia
+https://64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A2XouAd.png" group-title="Regional DVB-T",Tele Tricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZxMP7g.png" group-title="Regional DVB-T",Tele Tutto
+https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mxXbMaw.png" group-title="Regional DVB-T",Tele Tutto 2
+https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/weKWQgx.png" group-title="Regional DVB-T",Tele Tutto 24
+https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SavGpCE.jpg" group-title="Regional DVB-T",Tele Venezia
+https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AaPr63E.png" group-title="Regional DVB-T",Tele Video Agrigento (T.V.A.)
+https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dM0HE6O.png" group-title="Regional DVB-T",Tele8 Tv
+https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxZcQhU.png" group-title="Regional DVB-T",TeleAmbiente
+https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LhjwmME.png" group-title="Regional DVB-T",Telecampione
+https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xvVgEaA.jpg" group-title="Regional DVB-T",Telecittà Padova
+https://tango.wifi4all.it/telecitta/telecitta.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECvJ3ZD.jpeg" group-title="Regional DVB-T",Telecity Lombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrlzHjv.jpeg" group-title="Regional DVB-T",Telecity Piemonte
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T9EsAOX.jpeg" group-title="Regional DVB-T",Telecity Valle D'Aosta
+https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLqkbss.png" group-title="Regional DVB-T",TeleCostaSmeralda
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6HC0So.png" group-title="Regional DVB-T",Telegenova
+https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n1THygZ.png" group-title="Regional DVB-T",Teleiblea
+https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTuPSOn.png" group-title="Regional DVB-T",Teleitalia 41
+https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r3Dqzdj.png" group-title="Regional DVB-T",Telejato
+https://telejato.liberotratto.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jq3etlV.png" group-title="Regional DVB-T",Teleleonessa
+http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tefonp.jpg" group-title="Regional DVB-T",TeleMajg
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telenova.it" tvg-logo="https://i.imgur.com/x41IkJK.png" group-title="Regional DVB-T",Telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/enfqUlI.jpg" group-title="Regional DVB-T",Telerama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5WozUP.png" group-title="Regional DVB-T",TeleRegione
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vi5Nf3S.png" group-title="Regional DVB-T",TeleRegione Color
+https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBrt8L3.png" group-title="Regional DVB-T",TeleRegione Live
+https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7Gold.it" tvg-logo="https://i.imgur.com/YZadq0M.png" group-title="Regional DVB-T",TeleRent 7Gold
+https://router.xdevel.com/video0s86-21/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIo6SPc.png" group-title="Regional DVB-T",Telereporter
+https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4jWadI8.png" group-title="Regional DVB-T",Teleromagna
+https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bpml478.png" group-title="Regional DVB-T",Teleromagna 24
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/78hA7ma.png" group-title="Regional DVB-T",TeleRomaDue
+https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpZvU1P.png" group-title="Regional DVB-T",Telesud Trapani
+https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SCDETZC.jpeg" group-title="Regional DVB-T",Telesveva
+https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8E9wBb.png" group-title="Regional DVB-T",Teleuniverso
+https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P6zuiRH.png" group-title="Regional DVB-T",Televallo Trapani
+https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TGNorba24.it" tvg-logo="https://i.imgur.com/9MhrrJK.png" group-title="Regional DVB-T",TG Norba 24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wgwD7gh.png" group-title="Regional DVB-T",TLT Molise
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnVPKPE.png" group-title="Regional DVB-T",Top Calcio 24
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dqRV1ff.jpeg" group-title="Regional DVB-T",Tremedia Tv
+https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ROKOCR2.png" group-title="Regional DVB-T",Trentino Tv
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq5nEAy.png" group-title="Regional DVB-T",Tuscia Sabina 2000Tv
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxv08pJ.png" group-title="Regional DVB-T",Tv 12
+https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d2K1nX.png" group-title="Regional DVB-T",Tv Campi Flegrei
+https://tv.radiosaiuz.com:3836/live/campiflegreilive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxhuoyE.png" group-title="Regional DVB-T",Tv Luna Napoli
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDeVpZd.png" group-title="Regional DVB-T",Tv Prato
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bOYlfg.png" group-title="Regional DVB-T",Tv Qui Modena
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OtCwYsh.jpg" group-title="Regional DVB-T",Tv Uno
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wsO8U7.png" group-title="Regional DVB-T",Tv Yes
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FtFuPCC.png" group-title="Regional DVB-T",Tva Vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqOdAXB.png" group-title="Regional DVB-T",Tvm Palermo
+https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kLzW1Pf.jpg" group-title="Regional DVB-T",Tvr Xenon
+https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6p7hTmY.jpg" group-title="Regional DVB-T",Tvrs Tv
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU6BBgs.png" group-title="Regional DVB-T",Umbria+ TRT
+https://diretta.teleterni.it:8080//show/show.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKCVEmK.png" group-title="Regional DVB-T",Umbria Tv
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4PNbqqL.png" group-title="Regional DVB-T",Uno Tv
+https://stream1.aswifi.it/unotv/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfPPpBA.png" group-title="Regional DVB-T",Uno4 Tv
+https://cdn.uno4.it/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djMvkvN.png" group-title="Regional DVB-T",Vera Tv
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ygDuIxU.png" group-title="Regional DVB-T",VB33
+https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VideoCalabria.it" tvg-logo="https://i.imgur.com/Bc2AvIm.png" group-title="Regional DVB-T",Video Calabria
+https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJHC3uQ.png" group-title="Regional DVB-T",Video Mediterraneo
+https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M5z5UoD.jpg" group-title="Regional DVB-T",Video Nola
+https://videonola.aswifi.it/videonolaabr/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0szwnR3.png" group-title="Regional DVB-T",Video Regione Sicilia
+https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ddJVZ7.jpg" group-title="Regional DVB-T",Video Star Tv Sicilia
+https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Feao5.jpg" group-title="Regional DVB-T",Video Touring Tv
+https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnDZJwd.gif" group-title="Regional DVB-T",Videolina
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnO7E5I.png" group-title="Regional DVB-T",Videonovara
+https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4K9JHW.png" group-title="Regional DVB-T",Videotelecarnia
+https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3LtBNT.jpg" group-title="Regional DVB-T",Vintage Radio Tv
+https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5A0xU6.png" group-title="Regional DVB-T",Vuemme Tv
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLwj2vj.png" group-title="Regional DVB-T",Webcom Tv
+https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL8jKtU.png" group-title="Regional DVB-T",WLTV
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yP5AvDo.png" group-title="Regional DVB-T",Yvii Tv
+https://stream.wired-shop.com/hls/yviitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r74lqW8.png" group-title="Regional DVB-T",Zerouno Tv Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="Regional DVB-T",Zerouno Tv News
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+
+# ========== YouTube Live ==========
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EcQvDfq.png" group-title="YouTube Live",Radio Colonna Tv
+https://www.youtube.com/radiocolonna/live
+
+#EXTINF:-1 tvg-id="TRMh24.it" tvg-logo="https://i.imgur.com/d47CdYU.png" group-title="YouTube Live",TRM h24
+https://www.youtube.com/user/trmh24/live
+
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" group-title="YouTube Live",Euronews Italian
+https://www.youtube.com/user/euronewsit/live
+
+# ========== Twitch Live ==========
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8DOdqsE.png" group-title="Twitch Live",Antenna Sicilia Ⓣ
+https://www.twitch.tv/antennasicilia
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfNg6fw.png" group-title="Twitch Live",Telecolor Ⓣ
+https://www.twitch.tv/telecolorlive
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wGfpUj8.png" group-title="Twitch Live",Teleroma 56 Ⓣ
+https://www.twitch.tv/teleroma_56
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRNgqnA.png" group-title="Twitch Live",TeleRadioStereo Ⓣ
+https://www.twitch.tv/teleradiostereo
+
