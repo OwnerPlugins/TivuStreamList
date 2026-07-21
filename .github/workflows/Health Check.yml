@@ -1,9 +1,9 @@
-name: Health Check
+name: Playlist Healt
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"          # Ogni giorno a mezzanotte UTC
+  workflow_dispatch:             # Permette di lanciarlo manualmente
 
 jobs:
   check-streams:
@@ -12,37 +12,39 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # Necessario per il push
 
       - name: Run health check
         run: |
-          PLAYLIST="ios/playlist.m3u"   # ← percorso corretto
+          PLAYLIST="ios/playlist.m3u"
           REPORT="health_report.txt"
           SKIP_LIST="(Teledue|Boing Plus|Canale 63)"
 
-          echo "IPTV Health Check Report" > $REPORT
+          echo "Playlist Health Check Report" > $REPORT
           echo "Generated: $(date -u +"%Y-%m-%d %H:%M UTC")" >> $REPORT
           echo "" >> $REPORT
 
-          # Estrai EPG_URL
+          # Estrai EPG_URL dalla playlist
           EPG_URL=$(grep -oP 'x-tvg-url="\K[^"]+' "$PLAYLIST" | head -1)
           if [ -n "$EPG_URL" ]; then
               echo "Scarico EPG da: $EPG_URL"
               curl -s "$EPG_URL" -o epg.xml.gz
-              if gunzip -f epg.xml.gz; then
+              if gunzip -f epg.xml.gz 2>/dev/null; then
                   EPG_AVAILABLE=1
               else
-                  echo "EPG decompression failed"
+                  echo "Attenzione: EPG non decompresso correttamente"
                   EPG_AVAILABLE=0
               fi
           else
-              echo "EPG URL non trovato, salto controllo EPG"
+              echo "EPG URL non trovato nella playlist, salto controllo EPG"
               EPG_AVAILABLE=0
           fi
 
           echo "--- Details ---" >> $REPORT
           echo "" >> $REPORT
 
-          # Inizializza contatori
+          # Inizializza i contatori
           TOTAL=0
           WORKING=0
           DOWN=0
@@ -50,7 +52,7 @@ jobs:
           EPG_OK=0
           EPG_MISSING=0
 
-          # Leggi la playlist senza subshell
+          # Legge la playlist senza creare subshell (process substitution)
           while read -r LINE; do
               if [[ $LINE == \#EXTINF* ]]; then
                   CHANNEL_NAME=$(echo "$LINE" | sed 's/.*,//')
@@ -60,6 +62,7 @@ jobs:
 
               URL="$LINE"
 
+              # Salta i canali con problemi noti
               if [[ $CHANNEL_NAME =~ $SKIP_LIST ]]; then
                   echo "[SKIP]  $CHANNEL_NAME | Skipped (known issue)" >> $REPORT
                   SKIPPED=$((SKIPPED+1))
@@ -68,7 +71,8 @@ jobs:
 
               TOTAL=$((TOTAL+1))
 
-              if curl -Is --max-time 5 "$URL" >/dev/null; then
+              # Verifica lo stream
+              if curl -Is --max-time 5 "$URL" >/dev/null 2>&1; then
                   STREAM_STATUS="OK"
                   WORKING=$((WORKING+1))
               else
@@ -76,7 +80,8 @@ jobs:
                   DOWN=$((DOWN+1))
               fi
 
-              if [[ $EPG_AVAILABLE -eq 1 && -n "$TVG_ID" ]] && grep -q "channel id=\"$TVG_ID\"" epg.xml; then
+              # Verifica EPG
+              if [[ $EPG_AVAILABLE -eq 1 && -n "$TVG_ID" ]] && grep -q "channel id=\"$TVG_ID\"" epg.xml 2>/dev/null; then
                   EPG_STATUS="EPG OK"
                   EPG_OK=$((EPG_OK+1))
               else
@@ -88,6 +93,7 @@ jobs:
 
           done < <(awk '/^#EXTINF/ { extinf=$0 } /^http/ { print extinf "\n" $0 }' "$PLAYLIST")
 
+          # Scrive il riepilogo
           echo "" >> $REPORT
           echo "Total channels tested: $TOTAL" >> $REPORT
           echo "Skipped: $SKIPPED" >> $REPORT
@@ -96,8 +102,23 @@ jobs:
           echo "EPG OK: $EPG_OK" >> $REPORT
           echo "EPG Missing: $EPG_MISSING" >> $REPORT
 
-      - name: Upload report artifact
-        uses: actions/upload-artifact@v6
-        with:
-          name: iptv-health-report
-          path: health_report.txt
+      - name: Commit report to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p reports
+
+          # Copia il report con data nel nome
+          cp health_report.txt "reports/health_report_$(date +%Y-%m-%d).txt"
+          # Sovrascrive sempre l'ultimo report
+          cp health_report.txt reports/latest_report.txt
+
+          git add reports/
+
+          if git diff --staged --quiet; then
+            echo "Nessuna modifica da committare"
+          else
+            git commit -m "Aggiornamento report salute playlist $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
