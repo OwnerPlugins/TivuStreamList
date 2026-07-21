@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          ref: list
+          ref: list   # IMPORTANTE: usa il branch corretto
 
       - name: Run health check
         run: |
@@ -60,66 +60,62 @@ jobs:
           EPG_OK=0
           EPG_MISSING=0
 
-          # Legge il file riga per riga
-          while IFS= read -r LINE; do
-              if [[ $LINE == \#EXTINF* ]]; then
-                  CHANNEL_NAME=$(echo "$LINE" | sed 's/.*,//')
-                  TVG_ID=$(echo "$LINE" | sed -n 's/.*tvg-id="\([^"]*\)".*/\1/p')
+          # Estrae le coppie #EXTINF + URL (anche con righe intermedie)
+          awk '
+            BEGIN { extinf="" }
+            /^#EXTINF/ { extinf=$0 }
+            /^https?:\/\// {
+                if (extinf != "") {
+                    print extinf "\t" $0
+                    extinf=""
+                }
+            }
+            /^#/ && !/^#EXTINF/ { next }
+            /^$/ { next }
+            END { if (extinf != "") print extinf "\t" }
+          ' "$PLAYLIST" | while IFS=$'\t' read -r extinf url; do
 
-                  # Cerca la prossima riga che inizia con http (salta #EXTVLCOPT, commenti, ecc.)
-                  while IFS= read -r NEXT_LINE; do
-                      if [[ $NEXT_LINE =~ ^https?:// ]]; then
-                          URL="$NEXT_LINE"
-                          break
-                      fi
-                      # Se la riga successiva è #EXTINF o fine file, esci
-                      if [[ $NEXT_LINE == \#EXTINF* ]] || [[ -z "$NEXT_LINE" ]]; then
-                          URL=""
-                          break
-                      fi
-                  done < <(tail -n +$((LINENO+1)) "$PLAYLIST" | head -n 10)  # Cerca nelle prossime 10 righe
+              CHANNEL_NAME=$(echo "$extinf" | sed 's/.*,//')
+              TVG_ID=$(echo "$extinf" | sed -n 's/.*tvg-id="\([^"]*\)".*/\1/p')
 
-                  if [ -z "$URL" ]; then
-                      echo "[SKIP]  $CHANNEL_NAME | No URL found" >> $REPORT
-                      continue
-                  fi
-
-                  # Salta i placeholder
-                  if [[ $URL == *"startend.avi"* ]]; then
-                      echo "[SKIP]  $CHANNEL_NAME | Placeholder skipped" >> $REPORT
-                      SKIPPED=$((SKIPPED+1))
-                      continue
-                  fi
-
-                  if [[ $CHANNEL_NAME =~ $SKIP_LIST ]]; then
-                      echo "[SKIP]  $CHANNEL_NAME | Skipped (known issue)" >> $REPORT
-                      SKIPPED=$((SKIPPED+1))
-                      continue
-                  fi
-
-                  TOTAL=$((TOTAL+1))
-
-                  # Verifica lo stream (solo m3u8/mpd/playlist.m3u8)
-                  if curl -Is --max-time 5 "$URL" >/dev/null 2>&1; then
-                      STREAM_STATUS="OK"
-                      WORKING=$((WORKING+1))
-                  else
-                      STREAM_STATUS="DOWN"
-                      DOWN=$((DOWN+1))
-                  fi
-
-                  # Verifica EPG
-                  if [[ $EPG_AVAILABLE -eq 1 && -n "$TVG_ID" ]] && grep -q "channel id=\"$TVG_ID\"" epg.xml 2>/dev/null; then
-                      EPG_STATUS="EPG OK"
-                      EPG_OK=$((EPG_OK+1))
-                  else
-                      EPG_STATUS="EPG MISSING"
-                      EPG_MISSING=$((EPG_MISSING+1))
-                  fi
-
-                  echo "[$STREAM_STATUS]  $CHANNEL_NAME | Stream $STREAM_STATUS | $EPG_STATUS" >> $REPORT
+              if [ -z "$url" ]; then
+                  echo "[SKIP]  $CHANNEL_NAME | No URL found" >> $REPORT
+                  SKIPPED=$((SKIPPED+1))
+                  continue
               fi
-          done < "$PLAYLIST"
+
+              if [[ $url == *"startend.avi"* ]]; then
+                  echo "[SKIP]  $CHANNEL_NAME | Placeholder skipped" >> $REPORT
+                  SKIPPED=$((SKIPPED+1))
+                  continue
+              fi
+
+              if [[ $CHANNEL_NAME =~ $SKIP_LIST ]]; then
+                  echo "[SKIP]  $CHANNEL_NAME | Skipped (known issue)" >> $REPORT
+                  SKIPPED=$((SKIPPED+1))
+                  continue
+              fi
+
+              TOTAL=$((TOTAL+1))
+
+              if curl -Is --max-time 5 "$url" >/dev/null 2>&1; then
+                  STREAM_STATUS="OK"
+                  WORKING=$((WORKING+1))
+              else
+                  STREAM_STATUS="DOWN"
+                  DOWN=$((DOWN+1))
+              fi
+
+              if [[ $EPG_AVAILABLE -eq 1 && -n "$TVG_ID" ]] && grep -q "channel id=\"$TVG_ID\"" epg.xml 2>/dev/null; then
+                  EPG_STATUS="EPG OK"
+                  EPG_OK=$((EPG_OK+1))
+              else
+                  EPG_STATUS="EPG MISSING"
+                  EPG_MISSING=$((EPG_MISSING+1))
+              fi
+
+              echo "[$STREAM_STATUS]  $CHANNEL_NAME | Stream $STREAM_STATUS | $EPG_STATUS" >> $REPORT
+          done
 
           echo "" >> $REPORT
           echo "Total channels tested: $TOTAL" >> $REPORT
@@ -134,9 +130,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p reports
-          cp health_report.txt "reports/health_report_$(date +%Y-%m-%d).txt"
+          # Sovrascrive sempre latest_report.txt
           cp health_report.txt reports/latest_report.txt
-          git add reports/
+          git add reports/latest_report.txt
           if git diff --staged --quiet; then
             echo "Nessuna modifica da committare"
           else
