@@ -1,0 +1,12 @@
+Playlist Health Check Report
+Generated: 2026-07-21 17:19 UTC
+
+--- Details ---
+
+
+Total channels tested: 0
+Skipped: 0
+Working streams: 0
+Broken streams: 0
+EPG OK: 0
+EPG Missing: 0
