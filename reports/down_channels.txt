@@ -1,5 +1,5 @@
 # CANALI DOWN
-# Generated: 2026-07-22 02:47 UTC
+# Generated: 2026-07-23 02:53 UTC
 # Formato: NOME_CANALE URL
 
 RAI 1 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
@@ -37,9 +37,13 @@ Tele Ponte Abruzzo https://54627d4fc5996.streamlock.net/ekuotv/ekuotv/playlist.m
 Carina TV https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
 Radio Carina TV https://samson.streamerr.co:8081/carinatv/index.m3u8
 Canale 8 https://59d8c0cee6f3d.streamlock.net/canale8/canale8/chunklist_w592700549.m3u8
+Lab TV https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.labtv.net
+LabTV https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
 Tele A (Canale 18 Campania) https://lostream.it/hls/telea/video.m3u8
 VideoNola https://videonola.aswifi.it/videonolaabr/live.m3u8
 Ran Friul https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8
+Odeon 24 https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
+SL48 https://streaming.softwarecreation.it/sl48/sl48/playlist.m3u8
 Teleitalia 41 https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8
 Canale1 Lombardia https://media2.streambrothers.com:19360/8160/8160.m3u8
 Valenza TV https://uvotv.zappr.stream/368.m3u8
@@ -64,10 +68,11 @@ CDN Deportes (720p) http://200.125.170.122:8000/play/a03j/index.m3u8
 DAZN Combat (1080p) https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 DSports Uruguay https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 ESPN Deportes (360p) http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-FB TV http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 Fight Network (1080p) https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 Fox Deportes (1280p) https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 Fox Sports 1 (1280p) https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+FUEL TV Europe https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+Futbol https://live.teleradiocom.tj/8/3m.m3u8
 Game Channel http://49.113.179.174:4022/udp/238.125.1.36:5140
 Gol Classics https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 Golf Channel Latin America http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
@@ -77,7 +82,6 @@ L'Equipe (1080p) https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d
 Lóverseny közvetítés (420p) http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
 Match! Boets (576p) http://tmptv.sunduk.tv/CH51/index.m3u8
 Meridiano TV (480p) https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
-MNB Sport https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 MSG Plus (720p) [Not 24/7] https://tvpass.org/live/msg-plus/hd
 NBC Sports Bay Area (720p) [Not 24/7] https://tvpass.org/live/nbc-sports-bay-area/hd
 NBC Sports Boston (1080p) [Not 24/7] https://tvpass.org/live/nbc-sports-boston/hd
@@ -103,9 +107,8 @@ SKI TV (1080p) [Not 24/7] https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d0625
 SMG Football Channel http://49.113.179.174:4022/udp/238.125.2.142:5140
 Sony Sports Ten 5 HD (1080p) http://103.122.249.134:8000/play/a03d
 SOS Kanal Plus https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-Sport Italia (1080p) https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+Sport 1 (1280p) http://46.149.191.217:9005/play/a017
 Sports TV (720p) [Geo-blocked] https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-SportsGrid https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 SporTV (1280p) https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 SporTV 2 (1280p) https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 SporTV 2 Alternativo (720p) https://stm.sinalmycn.com/19025/video.m3u8
@@ -122,7 +125,6 @@ TDM Sports Ch. 93 (720p) https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3
 Teledeporte (1080p) http://92.176.119.180:2095/play/a16t
 Ten Sports Pakistan http://121.91.61.106:8000/play/a04h/index.m3u8
 The Cycling Channel https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
-Trace Sport Stars https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
 TSN1 (1080p) [Not 24/7] https://tvpass.org/live/tsn1/hd
 TSN2 (1080p) [Not 24/7] https://tvpass.org/live/tsn2/hd
 TSN3 (1080p) [Not 24/7] https://tvpass.org/live/tsn3/hd
@@ -131,20 +133,21 @@ TSN5 (1080p) [Not 24/7] https://tvpass.org/live/tsn5/hd
 Turf Movil https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 TVMatic Fight (720p) http://cdn.tvmatic.net/fight.m3u8
 TVP Sport (1080p) https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-Varzesh TV https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 viju+ Sport (576p) http://tmptv.sunduk.tv/CH131/index.m3u8
 World of Freesports https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 Zoy TV Sports 1 (1080p) [Not 24/7] https://mio.zoymilton.com/ZoyEventos/index.m3u8
-Матч! Планета (720p) https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
 УТРК Спорт (480p) [Not 24/7] https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+江苏体育 (576p) http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 L'Altro Corriere Tv https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
-ADN 40 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 Canal 1 Mar Menor Torre Pacheco https://directo.tuwebtv.es/canal1.m3u8
 Channel One https://pemirateshls.persiana.live/hls/stream.m3u8
 Channel Y https://cdn19.live247stream.com/channely/tv/playlist.m3u8
+Desh TV https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 Geo Tez https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 Haiti News Channel https://haititivi.com/website/haitinews/index.m3u8
 Hamdard TV https://tv.hamdardtv.com/hamdard/index.m3u8
+High News https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+Iran Press https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 Kalaignar Seithigal https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 Legendarnyy 24 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 Millet https://live1.1tvcrimea.ru/milletlive.m3u8
@@ -153,23 +156,25 @@ Monaco Info https://webtv.monacoinfo.com/live/prod/index.m3u8
 Nanduti https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8
 NBC 2 https://hls2.nbcplus.na/hls/high_nbc2.m3u8
 News1 https://news1.live14.com/stream/news1.m3u8
+News12 Bronx https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
+News12 Long Island https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
 Nopola News https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 Observator News https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 Polimer News https://live-cf-polimernews.dailyhunt.in/master.m3u8
+Press TV https://live.presstv.ir/hls/presstv.m3u8
 PRO TV Chisinau https://stream.protv.md/live/sursa-1/index.m3u8
-Radio Ancon https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 RCR https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 Sathiyam TV https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
-Sudarshan News https://cdn-2.pishow.tv/live/1516/master.m3u8
-Times Now Navbharat https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
-TV13 Gujarati https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+The First TV https://thefirst-oando.amagi.tv/playlist.m3u8
+Tonghua TV https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 4 Fun TV https://srv1.adriatelekom.com/4FunTV/index.m3u8
 4 Music https://itthls.wns.live/hls/stream.m3u8
 88 Stereo https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 AMC https://amchls.wns.live/hls/stream.m3u8
 AMusic Channel https://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
 California Music Channel https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
-Dismar Radio TV https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+DanceTV Techno Warehouse https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+DBM TV https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 Farra Play https://159.203.148.226/live/farra.m3u8
 Finest TV https://media.finest.tv/hls/live.m3u8
 Gugak TV https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
@@ -181,21 +186,16 @@ Memorias FM Pop Latino https://video.xtrematv.com:3891/live/memoriaspoplatinoliv
 Memorias TV Classic https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
 Memorias TV Tropical https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 Mooz Dance https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-NOW 70s https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
-NOW 80s https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
-NOW Rock https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
-Power Dance https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-Power Love https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-PowerTurk Slow https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+Radio TV Serda https://stream.ejatv.com/memfs/dff807e1-b3b2-49f5-92d6-5b178be4eb6d_output_0.m3u8
 Radionorba TV http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8#EXTINF:-1,7 RadioVisione (720p)
 Rararadio https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
-Vevo '90s https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8
+Tarab https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
 Video Tour Channel https://k4.usastreams.com/videotour/videotour/playlist.m3u8
-Virgin Radio TV https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 FUEL TV https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 That's 70s https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+That's 80s https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 wedo Big Stories https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-videosolutions-wedobigstories-rakuten/CDN/master.m3u8
-Africa 563 https://outbound-production.explore.org/stream-production-563.m3u8
+The Pet Collective https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-5f170d61b898490041b49369.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ReeL7vsBisvCW9xebomo
 cam.indikom.ru/2 https://cam.indikom.ru/2/hls/stream.m3u8
 cam.indikom.ru/9 https://cam.indikom.ru/9/hls/stream.m3u8
 cam.indikom.ru/26 https://cam.indikom.ru/26/hls/stream.m3u8
@@ -208,15 +208,11 @@ cổng trường Nguyễn Huệ Đà Nẵng http://free.fullspeed.tv/iptv-query?
 Landshut Burg http://tdt.shmhost.net/burg/livestream.m3u8
 Quảng Ngãi http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=P1CmJ1YJehA
 Trang phục Biểu diễn Phương Trần Đà Nẵng http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dy_oDZhAKic
-USA - feeder http://live.idnes.cz/slow/krmitkousa/HasBahCa.m3u8
 USA - Kure Beach http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/playlist.m3u8
 USA - Southport http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/HasBahCa.m3u8
 USA - Southport http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/playlist.m3u8
 USA - Southport 2 http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/playlist.m3u8
-USA - Кормушка http://live.idnes.cz/slow/krmitkousa/playlist.m3u8
 USA Independence State Airport https://5ddd47d64e730.streamlock.net:444/jeannesflyingservice1/jeannesflyingservice1.stream/chunklist_w1266566556.m3u8
-Абакан 3 http://abkvideo1.orionnet.online/cam798/tracks-v1/mono.m3u8
-Абакан 4 http://abkvideo1.orionnet.online/cam925/tracks-v1/mono.m3u8
 Абакан 5 http://krkvideo5.orionnet.online/cam2061/index.m3u8
 Балашиха 1 https://webcams.glavstroy.ru/100lichny-2/stream.m3u8
 Балашиха 2 https://webcams.glavstroy.ru/100lichny-1/stream.m3u8
@@ -241,7 +237,6 @@ USA Independence State Airport https://5ddd47d64e730.streamlock.net:444/jeannesf
 Назарово 2 http://cam.sibmf.ru:8081/hls/122754/1d882e4eef0d5b7dad13/playlist.m3u8
 Назарово 5 https://cam.sibmf.ru:18080/hls/122757/bde5deadb3cb8b77bb34/playlist.m3u8
 Пушкино 1 https://cam.indikom.ru/29/hls/stream.m3u8
-Турция 6 http://ibb-media2.ibb.gov.tr:1935/live/648.stream/chunklist.m3u8
 Усинск 1 http://dvr.usinsknet.ru:8081/hls/719/6e03633449373fdf614c/playlist.m3u8
 Усинск 2 http://dvr.usinsknet.ru:8081/hls/611/fcd213f04a80a7bab226/playlist.m3u8
 Усинск 3 http://dvr.usinsknet.ru:8081/hls/716/eb2c2d5b05e93ba125ef/playlist.m3u8
@@ -250,6 +245,3 @@ USA Independence State Airport https://5ddd47d64e730.streamlock.net:444/jeannesf
 Шахтинск 2 http://45.13.18.225:8080/hls/41571/cb185e076efb16645f3b/playlist.m3u8
 Шахтинск 3 http://45.13.18.225:8080/hls/41567/83b147da59f31400ebbf/playlist.m3u8
 Ялуторовск 3 https://cam.a-com.tv:18080/hls/1207/b36af564a692eb929c73/playlist.m3u8
-安徽-黄山卧云峰 https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
-湖南-宝峰湖 https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8?contentid=2820180516001
-湖南-张家界迷魂台 https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
