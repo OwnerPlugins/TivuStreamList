@@ -1,5 +1,5 @@
 #EXTM3U
-# Playlist dei canali non funzionanti - Generated: 2026-10-22 03:44 UTC
+# Playlist dei canali non funzionanti - Generated: 2026-10-23 03:48 UTC
 #EXTINF:-1 tvg-id="MediasetItalia.it@SD",Mediaset Italia [Geo-blocked]
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/PlusTVSport.png" group-title="Canali PlusTv",Plus TV Sport
@@ -16,18 +16,30 @@ https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
 https://samson.streamerr.co:8081/carinatv/index.m3u8
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/calabriauno-tva.png" tvg-id="",CalabriaUno TV
 https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
-#EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-9.png" tvg-id="Canale.5.it",Canale 9
-https://comvideo.it/hls/canale9/video.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-8.png" tvg-id="Canale.8.it",Canale 8
 https://59d8c0cee6f3d.streamlock.net/canale8/canale8/chunklist_w592700549.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tele-a-canale-18-campania.png" tvg-id="",Tele A (Canale 18 Campania)
 https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/videonola-dibtmrfa4k9a.png" tvg-id="",VideoNola
 https://videonola.aswifi.it/videonolaabr/live.m3u8
+#EXTINF:-1 group-title="Emilia Romagna" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/videoregione.png" tvg-id="",Videoregione
+https://stream.videoregione.it/hls/vr99/index.m3u8
+#EXTINF:-1 group-title="Emilia-Romagna" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/videoregione.png" tvg-id="",Videoregione
+https://stream.videoregione.it/vr99.mp4
+#EXTINF:-1 group-title="Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/ran-germ.png" tvg-id="",Ran Germ
+https://load-balancer.azotosolutions.com/cdnedge34/rangerm/playlist.m3u8
 #EXTINF:-1 group-title="Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/ran-network.png" tvg-id="",Ran Network
 https://load-balancer.azotosolutions.com/cdnedge34/ranetwork/playlist.m3u8
+#EXTINF:-1 group-title="Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/ran-news.png" tvg-id="RaiNews24.it",Ran News
+https://load-balancer.azotosolutions.com/cdnedge34/ranwes/playlist.m3u8
+#EXTINF:-1 group-title="Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/ran-slo.png" tvg-id="",Ran Slo
+https://load-balancer.azotosolutions.com/cdnedge34/ranslo/playlist.m3u8
 #EXTINF:-1 group-title="Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/ran-sport.png" tvg-id="RaiSport.it",Ran Sport
 https://load-balancer.azotosolutions.com/cdnedge34/ransport/playlist.m3u8
+#EXTINF:-1 group-title="Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/ran-stereo.png" tvg-id="",Ran Stereo
+https://load-balancer.azotosolutions.com/cdnedge34/ranstereo/playlist.m3u8
+#EXTINF:-1 group-title="Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tele-alto-but.png" tvg-id="",Tele Alto But
+https://load-balancer.azotosolutions.com/cdnedge34/telealtobut/playlist.m3u8
 #EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/alma-tv.png" tvg-id="",Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 group-title="Lazio" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/gold-tv-roma.png" tvg-id="",Gold TV Roma
@@ -72,14 +84,14 @@ https://samson.streamerr.co:8081/telegalileo-1/index.m3u8
 https://diretta.umbriapiu.it:8080/show/show.m3u8
 #EXTINF:-1 group-title="Veneto" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telecitt�-padova.png" tvg-id="",Telecitt� Padova
 https://tango.wifi4all.it/telecitta/telecitta.m3u8
+#EXTINF:-1 group-title="Veneto" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/telenuovo.png" tvg-id="",Telenuovo
+https://ovp-live.akamaized.net/ac106_live/ac106_source_001_3/playlist.m3u8
 #EXTINF:-1 group-title="Veneto" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tva-vicenza.png" tvg-id="",Tva Vicenza
 https://5cdb29755e02b.streamlock.net:1936/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rsi-la1.png" group-title="Canali Svizzera It",RSI La1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rsi-la2-i2lwhb01iqwr.png" group-title="Canali Svizzera It",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Alfa Sport (1080p) [Not 24/7]
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-logo="" group-title="SPORT",beIN SPORTS Xtra (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.vf=kBQplLldqQO
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Canal do Inter (720p) [Not 24/7]
@@ -136,6 +148,8 @@ http://31.148.48.15/Match_Strana/index.m3u8
 https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",MMA-TV (576p)
 http://31.148.48.15/M1_Global/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",MSG Plus (720p) [Not 24/7]
 https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 tvg-logo="" group-title="SPORT",NBC Sports Bay Area (720p) [Not 24/7]
@@ -194,6 +208,8 @@ http://49.113.179.174:4022/udp/238.125.2.142:5140
 http://103.122.249.134:8000/play/a03d
 #EXTINF:-1 tvg-logo="" group-title="SPORT",SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",SportKlub 10 [HR]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk10/default/index.mpd?ck=ZmFlOGVjMjhmMTc2NWRhNmFiZGY4ZGQ0ZWRmMjkyMjc6OGJjNmVjZWJmZWQ3ZDUwYWNjZDI4OWJkMjllMGM1YzgsOWM0Y2ExMjU4OWVmNWJhZTkzNjIxMmZjZGRmODdiOTA6OWNmOGJkNTRjODViOGQ5NzMyMGIwZmRhNDUwNWM2MTQ=&headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",SportsGrid (1080p)
@@ -270,8 +286,8 @@ https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",L'Altro Corriere Tv
 https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",Real News Kerala
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee41PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9nCeR.sdp/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Al Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Canal 1 Mar Menor Torre Pacheco
@@ -282,10 +298,12 @@ https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU
 https://pemirateshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Channel Y
 https://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Chifeng Comprehensive News Chanel
+https://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Haiti News Channel
 https://haititivi.com/website/haitinews/index.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Informatia TV
-https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Hamdard TV
+https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Iran Press
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Kalaignar Seithigal
@@ -300,12 +318,8 @@ https://live1.1tvcrimea.ru/milletlive.m3u8
 https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",NBC 2
 https://hls2.nbcplus.na/hls/high_nbc2.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",News Central
-https://wf.newscentral.ng:8443/hls/stream.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",News1
 https://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",News12 Bronx
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Observator News
 https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Polimer News
@@ -318,16 +332,18 @@ https://stream.protv.md/live/sursa-1/index.m3u8
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",RCR
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Real News Kerala
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",RPP TV
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",RT DE
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",RT India
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Samay Kolkata
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Sathiyam TV
 https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",The Reuters 60 FAST
 https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",TRT
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",TV-Nord
@@ -340,22 +356,22 @@ https://srv1.adriatelekom.com/4FunTV/index.m3u8
 https://itthls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",88 Stereo
 https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",AMC
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",AMusic Channel
 https://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",CMC TV
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Cumbia Mix
-https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Dismar Radio TV
-https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Canal Clave
+https://tv.picta.cu/clave/clave_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",EnerGeek Radio
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Farra Play
 https://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Finest TV
 https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",GO TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Gugak TV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Juice TV
@@ -368,6 +384,8 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 https://movil.ejeserver.com/live/lamoradatv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Marina TV
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MasMusica FM
+https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Memorias del Corazon
 https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Memorias FM Pop Latino
@@ -378,12 +396,12 @@ https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
 https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Mosaique FM
+https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Music Information Channel
 https://mic.siar.us/mic/live/mic.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",PRIDEtv LATAM
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Monumental TV
-https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio TV Sal One
 https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio Weser TV Bremen
@@ -392,6 +410,8 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8#EXTINF:-1,7 RadioVisione (720p)
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Rararadio
 https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Tarab
 https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Tropical Music TV
@@ -406,12 +426,10 @@ https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056
 https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Video Tour Channel
 https://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",Vos y TV
-https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",ZFM Zoetermeer TV
-https://zfmzoetermeer.nl/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png" group-title="News",Newsmax2
-https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-5fb81660b7ad2d002dcb7335.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ReeL7vsBisvCW9xebomo
+#EXTINF:-1 tvg-logo="" group-title="WEBCAM",cam.indikom.ru/2
+https://cam.indikom.ru/2/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WEBCAM",cam.indikom.ru/59
+https://cam.indikom.ru/59/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",CAMERA PTZ KHÁCH SẠN HẢI TRIỀU ĐÀ NẴNG
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wAosJr8hMX8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",cổng sau Bệnh viện C Đà Nẵng
@@ -420,8 +438,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=04eLa1JjtO0
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",cổng trường Nguyễn Huệ Đà Nẵng
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=1M2IE21aUy4
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Greece - Corfu International Airport
-https://corfulive.gr/laveranda/laveranda.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WEBCAM",GOIÂNIA - Morro do Mendanha
+https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w182959856.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Landshut Burg
 http://tdt.shmhost.net/burg/livestream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Poland - Slowik Ski
@@ -430,14 +448,10 @@ http://91.224.104.112:8181/xxx_wyciag_II/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=P1CmJ1YJehA
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Trang phục Biểu diễn Phương Trần Đà Nẵng
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dy_oDZhAKic
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",UK - Apperley Bridge
-http://maybach.railcam.co.uk/ApperleyBridge_20194/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",USA - Estes Park
 http://cdn.estesparkwebcams.com/prospect3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",USA - Kure Beach
 http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",USA - Platypus
-https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",USA - Southport
 http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",USA - Southport
@@ -446,8 +460,6 @@ http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/playlist.m3u8
 http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",USA Independence State Airport
 https://5ddd47d64e730.streamlock.net:444/jeannesflyingservice1/jeannesflyingservice1.stream/chunklist_w1266566556.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Webcamhotelalexander
-https://hotelalexander.it-wms.com/clip_current_720p.mp4
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Абакан 5
 http://krkvideo5.orionnet.online/cam2061/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Балашиха 1
@@ -466,6 +478,8 @@ https://webcams.glavstroy.ru/100lichny-6/stream.m3u8
 https://webcams.glavstroy.ru/100lichny-8/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Балашиха 9
 https://webcams.glavstroy.ru/100lichny-9/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Верхняя Салда 4
+https://www.forpost96.ru:8443/hls/174581/dd2ba6343435c6c39864/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Всеволожск - мкр.Южный
 http://109.230.128.131:8080/sotnikova1/tracks-v1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Всеволожск - мкр.Южный 1
@@ -490,6 +504,8 @@ https://flussonic.king-online.ru/camera04/index.m3u8
 http://flussonic.king-online.ru/camera04/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Красноярск 10
 http://krkvideo5.orionnet.online/cam2061/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Мытищи 8
+http://cam.indikom.ru/59/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Назарово 2
 http://cam.sibmf.ru:8081/hls/122754/1d882e4eef0d5b7dad13/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Назарово 5
@@ -504,24 +520,20 @@ http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/HasBahCa.m3u8
 http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Одинцово 3
 http://cam.indikom.ru/53/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Пушкино 3
-http://cam.indikom.ru/29/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Пушкино
+http://cam.indikom.ru/15/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WEBCAM",США - Утконос
+https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Турция 6
+http://ibb-media2.ibb.gov.tr:1935/live/648.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Улан-Удэ 1
+http://stream.trafjam.ru/cam3_site/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Усинск 1
 http://dvr.usinsknet.ru:8081/hls/719/6e03633449373fdf614c/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Усинск 2
 http://dvr.usinsknet.ru:8081/hls/611/fcd213f04a80a7bab226/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Усинск 3
 http://dvr.usinsknet.ru:8081/hls/716/eb2c2d5b05e93ba125ef/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Чехия - Аэропорт
-http://live.idnes.cz/slow/planespotting/HasBahCa.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Чехия - Аэропорт
-http://live.idnes.cz/slow/planespotting_720p/HasBahCa.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Чехия - Аэропорт
-http://live.idnes.cz/slow/planespotting/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Чехия - Бегемоты
-http://live.idnes.cz/slow/hrosi/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WEBCAM",Чехия - Ж/д вокзал Яромерж
-http://live.idnes.cz/slow/jaromer/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Шахтинск 1
 http://45.13.18.225:8080/hls/41645/739afa6a30317e043b0d/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Шахтинск 2
