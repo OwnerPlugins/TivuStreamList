@@ -3,7 +3,7 @@
 https://github.com/OwnerPlugins/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-calabria.png" tvg-id="",Rai 3 TGR Calabria
 https://tgrcalabria-live.akamaized.net/hls/live/2025561/tgrcalabria/tgrcalabria/playlist.m3u8
-#EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/95-rete-reggio.png" tvg-id="",95 Rete Reggio
+#EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/95-rete-reggio.png" tvg-id="",GS Channel
 https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/calabriauno-tva.png" tvg-id="",CalabriaUno TV
 https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
@@ -27,8 +27,6 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S18645024/mMAMHAA4IyPq/playlist.m3u8
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/lac-tv-calabria.png" tvg-id="",LaC Tv Calabria
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
-#EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-9.png" tvg-id="Canale.5.it",Canale 9
-https://comvideo.it/hls/canale9/video.m3u8
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/laltro-corriere-tv.png" tvg-id="",L'altro Corriere TV
 https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/eccellenza-calabria.png" tvg-id="",Eccellenza Calabria

@@ -63,6 +63,8 @@ https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 https://stream9.xdevel.com/video0s975429-131/stream/playlist.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rtc-quarta-rete.png" tvg-id="",SET TV
 https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/retea.png" tvg-id="",Rete A
+https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/set-tv-campania.png" tvg-id="",Rtc Quarta Rete
 https://stream1.aswifi.it/settv/live/index.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-stereo-5-tv.png" tvg-id="",Stereo 5 TV
