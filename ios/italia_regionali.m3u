@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="REGIONALI ITALIA",---LAST UPDATE 16-11-2026 H. 06.57---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="REGIONALI ITALIA",---LAST UPDATE 23-11-2026 H. 07.57---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1 group-title="Abruzzo" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/logoz/regioni/abruzzo.png" tvg-id="",=== Abruzzo===
@@ -76,7 +76,7 @@ https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
 https://github.com/OwnerPlugins/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/tgr-calabria.png" tvg-id="",Rai 3 TGR Calabria
 https://tgrcalabria-live.akamaized.net/hls/live/2025561/tgrcalabria/tgrcalabria/playlist.m3u8
-#EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/95-rete-reggio.png" tvg-id="",95 Rete Reggio
+#EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/95-rete-reggio.png" tvg-id="",GS Channel
 https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/calabriauno-tva.png" tvg-id="",CalabriaUno TV
 https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
@@ -100,8 +100,6 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S18645024/mMAMHAA4IyPq/playlist.m3u8
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/lac-tv-calabria.png" tvg-id="",LaC Tv Calabria
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
-#EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/canale-9.png" tvg-id="Canale.5.it",Canale 9
-https://comvideo.it/hls/canale9/video.m3u8
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/laltro-corriere-tv.png" tvg-id="",L'altro Corriere TV
 https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
 #EXTINF:-1 group-title="Calabria" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/eccellenza-calabria.png" tvg-id="",Eccellenza Calabria
@@ -209,6 +207,8 @@ https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 https://stream9.xdevel.com/video0s975429-131/stream/playlist.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/rtc-quarta-rete.png" tvg-id="",SET TV
 https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/retea.png" tvg-id="",Rete A
+https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/set-tv-campania.png" tvg-id="",Rtc Quarta Rete
 https://stream1.aswifi.it/settv/live/index.m3u8
 #EXTINF:-1 group-title="Campania" tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/refs/heads/list/tv_image/radio-stereo-5-tv.png" tvg-id="",Stereo 5 TV
